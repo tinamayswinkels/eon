@@ -2,40 +2,80 @@
 layout: default
 ---
 
-<section class="padded light-bg tall-50">
-</section>
-
-<section class="bump-up-40 grid padded">
+<section class="grid padded-10">
   <div class="col-6">
-    <img src="{{page.banner_image}}">
-    <span class="image-caption"> {{page.banner-image-caption}} </span>
+    <div class="bg-image square" style="background-image:url({{page.banner_image}});"></div>
+    <p class="image-caption"> {{page.banner-image-caption}} </p>
   </div>
   <div class="col-6 padded">
-     <h1 class="big-bold"> {{page.heading}}</h1>
+     <h1 class="big-bold vertical-text"> {{page.heading}}</h1>
+  </div>
+  <div class="col-6 padded-t-2">
          {{page.intro-text_html}}
-</section>
-<section class="padded grid-spaceAround">
-  <div class="col-3-middle">
-    <h2 class="big-bold"> Team. </h2>
-  </div>
-  <div class="col-1 border-left"></div>
-  <div class="col-2 padded-1">
-    <h3> {{page.team-heading-1}}</h3>
-    <p> {{page.team-text-1}} </p>
-  </div>
-  <div class="col-2 padded-1">
-    <h3> {{page.team-heading-2}}</h3>
-    <p> {{page.team-text-2}} </p>
-  </div>
-  <div class="col-2 padded-1">
-    <h3> {{page.team-heading-3}}</h3>
-    <p> {{page.team-text-3}} </p>
   </div>
 </section>
+
+<style>
+
+    .image-caption {
+      transform: rotate(270deg);
+      transform-origin: top left 0;
+      margin-left: -2rem;
+      font-size: 0.8rem;
+    }
+
+    .vertical-text {
+      font-size: 8vw;
+      transform: rotate(90deg);
+      transform-origin: center bottom 0;
+      margin-left: -10%;
+    }
+
+</style>
+
+<section class="gallery padded centered padded-t-0">
+
+  {% for item in page.gallery limit:3 %}
+  <img src="{{item.image_path}}" class="{{item.size}}" alt="{{item.alt}}">
+  {% endfor %}
+</section>
+
+<section class="padded grid-spaceAround padded-t-0">
+  <div class="col-8">
+    <div class="padded-1">
+      <h2 class="big-bold campaign-heading padded-2-v"> {{page.subtitle}}.</h2>
+      {{page.campaign-text_html}}
+    </div>
+    <div class="grid padded-2-v">
+      <div class="col-3 padded-1">
+        <h3 class="subtle-heading"> {{page.team-heading-1}}</h3>
+        <p class="subtle"> {{page.team-text-1}} </p>
+      </div>
+      <div class="col-3 padded-1">
+        <h3 class="subtle-heading"> {{page.team-heading-2}}</h3>
+        <p class="subtle"> {{page.team-text-2}} </p>
+      </div>
+      <div class="col-3 padded-1">
+        <h3 class="subtle-heading"> {{page.team-heading-3}}</h3>
+        <p class="subtle"> {{page.team-text-3}} </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-4-bottom padded-1">
+      <div class="bg-image tall-portrait" style="background-image:url({{page.campaign_image}});"> </div>
+  </div>
+</section>
+
+<style>
+  .campaign-heading {
+    font-size: 15vh;
+  }
+
+</style>
 
 <section class="gallery padded centered">
 
-  {% for item in page.gallery %}
+  {% for item in page.gallery offset:3 %}
   <img src="{{item.image_path}}" class="{{item.size}}" alt="{{item.alt}}">
   {% endfor %}
   <p class="subtitle margin-top-1"> {{page.gallery-text}}</p>

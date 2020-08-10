@@ -6,7 +6,6 @@
     background-image: url('/images/adventure.jpg');
     background-size: cover;
     background-position: center;
-    min-height: 95vh;
     position: relative;
   }
 
@@ -242,12 +241,6 @@
 
 //  Home Banner
 
-.home-banner nav a {
-  display: block;
-  font-size: 1.2rem;
-  line-height: 1.1;
-  padding: 0.2rem;
-}
 
 .home-banner .bump-left {
   position: absolute;

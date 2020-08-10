@@ -80,6 +80,10 @@
     background-color: white;
   }
 
+  header.hide-logo .header-logo {
+    display: none;
+  }
+
   /* Fixed Header Option */
 
   header.fixed {
@@ -96,6 +100,24 @@
   .bump-for-header {
     min-height: 4rem;
   }
+
+
+  // Home Page Nav Links
+
+nav.hover-links {
+  position: absolute;
+  transform: rotate(270deg);
+  left: -11rem;
+  top: 16rem;
+  z-index: 3;
+}
+
+.hover-links a {
+  display: inline-block;
+  font-size: 1rem;
+  padding: 0.2rem;
+}
+
 
 
   /* Hamburger Menu */

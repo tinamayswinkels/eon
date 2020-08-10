@@ -3,13 +3,12 @@ layout: default
 title: Eyes of a Nomad | Photographer in Bali
 meta-description:
 meta-keywords:
-header-style: 
+header-style: on-top hide-logo
 featured-image_path:
-banner-1_path: /images/placeholder.jpg
+banner-1_path: /images/placeholder-2.jpg
 banner-position: 60% 30%;
-ig-images:
-  - /images/placeholder.jpg
-  - /images/placeholder.jpg
+wide_image: /images/placeholder-2.jpg
+footer_image: /images/placeholder-2.jpg
 ---
 
 <!-- this is just an example. You can safely delete these and add your own blocks -->
@@ -18,15 +17,7 @@ ig-images:
 <!-- banner -->
 
 <section class="grid home-banner">
-  <div class="col-6_sm-12 grid ">
-    <nav class="col-12 right padded-1 hover-links">
-      <a href="/" id="link-1"> Fashion </a>
-      <a href="/" id="link-2"> Lifestyle </a>
-      <a href="/" id="link-3"> Product </a>
-      <a href="/" id="link-4"> Travel </a>
-      <a href="/" id="link-5"> Hotel </a>
-      <a href="/" id="link-6"> Food </a>
-    </nav>
+  <div class="col-6_xs-12 grid">
     <div class="col-12-bottom padded-2">
       <h1 class="logo"> Eyes of a Nomad. </h1>
       <!-- <div class="padded-r padded-b">
@@ -34,37 +25,80 @@ ig-images:
     </div> -->
     </div>
   </div>
-  <div class="col-6_sm-12 banner relative" style="background-image:url('/images/placeholder.jpg')">
-      <div class="hover-image" id="image-1" style="background-image:url('/images/placeholder.jpg')"></div>
-      <div class="hover-image"id="image-2" style="background-image:url('/images/placeholder-2.jpg')"></div>
-      <div class="hover-image" id="image-3"style="background-image:url('/images/placeholder.jpg')"></div>
-      <div class="hover-image" id="image-4"style="background-image:url('/images/placeholder-2.jpg')"></div>
+  <div class="col-6_xs-12 banner tall-100 relative" style="background-image:url('/images/placeholder-2.jpg')">
+    <nav class="hover-links">
+      <a href="/" id="link-1"> Fashion </a>
+      <a href="/" id="link-2"> Lifestyle </a>
+      <a href="/" id="link-3"> Product </a>
+      <a href="/" id="link-4"> Travel </a>
+      <a href="/" id="link-5"> Hotel </a>
+      <a href="/" id="link-6"> Food </a>
+    </nav>
+    <div class="hover-image" id="image-1" style="background-image:url('/images/placeholder.jpg')"></div>
+    <div class="hover-image"id="image-2" style="background-image:url('/images/placeholder-2.jpg')"></div>
+    <div class="hover-image" id="image-3"style="background-image:url('/images/placeholder.jpg')"></div>
+    <div class="hover-image" id="image-4"style="background-image:url('/images/placeholder-2.jpg')"></div>
   </div>
 
 </section>
 
-<section class="padded-v">
-  <div class="padded-t-10">
-  <div class="light-bg">
-    <div class="grid">
-        <div class="col-6_sm-12-middle padded bump-up-8">
+<section class="padded bg-split-white-tan">
+    <div class="grid-center">
+        <div class="col-6_sm-12-middle padded">
           <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  </p>
           <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         </div>
-        <div class="col-6_sm-12-middle padded bump-up-8">
+        <div class="col-5_sm-12-middle padded">
           <h2 class="big-bold">Who.</h2>
         </div>
     </div>
-    <div class="project-loop">
+</section>
+<section class="bg-split-tan-white padded-10 padded-t-0">
+        <div class="bg-image wide-landscape" style="background-image:url({{page.wide_image}});"></div>
+    </div>
+  </div> <!-- end light-bg -->
 
-          {% for project in site.projects reversed %}
-          {% if project.categories contains 'featured' %}
+</div>
+</section>
 
-            {% include project-item.html %}
+<section class="padded centered grid-center padded-t-0">
+  <div class="col-8_sm-12">
+    <hr class="centered wide">
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
 
-          {% endif %}
-          {% endfor %}
+    <hr class="centered wide">
+  </div>
+</section>
+
+<section class="padded grid-center">
+  <div class="col-2">
+    <h3 class="vertical-text big-bold"> Feature. </h3>
+  </div>
+  <div class="col-3">
+    <div class="bg-image portrait border-05" style="background-image:url('/images/placeholder-2.jpg');"></div>
+    <div class="bg-image portrait border-05" style="background-image:url('/images/placeholder-2.jpg');"></div>
+  </div>
+  <div class="col-5 grid">
+    <div class="col-12">
+      <div class="bg-image tall-landscape border-05" style="background-image:url('/images/placeholder-2.jpg');"></div>
+    </div>
+    <div class="col-12-bottom padded-1 right">
+      <a href="/portfolio" class="emphasis"> View Full Portfolio > </a>
     </div>
   </div>
-</div>
+</section>
+
+<style>
+
+.vertical-text {
+  transform: rotate(270deg);
+    margin-left: -34vh;
+    transform-origin: bottom right 0;
+}
+
+
+</style>
+
+<section class="banner tall-50 margin-top-5" style="background-image:url({{page.footer_image}});">
+
 </section>
