@@ -269,7 +269,7 @@ hr.centered {
 .home-banner .logo {
   font-family: "PT Sans";
   font-weight: bold;
-  font-size: 5vw;
+  font-size: 10vw;
   line-height: 1.1;
   border-bottom: 3px solid;
   margin-right: -6rem;
@@ -367,6 +367,12 @@ p.emphasis {
 /* Headers and footers */
 header {
   padding: 1% 5%; }
+
+header.on-top {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 10; }
 
 header .logo {
   padding: 0.5rem 3rem;

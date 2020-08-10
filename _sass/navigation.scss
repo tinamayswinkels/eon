@@ -6,6 +6,13 @@
     // border-bottom: 1px solid #f9f0e7;
   }
 
+  header.on-top {
+    position: absolute;
+    top:0;
+    width: 100%;
+    z-index: 10;
+  }
+
   header .logo {
     padding: 0.5rem 3rem;
     max-width: 12rem;
