@@ -1,0 +1,313 @@
+
+  /* BANNERS */
+
+  .banner,
+  .banner-with-header {
+    background-image: url('/images/adventure.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 95vh;
+    position: relative;
+  }
+
+  .banner .overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(	249, 240, 231,.5);
+    z-index: 1;
+    top: 0;
+    left: 0;
+    margin: 0;
+  }
+
+  .banner-inner {
+    z-index: 2;
+    position: relative;
+  }
+
+  .fixed {
+    background-attachment: fixed;
+  }
+
+
+
+
+// IG Image Banner
+
+.ig-banner .bg-image {
+  padding-bottom: 40%;
+  border: 2px solid white;
+}
+
+  /* Hover grid */
+
+  .hover-container {
+    background-size: cover;
+    background-position: center;
+  }
+
+  .hover-overlay {
+    position: relative;
+    padding-bottom: 100%;
+    color: rgba(255, 255, 255, 0);
+    position: relative;
+    /* you only need to use relative + absolute if you want to determine the exact aspect ratio of the container */
+    transition: all 0.3s;
+  }
+
+  .hover-overlay:hover {
+    background-color: rgba(60, 60, 60, 0.7);
+    color: white;
+  }
+
+  .hover-inner {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+  .hover-inner p {
+    margin-bottom: 0;
+  }
+
+
+  /* Testimomnials */
+
+  .card {
+    padding: 2rem;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.2);
+  }
+
+  .profile {
+    max-width: 8rem;
+    border-radius: 100%;
+    margin-bottom: 2rem;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.2);
+  }
+
+  .card .author {
+    font-weight: bold;
+    margin-bottom:0;
+  }
+
+  .card .company {
+    margin-bottom: 2rem;
+  }
+
+  /* clickable boxes */
+
+  .clickable-box {
+    color: inherit;
+    text-decoration: none;
+    box-shadow: 0 rgba(0, 0, 0, 0); /* so that we can add a transition */
+    transition: 0.2s all;
+    display: block;
+  }
+
+  .clickable-box .overlay {
+    min-height:10rem;
+    padding: 5rem 2rem;
+    background-color: rgba(0,0,10,0.6);
+    color: white;
+  }
+
+  .clickable-box p {
+    margin-bottom: 0;
+  }
+
+  .clickable-box:hover {
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.4), 0 10px 20px -5px rgba(0, 0, 0, 0.4);
+    margin-top:-2px;
+  }
+
+
+/* pop-up gallery */
+
+.popup-gallery .bg-image {
+  border: 2px solid white;
+}
+
+
+/* Masonry Gallery */
+
+.masonry { /* Masonry container */
+  column-count: 3;
+  column-gap: 1rem;
+}
+
+.masonry .item { /* Masonry bricks or child elements */
+  background-color: #eee;
+  display: inline-block;
+  margin-bottom: 1rem;
+  width: 100%;
+}
+
+@media(max-width:767px) {
+  .masonry {
+    column-count: 2;
+  }
+}
+
+@media(max-width:567px) {
+  .masonry {
+    column-count: 1;
+  }
+}
+
+/* pricing cards  */
+
+.card.featured {
+  border: 2px solid orange;
+}
+
+.price {
+    font-size: 3rem;
+    font-weight: 300;
+}
+
+.pricing-name {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: rgb(120,120,125);
+}
+
+.card .button {
+  margin-top:2rem;
+}
+
+/* Responsive video */
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container.vertical {
+  padding-bottom: 162.25%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Accordian slides */
+
+.accordion dt a {
+  padding: 0.25rem;
+  margin: 0.25rem 0;
+  display:block;
+  color: #e67e22;
+  position: relative;
+  text-decoration: none;
+}
+.accordion dd {
+  padding: 0.5rem;
+}
+
+/* Accordian Icon */
+.accordion dt a::after {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: block;
+  width: 1rem;
+  height: 1rem;
+  line-height: 1;
+  text-align: center;
+  -webkit-transition: all .35s;
+  -o-transition: all .35s;
+  transition: all .35s;
+}
+
+.accordion dt a::after {
+  content: "+";
+}
+.open::after {
+  transform: rotateZ(45deg);
+}
+
+
+//  Home Banner
+
+.home-banner nav a {
+  display: block;
+  font-size: 1.2rem;
+  line-height: 1.1;
+  padding: 0.2rem;
+}
+
+.home-banner .bump-left {
+  position: absolute;
+  left: -50%;
+  width: 50%;
+}
+
+.home-banner .hover-image {
+  background-size: cover;
+  background-position: contain;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom:0;
+  right: 0;
+  opacity: 0;
+  transition:all .3s ease;
+}
+
+.active {
+  color: #be9a85;
+}
+
+
+
+// portfolio section
+
+.portfolio {
+  padding-top:10%;
+  padding-bottom: 10%;
+}
+
+.portfolio-item .bg-image {
+  padding-bottom: 120%;
+  margin-bottom: 1.5rem;
+  transition: all 0.5s;
+  margin-top: 2rem;
+}
+
+.portfolio-item:hover .bg-image {
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+}
+
+.portfolio-item h2 {
+  border-bottom: 1px solid;
+  font-size: 1.5rem;
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.portfolio-item p {
+  font-size: 0.9rem;
+  font-weight: 300;
+}
+.portfolio .bump-up {
+  margin-top:-10vw;
+}
+
+.border-left {
+  border-left: 2px solid;
+}

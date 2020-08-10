@@ -1,0 +1,343 @@
+/*-----  CSS RESET  ------*/
+
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth; /* this enables smooth scrolling between internal links */
+  }
+
+  // section {
+  //   overflow-y: auto;
+  // }
+
+  .relative {
+    position: relative;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  img {
+    max-width: 100%; /* this ensures images never break their container */
+    height: auto;
+    display: inline-block;
+  }
+
+  .bg-image {
+    background-size: cover;
+    background-position: center;
+    background-color: #F2EEE9;
+  }
+
+  body {
+    font-family: orpheuspro, serif;
+    color: #414141;
+  }
+
+   /* this overrides the default padding and margin on gridlex elements */
+  [class*=grid] {   margin: 0;  }
+  [class*=col]  {   padding: 0; }
+
+
+  /* ------------- Utility Classes --------------  */
+
+  .left     {  text-align: left;     }
+  .right    {  text-align: right;    }
+  .centered {  text-align: center;   }
+
+  .padded   {  padding: 5%;    }
+  .padded-v {  padding-top: 5%; padding-bottom: 5%;  }
+  .padded-5vw { padding: 5vw;  }
+  .padded-1 {  padding: 1rem;  }
+  .padded-2 {  padding: 2rem;  }
+  .padded-2-h {  padding: 0 2rem;  }
+  .padded-l { padding-left: 5%; }
+  .padded-r { padding-right: 5%; }
+  .padded-t-10 {padding-top: 10rem;}
+
+  .padded-5-10 {padding: 5% 10%}
+
+  .margin-0 {margin: 0;}
+  .margin-top-1 { margin-top: 1rem; }
+  .margin-top-2 { margin-top: 2rem; }
+  .margin-bottom-1 { margin-bottom: 1rem; }
+  .margin-bottom-2 { margin-bottom: 2rem; }
+
+  .capped-width { max-width: 1000px; margin: auto;}
+
+  .tall-35  {  min-height: 35vh;   }
+  .tall-50  {  min-height: 50vh;   }
+  .tall-90 {   min-height: 90vh;  }
+  .tall-100 {  min-height: 100vh;  }
+  .tall-110 {  min-height: 110vh;  }
+
+
+  // Bump
+
+  .bump-up-8 {  margin-top: -8rem; }
+
+  .bump-up-25 {  margin-top: -25vh;  }
+
+  .bump-up-40 { margin-top: -40vh;   }
+
+  .dark-bg      {  background-color: #d7b1a2;     }
+  .light-bg     {  background-color: #F2EEE9;  }
+  .featured-bg  {  background-color: #f9f0e7;             }
+
+  .light-text   { color: white; }
+  .flex-flip:nth-child(2n){  flex-direction: row-reverse; }
+
+  .highlighted-text {
+    background-color: #FDFAF7;
+    box-shadow: 15px 0px 0px 2px  #FDFAF7, -10px 0px 0px 2px  #FDFAF7;
+    line-height: 1.7;
+    font-size: 1.1rem;
+  }
+
+  .columns {
+    column-count: 2;
+    column-gap: 2rem;
+  }
+
+.sticky-top {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+
+  /* General typography */
+
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1;
+    margin-bottom: 0.8rem;
+    font-weight: normal;
+  }
+
+  .subtle-heading {
+    font-family: p22-underground, sans-serif;
+    font-weight: 300;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  h1 {  font-size: 2.5rem;  }
+  h2  { font-size: 2.2rem;  }
+  h3  { font-size: 1.8rem;  }
+  h4  { font-size: 1.4rem;  }
+  p, li  { font-size: 1.1rem;  }
+
+  p, ul {
+     margin-bottom: 1rem;
+     line-height: 1.6;
+  }
+
+  ul { padding-left: 1.5rem; }
+  li { padding-left: 1rem;
+       margin-bottom: 0.5rem;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  p a {
+    border-bottom: 1px solid;
+    line-height: 1.3;
+    display: inline-block;
+  }
+
+  p a:hover {
+    color: #be9a85;
+  }
+
+  p a.emphasis {
+    font-style: italic;
+  }
+
+  .blog-content h2:not(:first-child),
+  .blog-content h3:not(:first-child),
+  .blog-content h4:not(:first-child) {
+    margin-top: 2rem;
+  }
+
+  .text-animation .emphasis {
+    min-width: 8rem;
+    min-height: 2rem;
+    display:inline-block;
+  }
+
+  .text-animation .emphasis span {
+    position: relative;
+    padding: 0.5rem;
+  }
+
+  .text-animation .emphasis span:hover {
+    // font-style: italic;
+    color: #be9a85;
+  }
+
+  // for the IG feed
+  .light-text .emphasis span:hover {
+    color: #f9f0e7;
+  }
+  .light-text .emphasis span:before {
+    background: #f9f0e7;
+  }
+
+ // This creates the animated underline effect
+
+  a.emphasis span:before {
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    content: '';
+    width: 0;
+    height: 1px;
+    background: #be9a85;
+    display: block;
+    bottom: 2px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+  }
+
+  a.emphasis span:hover:before {
+    width: 100%;
+  }
+
+  /* this makes sure that the last element in any container doesn't have margin-bottom */
+  h2:last-child,
+  h3:last-child,
+  h4:last-child,
+  h5:last-child,
+  h6:last-child,
+  p:last-child {
+    margin-bottom:0;
+  }
+
+  .capitalize {
+    text-transform: capitalize;
+  }
+
+  hr { /* this is a line element */
+    border: none;
+    border-bottom: 2px solid;
+    width: 4rem;
+    margin-bottom: 1rem;
+  }
+
+  hr.centered {
+    margin: 1rem auto;
+  }
+
+  // Logo & Unique Typography
+
+  .home-banner .logo {
+    font-family: "PT Sans";
+    font-weight: bold;
+    font-size: 5vw;
+    line-height: 1.1;
+    border-bottom: 3px solid;
+    margin-right: -6rem;
+    margin-bottom: 10%;
+    position: relative;
+    z-index: 2;
+    padding-bottom: 1rem;
+    letter-spacing: 1px;
+  }
+
+  .big-bold {
+    font-family: "PT Sans";
+    font-weight: bold;
+    font-size: 10vw;
+    letter-spacing: 1px;
+  }
+
+  .portfolio-heading {
+    transform: rotate(270deg);
+    display: inline-block;
+    font-size: 15vh;
+    position: absolute;
+    top: 36vh;
+    right: -22vh;
+  }
+
+  .border-left    { border-left: 2px solid }
+  .border-right   { border-right: 2px solid }
+  .border-top     { border-top: 2px solid }
+  .border-bottom  { border-left: 2px solid }
+
+  /* ------- unique typography styles - adjust to suit your styles  --------- */
+
+  .not-bold   { font-weight: normal; } /* add this class to make headings not bold */
+  .no-bullets { list-style:none; } /* Used to remove dot-points from a list */
+
+  p.emphasis {   /* typically added to paragraphs to make them a little bigger, could be a different font or color also */
+    font-size: 1.2rem;
+  }
+
+  /* Icons */
+
+  .far {        /* default styles for font awesome icons */
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+
+  .featured-stat {     /* styles for our featured statistic icons  */
+    font-size: 3rem;
+    color: #be9a85;
+    margin-bottom: 1rem;
+    display: block;
+  }
+
+  .highlight { /* this is applied to spans for out highlighted text. */
+    background-color: rgb(240, 240, 245);
+    display: inline-block;
+    padding: 0.5rem;
+    margin: 2px;
+  }
+
+  .quote-icon {  /* You can also change the fonts for these icons specifically */
+    font-size: 6rem;
+    line-height: 1;
+  }
+
+   // About Page
+.about-page h1 {
+  font-family: p22-underground, sans-serif;
+  text-transform: uppercase;
+  // letter-spacing: 4px;
+  font-weight: normal;
+  font-size: 2.5rem;
+}
+
+.about-page h1 span {
+  font-family: helvetica;
+  font-size: 1.8rem;
+  padding: 0.5rem;
+  vertical-align: top;
+  display: inline-block;
+}
+
+.about-page h2 {
+  // font-style: italic;
+  font-weight: 300;
+  font-family: p22-underground, sans-serif;
+  // letter-spacing: 2px;
+  font-size: 1.3rem;
+  // color: rgb(90,90,90);
+}
+
+
+@media(max-width:900px) {
+    .home-banner .logo {
+        font-size: 2.5rem;
+    }
+}

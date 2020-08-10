@@ -1,0 +1,38 @@
+---
+layout: default
+featured_image: /images/placeholder-2.jpg
+---
+
+<section class="grid">
+  <div class="col-5 relative">
+    <h2 class="big-bold portfolio-heading "> Portfolio. </h2>
+  </div>
+  <div class="col-7 bg-image tall-110" style="background-image:url('{{page.featured_image}}')"></div>
+</section>
+<section class="grid-spaceBetween portfolio padded mob-flex-flip">
+  <div class="col-8_sm-12 grid mob-horizontal-scroll">
+
+    {% for project in site.projects %}
+    <a class="col-4_sm-6_xs-10 padded-1 portfolio-item {% for category in project.categories %} {{category}} {% endfor %}" href="{{project.url}}">
+      <div class="bg-image" style="background-image:url('{{project.featured_image}}')"></div>
+      <h2>{{project.title}}</h2>
+      <p> {{project.subtitle}}</p>
+    </a>
+    {% endfor %}
+
+  </div>
+  <div class="col-3_sm-12-top border-left sticky-top">
+      <div class="sticky-top padded-2">
+        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+        <nav id="portfolio-filter" class="margin-top-2">
+          <a class="active"> Featured </a> /
+          <a>Fashion</a> /
+          <a>Lifestyle</a> /
+          <a>Product</a> /
+          <a>Venue</a> /
+          <a>Food</a> /
+          <a>All</a>
+      </div>
+  </div>
+
+</section>

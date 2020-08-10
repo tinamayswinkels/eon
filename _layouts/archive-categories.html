@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<!-- this section is an example of how we output the travel posts -->
+<section class="padded">
+  <h1 class="centered capitalize margin-bottom-1" data-aos="fade"> {{page.title}} </h1>
+
+  <div class="category-slider margin-bottom-2" data-aos="fade" data-aos-delay="1000">
+
+    {% for tag in site.data.categories[page.title] %}
+      <a href="/tag/{{tag | slugify }}" class="category"> {{tag}} </a>
+    {% endfor %}
+
+  </div>
+
+  <div class="blog-masonry blog-loop">
+
+    {% for post in paginator.posts %}
+        {% include post-loop-item.html %}
+    {% endfor %}
+
+  </div>
+
+  {% if paginator.total_pages > 1 %}
+  <div class="grid-spaceBetween padded">
+    {% if paginator.previous_page %}
+    <div class="col">
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+    </div>
+    {% endif %}
+    {% if paginator.next_page %}
+    <div class="col right">
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+    </div>
+    {% endif %}
+  </div>
+{% endif %}
+</section>

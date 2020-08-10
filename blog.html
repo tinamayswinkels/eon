@@ -1,0 +1,40 @@
+---
+layout: default
+title: Blog Page
+meta-description:
+meta-keywords:
+featured-image_path:
+show-more-posts-button: false
+---
+
+<section >
+  <h1 class="centered padded" data-aos="fade"> Latest on the blog </h1>
+  <div class="category-slider margin-bottom-2" data-aos="fade" data-aos-delay="1000">
+
+    {% for category in site.categories %}
+      <a href="/{{category[0] | slugify }}" class="category"> {{category[0]}} </a>
+    {% endfor %}
+
+  </div>
+</section>
+<section class="padded">
+
+
+  <div class="blog-loop blog-masonry">
+
+    {% for post in site.posts limit: 15 %}
+        {% include post-loop-item.html %}
+    {% endfor %}
+
+  </div>
+
+  {% if page.show-more-posts-button == true %}
+
+  <div class="centered">
+    <!-- This links to the archive of blog posts -->
+    <a href="/archive" class="button"> See More </a>
+  </div>
+
+  {% endif %}
+
+</section>

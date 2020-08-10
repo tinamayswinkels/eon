@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+
+<!-- this section is an example of how we output the travel posts -->
+<section class="padded">
+
+  <!-- This loop figures out what the parent category of this tag is  -->
+  {% for cat in site.data.categories %}
+    {% for tag in cat %}
+      {% if tag contains page.title %}
+        {% assign cat = cat[0] %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+
+  <h1 class="centered capitalize margin-bottom-1" data-aos="fade"> <a href="/{{cat}}">{{cat}} </a> </h1>
+
+  <div class="category-slider margin-bottom-2" data-aos="fade" data-aos-delay="1000">
+
+    {% for tag in site.data.categories[cat] %}
+      <a href="/tag/{{tag | slugify }}" class="category
+       {% if page.title == tag %}active{% endif %}"> {{tag}} </a>
+    {% endfor %}
+
+  </div>
+
+  <div class="blog-masonry blog-loop">
+
+    {% for post in paginator.posts %}
+        {% include post-loop-item.html %}
+    {% endfor %}
+
+  </div>
+
+  {% if paginator.total_pages > 1 %}
+      <div class="grid-spaceBetween padded">
+        {% if paginator.previous_page %}
+        <div class="col">
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+        </div>
+        {% endif %}
+        {% if paginator.next_page %}
+        <div class="col right">
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+        </div>
+        {% endif %}
+      </div>
+{% endif %}
+</section>

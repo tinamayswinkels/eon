@@ -1,0 +1,67 @@
+/* This media query kicks into action at the gridlex sm breakpoint */
+@media(max-width:768px) {
+
+  .sticky-top {
+    position: static;
+  }
+
+  .mob-hide {
+    display: none;
+  }
+  .hamburger{
+    display: block;
+  }
+
+  .blog-item-wide .bg-image{
+    padding-bottom: 60%;
+  }
+
+  #body .text-bump {
+    margin: -0.5rem;
+  }
+
+  .capped-width {
+    width: 100%;
+  }
+
+  .mob-flex-flip{
+    flex-direction: column-reverse;
+  }
+
+  .columns {
+    column-count: 1;
+  }
+  .blog-masonry {
+    column-count: 1;
+  }
+
+  .social-share {
+    left: 0.5rem;
+  }
+
+    .about-page p {
+      font-size: 1.5rem;
+    }
+
+  footer {
+    padding: 2rem 5%;
+  }
+
+  footer,
+  footer .right {
+    text-align: center;
+  }
+
+  // Horizontal Scroll
+
+
+} /* end media query */
+
+
+/* This media query kicks into action at the gridlex xs breakpoint */
+@media(max-width:576px) {
+  .mob-horizontal-scroll {
+    overflow-x: scroll;
+    flex-flow: nowrap;
+  }
+} /* end media query */

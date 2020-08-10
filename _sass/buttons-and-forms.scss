@@ -1,0 +1,144 @@
+
+  /* ---------------  Button Styles  --------- */
+  /* We have created lots of different button styles, you probably don't need to have quite this many styles depending on your site */
+
+  .button,
+  .button-solid,
+  .button-inverted {
+    text-decoration: none;
+    color: #be9a85;
+    border: 2px solid;
+    padding: 0.6rem 2rem;
+    margin-top: 1rem;
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-family: p22-underground, sans-serif;
+  }
+
+  .button:hover {
+    color: rgb(60, 60, 60);
+  }
+
+  .button.inverted {   /* this is for a button on a dark background */
+    border: 2px solid white;
+    color: white;
+  }
+
+  .button.inverted:hover {
+    color: #be9a85;
+    border-color: #be9a85;
+  }
+
+  .button-solid {
+    background-color: #be9a85;
+    border-color: #be9a85;
+    color: white;
+  }
+
+  .button-solid:hover {
+    background-color: rgb(60, 60, 60);
+    border-color: rgb(60, 60, 60);
+  }
+
+  .arrow { /* this is the arrow button */
+    font-size: 1.5rem;
+    display: inline-block;
+    text-align: center;
+    font-weight: 300;
+    line-height: 1.5rem;
+    min-width: 2.5rem;
+    border: 1px solid #be9a85;
+    padding: 0.5rem;
+    border-radius: 100%;
+    text-decoration: none;
+    color: #be9a85;
+    margin-top: 0.5rem;
+  }
+
+    .arrow:hover {
+      color: rgb(60, 60, 60);
+      border-color: rgb(60, 60, 60);
+    }
+
+
+    /* ----- FORMS --------------------------- */
+
+    input,
+    textarea {
+      border-style: solid;
+      border: 2px solid #f9f0e7;
+      padding: 0.8em;
+      display: block;
+      width: 100%;
+      font-size: 1rem;
+      vertical-align: top;
+      font-family: p22-underground, sans-serif;
+    }
+
+    input:focus,
+    textarea:focus {
+      outline: none;
+      border: 2px solid #be9a85;
+      /* featured color */
+    }
+
+    textarea {
+      min-height: 7em;
+    }
+
+    input[type="submit"] {
+      width: auto;
+      display: block;
+    }
+
+    form [class*=col-] {
+      padding: 5px;
+    }
+
+    .email-signup input {
+      width: 30%;
+      display: inline-block;
+      max-width: 250px;
+      margin-top:1rem;
+    }
+
+    .email-signup .button-solid {
+      padding: 0.8em;
+      border-radius: 0;
+      font-size: 1rem;
+      // background-color: #f9f0e7;
+    }
+     form .button {
+       width:100%;
+     }
+
+
+
+     // Course Subscribe
+
+     .cta .button-solid {
+       background-color: rgb(60, 60, 60);
+       border-color: rgb(60, 60, 60);
+     }
+
+     .cta .button-solid:hover {
+       background-color: #f9f0e7;
+       border-color: #f9f0e7;
+       color: rgb(60, 60, 60);
+     }
+
+     .cta input {
+       border-color: white;
+     }
+
+
+
+     @media(max-width:768px) {
+       .email-signup input {
+         width: 100%;
+         max-width: 100%;
+       }
+     }

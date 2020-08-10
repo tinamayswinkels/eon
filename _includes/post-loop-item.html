@@ -1,0 +1,20 @@
+
+<!-- this is the blog post loop item. By putting it in an include, it means that we can just write the code once and ensure it looks good everywhere we use it on the site. -->
+
+<div class="masonry-item padded-1
+{% for tag in post.tags %} {{tag | slugify}} {% endfor%}
+" data-aos="fade" data-aos-delay="500">
+    <a href="{{post.url}}" class="blog-item">
+      <div class="relative">
+        <img src="{{post.image_path}}">
+        <div class="image-overlay grid centered">
+            <h3 class="subtle-heading col-12-middle"> Read Story > </h3>
+        </div>
+      </div>
+      <div class="bump">
+        <h3> {{post.title}} </h3>
+        {% include squiggle.html %}
+        <p class="post-meta">by {{post.author}}</p>
+      </div>
+    </a>
+  </div>

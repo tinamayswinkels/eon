@@ -1,0 +1,158 @@
+
+  /* Headers and footers */
+
+  header {
+    padding: 1% 5%;
+    // border-bottom: 1px solid #f9f0e7;
+  }
+
+  header .logo {
+    padding: 0.5rem 3rem;
+    max-width: 12rem;
+  }
+
+  footer .logo {
+    max-width: 8rem;
+  }
+
+  header a,
+  footer a,
+  nav a {
+    text-decoration: none;
+    color: inherit;
+    font-weight: 300;
+    // letter-spacing: 1px;
+    // text-transform: uppercase;
+  }
+
+  header nav a,
+  .inline a {
+    display: inline-block;
+    padding: 0.5rem;
+  }
+  nav a:hover {
+    color: #be9a85;
+  }
+
+  header nav a.emphasis {
+    /* padding: 0.5rem 2rem; */
+    margin: 0 0.5rem;
+    border: 1px solid #be9a85;
+    border-radius: 2px;
+    color: #be9a85;
+  }
+
+  header nav a.emphasis:hover {
+    background-color: #be9a85;
+    color: white;
+  }
+
+  /* Dropdown Header */
+
+  header li {
+    list-style: none;
+    display: inline-block;
+    position: relative;
+  }
+
+  header li .dropdown-menu {
+    display: none;
+    padding: 1rem;
+    min-width: 12rem;
+  }
+
+  header li li {
+    display: block;
+  }
+
+  header .dropdown:hover .dropdown-menu {
+    display: block;
+    position: absolute;
+    top: 2rem;
+    right: -1rem;
+    background-color: white;
+  }
+
+  /* Fixed Header Option */
+
+  header.fixed {
+    position: fixed;
+    background-color: #f9ca24;
+    top:0;
+    left:0;
+    right:0;
+    z-index: 2;
+    margin:0;
+    padding: 1%;
+    text-align: center;
+  }
+  .bump-for-header {
+    min-height: 4rem;
+  }
+
+
+  /* Hamburger Menu */
+  .mobile-menu {
+    display: none;
+  }
+
+  .hamburger {
+    // position: absolute;
+    // top: -1.2rem;
+    // right: 0;
+    // z-index: 6;
+    // font-size: 3rem;
+    // font-weight: 200;
+    // font-family: 'p22-underground', sans-serif;
+    // padding: 1rem;
+    // padding-bottom: 2rem;
+    // line-height: 0.2;
+    // vertical-align: top;
+    // cursor: pointer;
+  }
+
+  .hamburger.active {
+    color: #be9a85;
+    position: fixed;
+  }
+  .mobile-menu {
+    position: fixed;
+    top: 0;
+    left:0;
+    right:0;
+    bottom: 0;
+    background-color: #faf4ed;
+    padding: 10%;
+    z-index: 5;
+  }
+
+  .mobile-menu hr {
+    margin: 1rem;
+    margin-bottom: 2rem;
+  }
+
+
+  .mobile-menu a {
+    padding: 1rem;
+    display: block;
+    text-decoration: none;
+    text-transform: none;
+    font-size: 1.4rem;
+    letter-spacing: 0;
+    font-weight: 200;
+  }
+
+
+  /* -- Footer -- */
+
+  footer .info {
+    padding-right: 3rem;
+  }
+
+  footer nav a {
+    display:block;
+  }
+
+  footer h3 {
+    font-size: 1.2rem;
+  }
