@@ -2,7 +2,7 @@
 layout: project
 hidden: false
 title: Uma & Leopold
-subtitle: 2020 Night Campaign
+subtitle: Studio & Store Campaign
 vertical-heading: true
 featured_image: /images/placeholder-2.jpg
 featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
@@ -14,6 +14,7 @@ intro-text_html: >-
   cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 categories:
+  - fashion
   - featured
 campaign:
   show-campaign-details: false
