@@ -13,6 +13,8 @@ collections:
     output: true
   archives:
     output: true
+  services:
+    output: true
 
 sizes:
   - full

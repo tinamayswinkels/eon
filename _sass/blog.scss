@@ -203,6 +203,7 @@ a.category:hover {
 .gallery img {
   margin: 0.5rem;
   width: calc(100% - 1rem);
+  display: inline-block;
 }
 
 .gallery .half {

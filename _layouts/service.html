@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<section class="grid">
+  <div class="col-6_sm-2 padded">
+      <h1 class="big-bold padded-t-2"> {{page.title}} </h1>
+      <h2> {{page.subtitle}} </h2>
+  </div>
+  <div class="col-6_sm-10 bg-image tall-100" style="background-image:url('{{page.featured_image}}');">
+  </div>
+</section>
+<section class="padded-10 centered">
+  <hr class="centered">
+  <div class="padded-1">
+    {{page.intro-text_html}}
+  </div>
+  <hr class="centered">
+</section>
+
+<section class="gallery padded centered grid padded-t-0">
+
+  {% for item in page.gallery-images %}
+  <div class="col-4 padded-05">
+    <div style="background-image:url('{{item.image_path}}')" class="bg-image {{item.aspect-ratio}}"></div>
+  </div>
+  {% endfor %}
+
+  <div class="margin-top-1"> {{page.gallery-text_html}}</div>
+</section>
+
+<section class="padded">
+  <div class="padded bg-v-white-tan">
+    {{content}}
+  </div>
+</section>
+
+<section class="gallery padded centered grid padded-t-0">
+
+  {% for item in page.gallery-feeds %}
+
+  <img src="{{item.image_path}}" class="one-third"></div>
+
+  {% endfor %}
+
+  <div class="margin-top-1"> {{page.gallery-text_html}}</div>
+</section>
+
+
+<style>
+  .big-bold {
+    position: relative;
+    margin-top: 10vh;
+  }
+</style>
