@@ -56,4 +56,6 @@ gallery:
     aspect-ratio: portait
 gallery-text_html:
 layout: project
+_comments:  
+  layout: Don't touch this
 ---
