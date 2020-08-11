@@ -126,24 +126,19 @@ nav.hover-links {
   }
 
   .hamburger {
-    // position: absolute;
-    // top: -1.2rem;
-    // right: 0;
-    // z-index: 6;
-    // font-size: 3rem;
-    // font-weight: 200;
-    // font-family: 'p22-underground', sans-serif;
-    // padding: 1rem;
-    // padding-bottom: 2rem;
-    // line-height: 0.2;
-    // vertical-align: top;
-    // cursor: pointer;
+    position: absolute;
+    top: 1%;
+    right: 5%;
+    cursor: pointer;
   }
 
   .hamburger.active {
     color: #be9a85;
     position: fixed;
+    top: 1%;
+    right: 5%;
   }
+
   .mobile-menu {
     position: fixed;
     top: 0;
