@@ -8,7 +8,7 @@ layout: default
     <p class="image-caption"> {{page.featured-image-caption}} </p>
   </div>
   <div class="col-6 padded">
-     <h1 class="big-bold {% unless page.vertical-heading == false %} vertical-text {% endunless %}"> {{page.title}}</h1>
+     <h1 class="big-bold {% unless page.vertical-heading == false %} vertical-text {% endunless %}"> {{page.title}}.</h1>
   </div>
   <div class="col-6 padded-t-2">
          {{page.intro-text_html}}
@@ -40,26 +40,26 @@ layout: default
   {% endfor %}
 </section> -->
 
-{% unless page.show-campaign-details == false %}
+{% unless page.campaign.show-campaign-details == false %}
 
 <section class="padded grid-spaceAround padded-t-0">
   <div class="col-8">
     <div class="padded-1">
-      <h2 class="big-bold campaign-heading padded-2-v"> {{page.subtitle}}.</h2>
+      <h2 class="big-bold campaign-heading padded-2-v"> {{page.campaign.campaign-title}}.</h2>
       {{page.campaign.campaign-text_html}}
     </div>
     <div class="grid padded-2-v">
       <div class="col-3 padded-1">
         <h3 class="subtle-heading"> {{page.campaign.team-heading-1}}</h3>
-        <p class="subtle"> {{page.campaign.team-text-1}} </p>
+        <p class="subtle"> {{page.campaign.team-text-1_html}} </p>
       </div>
       <div class="col-3 padded-1">
         <h3 class="subtle-heading"> {{page.campaign.team-heading-2}}</h3>
-        <p class="subtle"> {{page.campaign.team-text-2}} </p>
+        <p class="subtle"> {{page.campaign.team-text-2_html}} </p>
       </div>
       <div class="col-3 padded-1">
         <h3 class="subtle-heading"> {{page.campaign.team-heading-3}}</h3>
-        <p class="subtle"> {{page.campaign.team-text-3}} </p>
+        <p class="subtle"> {{page.campaign.team-text-3_html}} </p>
       </div>
     </div>
   </div>
@@ -85,7 +85,7 @@ layout: default
 
 <section class="gallery padded centered">
 
-  {% for item in page.gallery %}
+  {% for item in page.gallery-images %}
   <div src="{{item.image_path}}" class="bg-image {{item.size}} {{item.aspect-ratio}}"></div>
   {% endfor %}
 
