@@ -20,6 +20,12 @@ sizes:
   - one-third
   - two-thirds
 
+aspect-ratios:
+  - portrait
+  - portrait-tall
+  - square
+  - landscape
+
 _options:
   body-content_html:
     blockquote: true

@@ -86,7 +86,8 @@ layout: default
 <section class="gallery padded centered">
 
   {% for item in page.gallery %}
-  <img src="{{item.image_path}}" class="{{item.size}}" alt="{{item.alt}}">
+  <div src="{{item.image_path}}" class="bg-image {{item.size}} {{item.aspect-ratio}}"></div>
   {% endfor %}
-  <p class="subtitle margin-top-1"> {{page.gallery-text}}</p>
+
+  <div class="margin-top-1"> {{page.gallery-text_html}}</div>
 </section>

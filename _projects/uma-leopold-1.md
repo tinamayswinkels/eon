@@ -22,19 +22,26 @@ gallery:
   - image_path: /images/placeholder-2.jpg
     alt: This is the alt text
     size: one-third
+    aspect-ratio: portait
   - image_path: /images/placeholder-2.jpg
     alt: This is the alt text
     size: one-third
+    aspect-ratio: portait
   - image_path: /images/placeholder-2.jpg
     alt: This is the alt text
     size: one-third
+    aspect-ratio: portait
   - image_path: /images/placeholder-2.jpg
     alt: This is the alt text
     size: full-width
+    aspect-ratio: portait
   - image_path: /images/placeholder-2.jpg
     alt: This is the alt text
     size: one-half
+    aspect-ratio: portait
   - image_path: /images/placeholder-2.jpg
     alt: This is the alt text
     size: one-half
+    aspect-ratio: portait
+gallery-text_html:
 ---
