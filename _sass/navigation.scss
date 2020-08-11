@@ -3,6 +3,7 @@
 
   header {
     padding: 1% 5%;
+    position: relative;
     // border-bottom: 1px solid #f9f0e7;
   }
 
@@ -127,8 +128,8 @@ nav.hover-links {
 
   .hamburger {
     position: absolute;
-    top: 1%;
-    right: 5%;
+    top: 1vw;
+    right: 5vw;
     cursor: pointer;
     z-index: 6;
     padding: 0.5rem;
@@ -137,8 +138,8 @@ nav.hover-links {
   .hamburger.active {
     color: #be9a85;
     position: fixed;
-    top: 1%;
-    right: 5%;
+    top: 1vw;
+    right: 5vw;
   }
 
   .mobile-menu {

@@ -278,6 +278,10 @@
   padding-bottom: 10%;
 }
 
+.portfolio-item.hidden {
+  display: none;
+}
+
 .portfolio-item .bg-image {
   padding-bottom: 120%;
   margin-bottom: 1.5rem;
