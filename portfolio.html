@@ -10,19 +10,20 @@ featured_image: /images/placeholder-2.jpg
   <div class="col-7_sm-9 bg-image tall-110 portfolio-image" style="background-image:url('{{page.featured_image}}')"></div>
 </section>
 <section class="grid-spaceBetween portfolio padded mob-flex-flip">
-  <div class="col-8_sm-12 grid mob-horizontal-scroll">
+  <div class="col-8_sm-12">
+    <div class="grid mob-horizontal-scroll">
 
-    {% for project in site.projects reversed %}
-    <a class="col-4_sm-6_xs-10 padded-1 portfolio-item
-    {% for category in project.categories %} {{category}} {% endfor %}
-    {% unless project.categories contains "featured" %} hidden {% endunless %}"
-    href="{{project.url}}">
-      <div class="bg-image" style="background-image:url('{{project.featured_image}}')"></div>
-      <h2>{{project.title}}</h2>
-      <p> {{project.subtitle}}</p>
-    </a>
-    {% endfor %}
-
+      {% for project in site.projects reversed %}
+      <a class="col-4_sm-6_xs-10 padded-1 portfolio-item
+      {% for category in project.categories %} {{category}} {% endfor %}
+      {% unless project.categories contains "featured" %} hidden {% endunless %}"
+      href="{{project.url}}">
+        <div class="bg-image" style="background-image:url('{{project.featured_image}}')"></div>
+        <h2>{{project.title}}</h2>
+        <p> {{project.subtitle}}</p>
+      </a>
+      {% endfor %}
+    </div> 
   </div>
   <div class="col-3_sm-12-top border-left sticky-top">
       <div class="sticky-top padded-2">
@@ -60,7 +61,7 @@ featured_image: /images/placeholder-2.jpg
       right: -29vh;
     }
     .mob-horizontal-scroll {
-      padded-top: 2rem;
+      padding-top: 2rem;
     }
     .portfolio {
       padding: 10% 0;
