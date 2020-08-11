@@ -80,4 +80,27 @@ $(function() {
 
 });
 
+// Homepage hover gallery
+
+
+  $('nav#hover-links a').mouseenter(function(e){
+    e.preventDefault();
+
+    /* make this <li> class active and remove class 'active' from any other <li>s */
+    $('nav#hover-links .active').removeClass('active');
+    $(this).addClass('active');
+
+    /* get the name of the cateory from this link */
+    var filterVal = $(this).text().replace(' ','-').toLowerCase();
+
+    $('.hover-image').each(function() {
+          if(!$(this).hasClass(filterVal)) {
+            $(this).addClass('hidden'); // hide those that don't have the filter
+          }else{
+            $(this).removeClass('hidden'); // show those that do have the filter
+          }
+        });
+
+});
+
 }); // End document ready

@@ -256,8 +256,13 @@
   left: 0;
   bottom:0;
   right: 0;
+  opacity: 1;
+  transition: all 1s;
+}
+
+.hidden {
   opacity: 0;
-  transition:all .3s ease;
+  transition: all 1s;
 }
 
 .active {

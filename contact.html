@@ -7,19 +7,19 @@ header-class: on-top
 
 <section class="padded-10 padded-b-0 contact mob-flex-flip light-bg">
   <div class="padded-t-tall grid">
-    <div class="col-6 border-left padded-1 tall-70">
+    <div class="col-6_sm-11 border-left padded-1 tall-70">
       <div class=" padded-1 padded-v-tall">
           <h4> PHOTOGRAPHER </h4>
           <p> Emilio Henry </p>
           <p> Whatsapp: +614 3339 9495 </p>
           <p> Email: emilio@eyesofanomad.com </p>
-          <h4> Agency Director </h4>
+          <h4> AGENCY DIRECTOR </h4>
           <p> Tina May </p>
           <p> Whatsapp: +62 878 6179 1529 </p>
           <p> Email: hello@eyesofanomad.com </p>
       </div>
       </div>
-      <div class="col-6 right">
+      <div class="col-6_sm-1 right relative">
           <h1 class="vertical-text big-bold"> Contact. </h1>
       </div>
   </div>
@@ -47,15 +47,23 @@ header-class: on-top
     font-size: 15vh;
     transform-origin: center right 0;
     display: inline-block;
-    margin-top: -5rem;
+    position: absolute;
+    right: 0;
+    top: -2rem;
   }
 
   .contact p {
-    margin-bottom:0.5rem;
+    margin-bottom:0.2rem;
   }
 
   .contact h4 {
-    margin-top:2rem;
+    margin-top:2.5rem;
+  }
+
+  @media(max-width:768px) {
+    .vertical-text {
+      right: 1rem;
+    }
   }
 
 </style>

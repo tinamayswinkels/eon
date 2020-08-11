@@ -7,6 +7,12 @@ header-style: on-top hide-logo
 featured-image_path:
 banner-1_path: /images/placeholder-2.jpg
 banner-position: 60% 30%;
+slideshow:
+  fashion_image: /images/placeholder-2.jpg
+  lifestyle_image: /images/camaya/EON-camaya-1.jpg
+  product_image: /images/camaya/EON-camaya-2.jpg
+  venue_image: /images/camaya/EON-camaya-3.jpg
+  food_image: /images/camaya/EON-camaya-4.jpg
 wide_image: /images/placeholder-2.jpg
 footer_image: /images/placeholder-2.jpg
 ---
@@ -26,23 +32,47 @@ footer_image: /images/placeholder-2.jpg
     </div>
   </div>
   <div class="col-6_xs-12 banner tall-100 relative" style="background-image:url('/images/placeholder-2.jpg')">
-    <nav class="hover-links">
-      <a href="/" id="link-1"> Fashion </a>
-      <a href="/" id="link-2"> Lifestyle </a>
-      <a href="/" id="link-3"> Product </a>
-      <a href="/" id="link-4"> Travel </a>
-      <a href="/" id="link-5"> Hotel </a>
-      <a href="/" id="link-6"> Food </a>
+    <nav class="hover-links" id="hover-links">
+      <a href="/" id="link-1">Fashion</a>
+      <a href="/" id="link-2">Lifestyle</a>
+      <a href="/" id="link-3">Product</a>
+      <a href="/" id="link-5">Venue</a>
+      <a href="/" id="link-6">Food</a>
     </nav>
-    <div class="hover-image" id="image-1" style="background-image:url('/images/placeholder.jpg')"></div>
-    <div class="hover-image"id="image-2" style="background-image:url('/images/placeholder-2.jpg')"></div>
-    <div class="hover-image" id="image-3"style="background-image:url('/images/placeholder.jpg')"></div>
-    <div class="hover-image" id="image-4"style="background-image:url('/images/placeholder-2.jpg')"></div>
+    <div class="hover-image fashion"></div>
+    <div class="hover-image lifestyle"></div>
+    <div class="hover-image product"></div>
+    <div class="hover-image venue"></div>
+    <div class="hover-image food"></div>
   </div>
 
 </section>
 
-<section class="padded bg-split-white-tan">
+<style>
+
+  .hover-image.fashion {
+    background-image:url('{{page.slideshow.fashion_image}}')
+  }
+
+  .hover-image.lifestyle {
+    background-image:url('{{page.slideshow.lifestyle_image}}')
+  }
+
+  .hover-image.product {
+    background-image:url('{{page.slideshow.product_image}}')
+  }
+
+  .hover-image.venue {
+    background-image:url('{{page.slideshow.venue_image}}')
+  }
+
+  .hover-image.food {
+    background-image:url('{{page.slideshow.food_image}}')
+  }
+
+</style>
+
+<section class="padded bg-split-white-tan mob-flex-flip">
     <div class="grid-center">
         <div class="col-6_sm-12-middle padded">
           <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  </p>
@@ -53,6 +83,7 @@ footer_image: /images/placeholder-2.jpg
         </div>
     </div>
 </section>
+
 <section class="bg-split-tan-white padded-10 padded-t-0">
         <div class="bg-image wide-landscape" style="background-image:url({{page.wide_image}});"></div>
     </div>
