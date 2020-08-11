@@ -1,10 +1,10 @@
 ---
 hidden: false
-title: Uma & Leopold
-subtitle: 2020 Beach Retreat Campaign
+title: Project Title
+subtitle: Campaign Title
 featured_image: /images/placeholder-2.jpg
 layout: project
-heading: Uma & Leopold.
+heading: Big Heading
 vertical-heading: false
 banner_image: /images/placeholder-2.jpg
 banner-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant

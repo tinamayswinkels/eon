@@ -1,4 +1,5 @@
 ---
+hidden: false
 layout: project
 title: 'Shiraz Riad, Morocco'
 subtitle: Opening Night

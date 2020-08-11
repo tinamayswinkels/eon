@@ -1,5 +1,6 @@
 ---
 layout: project
+hidden: false
 title: Kembali Cafe
 description: "The guys\_at Kembali are all about beautiful food in a gorgeous space. They wanted bright & airy photos that showcased the bright colors of the food & garden."
 number: 29

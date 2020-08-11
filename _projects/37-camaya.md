@@ -1,5 +1,6 @@
 ---
 layout: project
+hidden: false
 title: Camaya Bali
 subtitle: 2020 Beach Retreat Campaign
 description: >-

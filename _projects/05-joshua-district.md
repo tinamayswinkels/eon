@@ -1,4 +1,5 @@
 ---
+hidden: false
 layout: project
 title: Joshua District
 subtitle: Opening Night

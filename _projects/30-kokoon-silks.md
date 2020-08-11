@@ -1,5 +1,6 @@
 ---
 layout: project
+hidden: false
 title: 'Kokoon Silks'
 subtitle: 2020 Beach Retreat Campaign
 description: >-

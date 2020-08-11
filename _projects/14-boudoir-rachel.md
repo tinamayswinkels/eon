@@ -1,5 +1,6 @@
 ---
 layout: project
+hidden: false
 title: Boudoir Rachel
 subtitle: 2020 Beach Retreat Campaign
 description: >-

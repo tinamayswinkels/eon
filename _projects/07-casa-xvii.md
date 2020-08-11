@@ -1,4 +1,5 @@
 ---
+hidden: false
 layout: project
 title: Casa XVII Villa
 subtitle: Opening Night

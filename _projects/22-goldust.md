@@ -1,5 +1,6 @@
 ---
 layout: project
+hidden: false
 title: Goldust
 subtitle: Spa & Resort Wear
 description: "We worked with the guys\_at Gold Dust Spa to showcase both their signature 24k gold face masks & their line of resort wear."

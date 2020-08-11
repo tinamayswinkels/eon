@@ -1,5 +1,6 @@
 ---
 layout: project
+hidden: false
 title: A Gleam in Her Eyes
 subtitle: 2020 Beach Retreat Campaign
 description: >-

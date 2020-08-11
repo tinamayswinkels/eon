@@ -1,5 +1,6 @@
 ---
 layout: project
+hidden: false
 title: Bech Towels
 subtitle: 2020 Beach Retreat Campaign
 description: >-

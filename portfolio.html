@@ -12,7 +12,7 @@ featured_image: /images/placeholder-2.jpg
 <section class="grid-spaceBetween portfolio padded mob-flex-flip">
   <div class="col-8_sm-12 grid mob-horizontal-scroll">
 
-    {% for project in site.projects %}
+    {% for project in site.projects reversed %}
     <a class="col-4_sm-6_xs-10 padded-1 portfolio-item {% for category in project.categories %} {{category}} {% endfor %}" href="{{project.url}}">
       <div class="bg-image" style="background-image:url('{{project.featured_image}}')"></div>
       <h2>{{project.title}}</h2>

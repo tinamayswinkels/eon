@@ -1,5 +1,6 @@
 ---
 layout: project
+hidden: false
 title: Hana & Matei
 subtitle:  Lombok Wedding
 description: "Welcome to my dear friends wedding, held on the beautiful island of Lombok,\_Indonesia. They wanted a slight vintage/film feel to their images. it was a challenge shooting in full sun (literally not a cloud in the sky) but we pulled it off and they were in love with their photos."

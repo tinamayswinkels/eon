@@ -1,5 +1,6 @@
 ---
 layout: project
+hidden: false
 title: Alternative Beach
 subtitle: Opening Night
 description: >-

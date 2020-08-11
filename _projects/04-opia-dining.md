@@ -1,4 +1,5 @@
 ---
+hidden: false
 layout: project
 title: Opia Bali Restaurant
 subtitle: Opening Night
