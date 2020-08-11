@@ -4,11 +4,11 @@ layout: default
 
 <section class="grid padded-10">
   <div class="col-6">
-    <div class="bg-image square" style="background-image:url({{page.banner_image}});"></div>
-    <p class="image-caption"> {{page.banner-image-caption}} </p>
+    <div class="bg-image square" style="background-image:url({{page.featured_image}});"></div>
+    <p class="image-caption"> {{page.featured-image-caption}} </p>
   </div>
   <div class="col-6 padded">
-     <h1 class="big-bold {% unless page.vertical-heading == false %} vertical-text {% endunless %}"> {{page.heading}}</h1>
+     <h1 class="big-bold {% unless page.vertical-heading == false %} vertical-text {% endunless %}"> {{page.title}}</h1>
   </div>
   <div class="col-6 padded-t-2">
          {{page.intro-text_html}}
@@ -46,25 +46,25 @@ layout: default
   <div class="col-8">
     <div class="padded-1">
       <h2 class="big-bold campaign-heading padded-2-v"> {{page.subtitle}}.</h2>
-      {{page.campaign-text_html}}
+      {{page.campaign.campaign-text_html}}
     </div>
     <div class="grid padded-2-v">
       <div class="col-3 padded-1">
-        <h3 class="subtle-heading"> {{page.team-heading-1}}</h3>
-        <p class="subtle"> {{page.team-text-1}} </p>
+        <h3 class="subtle-heading"> {{page.campaign.team-heading-1}}</h3>
+        <p class="subtle"> {{page.campaign.team-text-1}} </p>
       </div>
       <div class="col-3 padded-1">
-        <h3 class="subtle-heading"> {{page.team-heading-2}}</h3>
-        <p class="subtle"> {{page.team-text-2}} </p>
+        <h3 class="subtle-heading"> {{page.campaign.team-heading-2}}</h3>
+        <p class="subtle"> {{page.campaign.team-text-2}} </p>
       </div>
       <div class="col-3 padded-1">
-        <h3 class="subtle-heading"> {{page.team-heading-3}}</h3>
-        <p class="subtle"> {{page.team-text-3}} </p>
+        <h3 class="subtle-heading"> {{page.campaign.team-heading-3}}</h3>
+        <p class="subtle"> {{page.campaign.team-text-3}} </p>
       </div>
     </div>
   </div>
   <div class="col-4-bottom padded-1 d-p-b-3">
-      <div class="bg-image tall-portrait" style="background-image:url({{page.campaign_image}});"> </div>
+      <div class="bg-image tall-portrait" style="background-image:url({{page.campaign.campaign_image}});"> </div>
   </div>
 </section>
 
