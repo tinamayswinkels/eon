@@ -1,5 +1,5 @@
 ---
-_layout: project
+layout: project
 hidden: false
 title: Uma & Leopold
 subtitle: 2020 Beach Retreat Campaign
@@ -55,4 +55,5 @@ gallery:
     size: one-half
     aspect-ratio: portait
 gallery-text_html:
+layout: project
 ---
