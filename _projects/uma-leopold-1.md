@@ -3,7 +3,7 @@ layout: project
 hidden: false
 title: Uma & Leopold
 subtitle: 2020 Beach Retreat Campaign
-vertical-heading: false
+vertical-heading: true
 featured_image: /images/placeholder-2.jpg
 featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
 intro-text_html: >-
@@ -21,8 +21,9 @@ campaign:
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
     consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+    non proident, sunt in culpa qui officia deserunt mollit anim id est
+    laborum.</p>
   team-heading-1: Model
   team-text-1_html: 'This was the name of the model, and a little bit of a blurb about her.'
   team-heading-2: HMUA
@@ -34,29 +35,29 @@ gallery-images:
   - image_path: /images/Portfolio – 2.jpg
     alt: This is the alt text
     size: two-thirds
-    aspect-ratio: portait
+    aspect-ratio:
   - image_path: /images/Portfolio – 3.jpg
     alt: This is the alt text
     size: one-third
-    aspect-ratio: portait
+    aspect-ratio:
   - image_path: /images/placeholder-2.jpg
     alt: This is the alt text
     size: one-third
-    aspect-ratio: portait
+    aspect-ratio:
   - image_path: /images/placeholder-2.jpg
     alt: This is the alt text
-    size: full-width
-    aspect-ratio: portait
-  - image_path: /images/placeholder-2.jpg
-    alt: This is the alt text
-    size: one-half
-    aspect-ratio: portait
+    size:
+    aspect-ratio:
   - image_path: /images/placeholder-2.jpg
     alt: This is the alt text
     size: one-half
-    aspect-ratio: portait
+    aspect-ratio:
+  - image_path: /images/placeholder-2.jpg
+    alt: This is the alt text
+    size: one-half
+    aspect-ratio:
 gallery-text_html:
-layout: project
-_comments:  
+_comments:
   layout: Don't touch this
 ---
+
