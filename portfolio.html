@@ -13,7 +13,10 @@ featured_image: /images/placeholder-2.jpg
   <div class="col-8_sm-12 grid mob-horizontal-scroll">
 
     {% for project in site.projects reversed %}
-    <a class="col-4_sm-6_xs-10 padded-1 portfolio-item {% for category in project.categories %} {{category}} {% endfor %}" href="{{project.url}}">
+    <a class="col-4_sm-6_xs-10 padded-1 portfolio-item
+    {% for category in project.categories %} {{category}} {% endfor %}
+    {% unless project.categories contains "featured" %} hidden {% endunless %}"
+    href="{{project.url}}">
       <div class="bg-image" style="background-image:url('{{project.featured_image}}')"></div>
       <h2>{{project.title}}</h2>
       <p> {{project.subtitle}}</p>
@@ -25,7 +28,7 @@ featured_image: /images/placeholder-2.jpg
       <div class="sticky-top padded-2">
         <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
         <nav id="portfolio-filter" class="margin-top-2">
-          <a class="active"> Featured </a> /
+          <a class="active">Featured</a> /
           <a>Fashion</a> /
           <a>Lifestyle</a> /
           <a>Product</a> /

@@ -55,7 +55,6 @@ $(function() {
 
 // filterable gallery
 
-
   $('nav#portfolio-filter a').click(function(e){
     e.preventDefault();
 

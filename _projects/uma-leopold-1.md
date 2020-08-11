@@ -13,6 +13,8 @@ intro-text_html: >-
   consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
   cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+categories: 
+  - featured
 campaign:
   show-campaign-details: false
   campaign-title: Beach Retreat
@@ -60,4 +62,3 @@ gallery-text_html:
 _comments:
   layout: Don't touch this
 ---
-
