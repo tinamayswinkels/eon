@@ -1,7 +1,7 @@
 ---
 layout: project
 hidden: false
-title: Uma & Leopold 2
+title: Uma & Leopold
 subtitle: 2020 Beach Retreat Campaign
 vertical-heading: true
 featured_image: /images/placeholder-2.jpg
@@ -13,7 +13,7 @@ intro-text_html: >-
   consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
   cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-categories: 
+categories:
   - fashion
   - featured
 campaign:
