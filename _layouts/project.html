@@ -10,7 +10,7 @@ layout: default
   <div class="col-6_sm-12 padded">
      <h1 class="big-bold {% unless page.vertical-heading == false %} vertical-text {% endunless %}"> {{page.title}}.</h1>
   </div>
-  <div class="col-6 padded-t-2">
+  <div class="col-6_sm-12 padded-t-2">
          {{page.intro-text_html}}
   </div>
 </section>
@@ -43,7 +43,7 @@ layout: default
 {% unless page.campaign.show-campaign-details == false %}
 
 <section class="padded grid-spaceAround padded-t-0 capped-width">
-  <div class="col-8">
+  <div class="col-8_sm-12">
     <div class="padded-1">
       <h2 class="big-bold campaign-heading padded-2-v"> {{page.campaign.campaign-title}}.</h2>
       {{page.campaign.campaign-text_html}}
@@ -63,7 +63,7 @@ layout: default
       </div>
     </div>
   </div>
-  <div class="col-4-bottom padded-1 d-p-b-3">
+  <div class="col-4_sm-12-bottom padded-1 d-p-b-3">
       <div class="bg-image tall-portrait" style="background-image:url({{page.campaign.campaign_image}});"> </div>
   </div>
 </section>
