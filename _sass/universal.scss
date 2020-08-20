@@ -62,13 +62,46 @@
     padding-bottom: 40%;
   }
 
-
-  body {
-    font-family: orpheuspro, serif;
-    color: #414141;
+  .project-gallery {
+    display: flex;
+    flex-flow: row wrap;
   }
 
+    .col-one-third {
+      flex-basis: 33.33%;
+      max-width: 33.33333%;
+    }
 
+    .col-one-half {
+      flex-basis: 50%;
+      max-width: 50%;
+    }
+
+    .col-two-thirds {
+      flex-basis: 66.66%;
+      max-width: 66.66%;
+    }
+
+    .col-full-width {
+      flex-basis: 100%;
+      max-width: 100%;
+    }
+
+    .one-third {
+      padding-bottom: 123%;
+    }
+
+    .one-half {
+      padding-bottom: 115%;
+    }
+
+    .two-thirds {
+      padding-bottom: 60%;
+    }
+
+    .full-width {
+      padding-bottom: 60%;
+    }
 
 
   /* ------------- Utility Classes --------------  */
@@ -173,6 +206,11 @@
 
 
   /* General typography */
+
+  body {
+    font-family: orpheuspro, serif;
+    color: #414141;
+  }
 
   h1, h2, h3, h4, h5, h6 {
     line-height: 1;

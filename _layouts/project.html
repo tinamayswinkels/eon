@@ -83,10 +83,12 @@ layout: default
 
 </style>
 
-<section class="gallery padded centered">
+<section class="project-gallery padded centered">
 
   {% for item in page.gallery-images %}
-  <div src="{{item.image_path}}" class="bg-image {{item.size}} {{item.aspect-ratio}}"></div>
+  <div class=" col-{{item.size}} padded-05">
+    <div style="background-image:url('{{item.image_path}}')" class="bg-image {{item.size}}"></div>
+</div>
   {% endfor %}
 
   <div class="margin-top-1"> {{page.gallery-text_html}}</div>
