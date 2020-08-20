@@ -29,8 +29,17 @@
     background-attachment: fixed;
   }
 
+// Lightbox Gallery Chocolat
+.chocolat-overlay {
+  background-color: rgb(10,10,10);
+}
+.chocolat-wrapper .chocolat-bottom {
+  background: none;
+}
 
-
+.chocolat-overlay.chocolat-visible {
+  opacity: 0.9;
+}
 
 // IG Image Banner
 

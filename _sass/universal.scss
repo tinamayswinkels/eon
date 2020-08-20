@@ -67,6 +67,10 @@
     flex-flow: row wrap;
   }
 
+  .project-gallery a {
+    display: block;
+  }
+
     .col-one-third {
       flex-basis: 33.33%;
       max-width: 33.33333%;
@@ -137,7 +141,7 @@
   .margin-bottom-1 { margin-bottom: 1rem; }
   .margin-bottom-2 { margin-bottom: 2rem; }
 
-  .capped-width { max-width: 1000px; margin: auto;}
+  .capped-width { max-width: 1100px; margin: auto;}
 
   .tall-35  {  min-height: 35vh;   }
   .tall-50  {  min-height: 50vh;   }

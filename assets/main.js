@@ -11,6 +11,7 @@ $(document).ready(function() {
 	});
 	// end hamburger menu
 
+
 	// This is the pop-up gallery
 	$('.popup-gallery').magnificPopup({
 		delegate: 'a',
@@ -103,3 +104,11 @@ $(function() {
 });
 
 }); // End document ready
+
+
+// End JQuery, add vanilla javascript
+
+Chocolat(document.querySelectorAll('.chocolat-image'), {
+    loop: true,
+		imageSize: 'contain'
+})

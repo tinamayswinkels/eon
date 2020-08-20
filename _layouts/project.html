@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section class="grid padded-10">
+<section class="grid padded-10 capped-width">
   <div class="col-6_sm-12">
     <div class="bg-image square" style="background-image:url({{page.featured_image}});"></div>
     <p class="image-caption"> {{page.featured-image-caption}} </p>
@@ -42,7 +42,7 @@ layout: default
 
 {% unless page.campaign.show-campaign-details == false %}
 
-<section class="padded grid-spaceAround padded-t-0">
+<section class="padded grid-spaceAround padded-t-0 capped-width">
   <div class="col-8">
     <div class="padded-1">
       <h2 class="big-bold campaign-heading padded-2-v"> {{page.campaign.campaign-title}}.</h2>
@@ -83,12 +83,12 @@ layout: default
 
 </style>
 
-<section class="project-gallery padded centered">
+<section class="project-gallery padded centered capped-width chocolat-parent">
 
   {% for item in page.gallery-images %}
-  <div class=" col-{{item.size}} padded-05">
+  <a class="col-{{item.size}} padded-05 chocolat-image" href="{{item.image_path}}">
     <div style="background-image:url('{{item.image_path}}')" class="bg-image {{item.size}}"></div>
-</div>
+  </a>
   {% endfor %}
 
   <div class="margin-top-1"> {{page.gallery-text_html}}</div>
