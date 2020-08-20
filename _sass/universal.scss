@@ -138,6 +138,18 @@
     background: linear-gradient(90deg, white 20%, #F2EEE9 0);
   }
 
+  .border-center:after {
+    content:"";
+    position: absolute;
+    pointer-events:none;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    border-left: 2px solid rgb(90,90,90);
+    transform: translate(-50%);
+  }
+
+
   .light-text   { color: white; }
   .flex-flip:nth-child(2n){  flex-direction: row-reverse; }
 
