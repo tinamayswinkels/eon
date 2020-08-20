@@ -83,10 +83,10 @@ layout: default
 
 </style>
 
-<section class="project-gallery padded centered capped-width chocolat-parent">
+<section class="project-gallery padded centered capped-width">
 
   {% for item in page.gallery-images %}
-  <a class="col-{{item.size}} padded-05 chocolat-image" href="{{item.image_path}}">
+  <a class="col-{{item.size}} padded-05" href="{{item.image_path}}" data-fancybox="gallery">
     <div style="background-image:url('{{item.image_path}}')" class="bg-image {{item.size}}"></div>
   </a>
   {% endfor %}
