@@ -1,0 +1,54 @@
+<section class="v-light-bg padded-2 related-projects">
+
+<h4 class="centered subtle-heading"> RELATED PROJECTS. </h4>
+
+<div class="mob-horizontal-scroll grid">
+
+  {% assign counter == '0' %}
+  {% assign page-category = page.categories[0] %}
+  {% assign relevant-projects = site.projects | where_exp:"project", "project.categories contains page-category" %}
+
+  {% assign related-projects = relevant-projects | where_exp:"project","project.url != page.url" %}
+
+  {% for project in related-projects limit:4 %}
+
+      <a href="{{project.url}}" class="col-3_xs-10 padded-1 centered">
+        <div class="bg-image square" style="background-image:url({{project.featured_image}})"> </div>
+        <h3 class="margin-top-1"> {{project.title}} </h3>
+      </a>
+
+
+  {% endfor %}
+</div>
+
+</section>
+
+<style>
+.related-projects h3 {
+  font-size: 1.4rem;
+}
+
+/* XS Breakpoint */
+@media(max-width:576px) {
+  .related-projects {
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom: 0;
+  }
+
+  .mob-horizontal-scroll a {
+    margin-bottom: 2rem;
+  }
+
+  .mob-horizontal-scroll a:first-of-type {
+    margin-left: 1rem;
+  }
+
+  .mob-horizontal-scroll a:last-of-type {
+    margin-right: 1rem;
+  }
+
+
+}
+
+</style>
