@@ -1,6 +1,6 @@
-<section class="{{include.block-classes}}">
+<section class="{{include.block.block-classes | array_to_sentence_string }}">
 
-  <div class="{{include.inner-block-classes}}">
+  <div class="{{include.block.inner-block-classes | array_to_sentence_string }}">
 
       {{include.block.content_html}}
 

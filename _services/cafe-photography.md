@@ -23,7 +23,7 @@ page_blocks:
       - image_path: /images/alex-hossick/eon-hossick-11.jpg
         aspect-ratio: portrait
     gallery-text_html:
-  - _id: text-blog
+  - _id: text-block
     block-classes:
       - padded-5p
     inner-block-classes:
@@ -105,4 +105,3 @@ marketing-gallery:
   - /images/ig-feeds/kokoon.png
   - /images/ig-feeds/kozue.png
 ---
-
