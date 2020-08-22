@@ -1,5 +1,10 @@
-<section class="padded centered">
+<section class="{{include.block-class}}">
 
-{{include.block.content_html}}
+  <div class="{{include.inner-block-class}}">
 
+      {{content}}
+
+      {{include.block.content_html}}
+
+  </div>
 </section>

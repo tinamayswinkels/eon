@@ -9,8 +9,10 @@ title: blog
 
   <div class="grid blog-loop">
 
-    {% for post in site.categories[page.category] %}
+    {% for post in site.documents %}
+      {% unless post.hidden == true %}
         {% include post-loop-item.html %}
+      {% endunless %}
     {% endfor %}
 
   </div>
