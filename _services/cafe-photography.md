@@ -20,6 +20,8 @@ page_blocks:
         aspect-ratio: portrait
       - image_path: /images/alex-hossick/eon-hossick-10.jpg
         aspect-ratio: portrait
+      - image_path: /images/alex-hossick/eon-hossick-11.jpg
+        aspect-ratio: portrait
     gallery-text_html:
 gallery-images:
   - image_path: /images/Portfolio – 2.jpg
