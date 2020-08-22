@@ -87,8 +87,7 @@ page_blocks:
       - light-bg
     heading_html: >-
       <h2 class="align-to-center">Marketing &amp; Social Media
-      Management</h2><h4 class="align-to-center subtle-heading">for Cafes &amp;
-      Restaurants in Bali&nbsp;</h4> <hr class="centered">
+      Management</h2><hr class="centered" />
     columns:
       - column-size: col-4_sm-12
         block-classes:
