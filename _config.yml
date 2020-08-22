@@ -41,6 +41,21 @@ block-classes:
   - padded-2
   - padded-5p
   - border-center
+  - bg-split-white-tan
+  - bg-split-tan-white
+  - bg-v-white-tan
+
+inner-block-classes:
+  - light-bg
+  - featured-bg
+  - dark-bg
+  - padded-1
+  - padded-2
+  - padded-5p
+  - border-center
+  - bg-split-white-tan
+  - bg-split-tan-white
+  - bg-v-white-tan
 
 _options:
   body-content_html:
@@ -106,6 +121,13 @@ _array_structures:
         heading_html:
         gallery-images: []
         gallery-text_html:
+    - label: Text Block
+      icon: format_quote
+      value:
+        _id: text-blog
+        block-classes:
+        inner-block-classes:
+        content_html:
   columns:
     label: Column
     icon: collections
