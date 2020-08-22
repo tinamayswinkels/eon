@@ -1,11 +1,11 @@
 ---
 layout: project
 hidden: false
-title: Uma & Leopold
-subtitle: Resort Collection
+title: Two Islands
+subtitle: Have a little sip
 vertical-heading: true
-featured_image: /images/uma-resort/eon-uma-resort-12.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured_image: /images/two-islands/eon-twoislands-13.jpg
+featured-image-caption: Shot by Eyes of a Nomad
 intro-text_html: >-
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -14,11 +14,12 @@ intro-text_html: >-
   cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 categories:
-  - fashion
+  - food
+  - lifestyle
   - featured
 campaign:
   show-campaign-details: true
-  campaign-title: Resort Collection
+  campaign-title: Have a little sip
   campaign-text_html: >-
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -33,50 +34,62 @@ campaign:
   team-text-2_html: 'This was the name of the hmua, and a little bit of a blurb about her.'
   team-heading-3: Stylist
   team-text-3_html: 'This was the name of the stylist, and a little bit of a blurb about her.'
-  campaign_image: /images/uma-resort/eon-uma-resort-4.jpg
+  campaign_image: /images/two-islands/eon-twoislands-6.jpg
 gallery-images:
-  - image_path: /images/uma-resort/eon-uma-resort-1.jpg
-    alt: This is the alt text
-    size: one-half
-  - image_path: /images/uma-resort/eon-uma-resort-6.jpg
-    alt: This is the alt text
-    size: one-half
-  - image_path: /images/uma-resort/eon-uma-resort-5.jpg
-    alt: This is the alt text
-    size: full-width
-  - image_path: /images/uma-resort/eon-uma-resort-10.jpg
+  - image_path: /images/two-islands/eon-twoislands-39.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/uma-resort/eon-uma-resort-7.jpg
+  - image_path: /images/two-islands/eon-twoislands-31.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/two-islands/eon-twoislands-2.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/two-islands/eon-twoislands-11.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/two-islands/eon-twoislands-16.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/two-islands/eon-twoislands-1.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/two-islands/eon-twoislands-8.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/two-islands/eon-twoislands-33.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/two-islands/eon-twoislands-43.jpg
     alt: This is the alt text
     size: two-thirds
-  - image_path: /images/uma-resort/eon-uma-resort-11.jpg
+  - image_path: /images/two-islands/eon-twoislands-21.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/two-islands/eon-twoislands-14.jpg
     alt: This is the alt text
     size: one-half
-  - image_path: /images/uma-resort/eon-uma-resort-9.jpg
+  - image_path: /images/two-islands/eon-twoislands-38.jpg
     alt: This is the alt text
     size: one-half
-  - image_path: /images/uma-resort/eon-uma-resort-2.jpg
+  - image_path: /images/two-islands/eon-twoislands-15.jpg
+    alt: This is the alt text
+    size: two-thirds
+  - image_path: /images/two-islands/eon-twoislands-42.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/two-islands/eon-twoislands-44.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/two-islands/eon-twoislands-20.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/two-islands/eon-twoislands-10.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/two-islands/eon-twoislands-27.jpg
     alt: This is the alt text
     size: full-width
-  - image_path: /images/uma-resort/eon-uma-resort-8.jpg
-    alt: This is the alt text
-    size: one-half
-  - image_path: /images/uma-resort/eon-uma-resort-3.jpg
-    alt: This is the alt text
-    size: one-half
-  - image_path: /images/uma-resort/eon-uma-resort-16.jpg
-    alt: This is the alt text
-    size: one-third
-    aspect-ratio: tall-portrait
-  - image_path: /images/uma-resort/eon-uma-resort-13.jpg
-    alt: This is the alt text
-    size: one-third
-    aspect-ratio: tall-portrait
-  - image_path: /images/uma-resort/eon-uma-resort-15.jpg
-    alt: This is the alt text
-    size: one-third
-    aspect-ratio: tall-portrait
 gallery-text_html:
 _comments:
   layout: Don't touch this
