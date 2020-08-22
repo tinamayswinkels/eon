@@ -1,10 +1,10 @@
 ---
 layout: project
 hidden: false
-title: Kozue Niseko
-subtitle: A penthouse on the slopes
+title: Mandala The Bay
+subtitle: Nusa Lembongan
 vertical-heading: true
-featured_image: /images/kozue-niseko/eon-kozue-5.jpg
+featured_image: /images/mandala-thebay/eon-thebay-3.jpg
 featured-image-caption: Shot by Eyes of a Nomad
 intro-text_html: >-
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -19,7 +19,7 @@ categories:
   - featured
 campaign:
   show-campaign-details: true
-  campaign-title: A penthouse on the slopes
+  campaign-title: Nusa Lembongan
   campaign-text_html: >-
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -34,45 +34,75 @@ campaign:
   team-text-2_html: 'This was the name of the hmua, and a little bit of a blurb about her.'
   team-heading-3: Stylist
   team-text-3_html: 'This was the name of the stylist, and a little bit of a blurb about her.'
-  campaign_image: /images/kozue-niseko/eon-kozue-12.jpg
+  campaign_image: /images/mandala-thebay/eon-thebay-9.jpg
 gallery-images:
-  - image_path: /images/kozue-niseko/eon-kozue-14.jpg
+  - image_path: /images/mandala-thebay/eon-thebay-22.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/mandala-thebay/eon-thebay-28.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/mandala-thebay/eon-thebay-18.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/mandala-thebay/eon-thebay-14.jpg
     alt: This is the alt text
     size: full-width
-  - image_path: /images/kozue-niseko/eon-kozue-2.jpg
-    alt: This is the alt text
-    size: one-third
-  - image_path: /images/kozue-niseko/eon-kozue-10.jpg
-    alt: This is the alt text
-    size: one-third
-  - image_path: /images/kozue-niseko/eon-kozue-6.jpg
-    alt: This is the alt text
-    size: one-third
-  - image_path: /images/kozue-niseko/eon-kozue-8.jpg
+  - image_path: /images/mandala-thebay/eon-thebay-9.jpg
     alt: This is the alt text
     size: one-half
-  - image_path: /images/kozue-niseko/eon-kozue-11.jpg
+  - image_path: /images/mandala-thebay/eon-thebay-25.jpg
     alt: This is the alt text
     size: one-half
-  - image_path: /images/kozue-niseko/eon-kozue-15.jpg
+  - image_path: /images/mandala-thebay/eon-thebay-41.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/kozue-niseko/eon-kozue-1.jpg
-    alt: This is the alt text
-    size: one-third
-  - image_path: /images/kozue-niseko/eon-kozue-9.jpg
-    alt: This is the alt text
-    size: one-third
-  - image_path: /images/kozue-niseko/eon-kozue-4.jpg
-    alt: This is the alt text
-    size: one-third
-  - image_path: /images/kozue-niseko/eon-kozue-3.jpg
+  - image_path: /images/mandala-thebay/eon-thebay-38.jpg
     alt: This is the alt text
     size: two-thirds
-  - image_path: /images/kozue-niseko/eon-kozue-21.jpg
+  - image_path: /images/mandala-thebay/eon-thebay-32.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/mandala-thebay/eon-thebay-5.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/mandala-thebay/eon-thebay-63.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/mandala-thebay/eon-thebay-58.jpg
     alt: This is the alt text
     size: one-half
-  - image_path: /images/kozue-niseko/eon-kozue-7.jpg
+  - image_path: /images/mandala-thebay/eon-thebay-42.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/mandala-thebay/eon-thebay-1.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/mandala-thebay/eon-thebay-60.jpg
+    alt: This is the alt text
+    size: two-thirds
+  - image_path: /images/mandala-thebay/eon-thebay-50.jpg
+    alt: This is the alt text
+    size: full-width
+  - image_path: /images/mandala-thebay/eon-thebay-8.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/mandala-thebay/eon-thebay-47.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/mandala-thebay/eon-thebay-30.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/mandala-thebay/eon-thebay-31.jpg
+    alt: This is the alt text
+    size: two-thirds
+  - image_path: /images/mandala-thebay/eon-thebay-20.jpg
+    alt: This is the alt text
+    size: full-width
+  - image_path: /images/mandala-thebay/eon-thebay-61.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/mandala-thebay/eon-thebay-62.jpg
     alt: This is the alt text
     size: one-half
 gallery-text_html:
