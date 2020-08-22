@@ -57,9 +57,9 @@ page_blocks:
     gallery-images:
       - image_path: /images/uma-2020/eon-uma2020-29.jpg
         aspect-ratio: portrait-tall
-      - image_path: /images/uma-2020/eon-uma2020-23.jpg
-        aspect-ratio: portrait-tall
       - image_path: /images/uma-2020/eon-uma2020-20.jpg
+        aspect-ratio: portrait-tall
+      - image_path: /images/uma-2020/eon-uma2020-23.jpg
         aspect-ratio: portrait-tall
     gallery-text_html:
   - _id: cols
