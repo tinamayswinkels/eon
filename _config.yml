@@ -52,6 +52,7 @@ inner-block-classes:
   - padded-1
   - padded-2
   - padded-5p
+  - padded-tall
   - border-center
   - bg-split-white-tan
   - bg-split-tan-white
