@@ -1,11 +1,11 @@
 <section class="grid {{block.block-classes}}">
 
-  {% unless block.heading_html == nil %}
+  {% unless include.block.heading_html == nil %}
   <div class="col-12">
       {{include.block.heading_html}}
   </div>
 
-  {% for col in block.columns %}
+  {% for col in include.block.columns %}
 
   <div class="{{col.size}} {{col.block-classes}}">
     {{col.text_html}}

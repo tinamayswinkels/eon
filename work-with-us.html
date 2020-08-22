@@ -10,15 +10,17 @@ photography-gallery:
   - /images/forsoul-2019/eon-forsoul-1.jpg
   - /images/forsoul-2019/eon-forsoul-1.jpg
 videography-2_image: /images/forsoul-2019/eon-forsoul-1.jpg
-marketing-gallery:
-  - /images/ig-feeds/elkabron.png
-  - /images/ig-feeds/hollydae.png
-  - /images/ig-feeds/nest.png
-  - /images/ig-feeds/riad.png
-  - /images/ig-feeds/synkonah.png
-  - /images/ig-feeds/uluwatusurfvillas.png
-  - /images/ig-feeds/kokoon.png
-  - /images/ig-feeds/kozue.png
+services:
+  - name: Fashion
+    image_path: /images/forsoul-2019/eon-forsoul-1.jpg
+  - name: Lifestyle
+    image_path: /images/forsoul-2019/eon-forsoul-1.jpg
+  - name: Venue
+    image_path: /images/forsoul-2019/eon-forsoul-1.jpg
+  - name: Food
+    image_path: /images/forsoul-2019/eon-forsoul-1.jpg
+  - name: Product
+    image_path: /images/forsoul-2019/eon-forsoul-1.jpg
 ---
 
 <!-- Heading Banner  -->
@@ -252,24 +254,27 @@ marketing-gallery:
   </div>
 </section>
 
-<!-- IG Feed Gallery -->
-<section class="padded padded-t-15vh ">
+<section class="padded v-light-bg service-type">
+  <h2 class="centered"> Explore in detail </h2>
+  <div class="padded grid">
 
-  <div class="grid marketing-gallery mob-horizontal-scroll">
-  {% for image in page.marketing-gallery %}
+    {% for service in page.services %}
+    <div class="col-4">
+      <a class="grid bg-image" href="/services/{{service.name}}" style="background-image:url('{{service.image_path}}')">
+        <h3 class="col-12-bottom big-bold padded-1"> {{service.name}}.</h3>
+        <div class="overlay gradient">
+        </div>
+      </a>
+    </div>
+    {% endfor%}
 
-  <div class="col-3_xs-10">
-    <a href="{{image}}" data-fancybox="gallery" class="bg-image tall-portrait" style="background-image:url({{image}}"> </a>
-  </div>
-
-  {% endfor %}
-  </div>
-
-  <div class="right padded-1">
-      <a href="/contact" class="subtle-button"> Make an Enquiry > </a>
-  </div>
-
+    <div class="col-4-bottom padded-1">
+      <p class="emphasis"> Looking for <br> something unique? </p>
+      <a class="subtle-button" href="contact"> Let's Chat > </a>
+    </div>
+</div>
 </section>
+
 
 <!-- Style  -->
 <style>
@@ -310,8 +315,33 @@ marketing-gallery:
     border: 2px solid white;
   }
 
-  .marketing-gallery .bg-image {
-    border: 1rem solid white;
+  .service-type .bg-image{
+    border: 2px solid #f8f6f4;
+    position: relative;
+    padding-top:120%;
+  }
+
+  .service-type .big-bold {
+    font-size: 4vw;
+    color: white;
+    position: relative;
+    z-index: 3;
+    margin-bottom:0;
+  }
+
+  .overlay.gradient {
+    background: rgba(56,56,56,0.5);
+    background: linear-gradient(0deg, rgba(60,60,60,0.5) 0%, rgba(60,60,60,0) 50%);
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom: 0;
+    transition: all 0.5s;
+  }
+
+  .overlay.gradient:hover {
+    background: linear-gradient(0deg, rgba(60,60,60,0.9) 0%, rgba(60,60,60,0.2) 50%);
   }
 
   .mixed-gallery .tall-portrait {

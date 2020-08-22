@@ -20,7 +20,7 @@ layout: default
 
 <section class="gallery padded centered grid padded-t-0">
 
-  {% for item in page.gallery-images %}
+  {% for item in include.block.gallery-images %}
   <div class="col-4 padded-05">
     <div style="background-image:url('{{item.image_path}}')" class="bg-image {{item.aspect-ratio}}"></div>
   </div>
@@ -44,6 +44,26 @@ layout: default
   {% endfor %}
 
   <div class="margin-top-1"> {{page.gallery-text_html}}</div>
+</section>
+
+
+<!-- IG Feed Gallery -->
+<section class="padded padded-t-15vh ">
+
+  <div class="grid marketing-gallery mob-horizontal-scroll">
+  {% for image in page.marketing-gallery %}
+
+  <div class="col-3_xs-10">
+    <a href="{{image}}" data-fancybox="gallery" class="bg-image tall-portrait" style="background-image:url({{image}}"> </a>
+  </div>
+
+  {% endfor %}
+  </div>
+
+  <div class="right padded-1">
+      <a href="/contact" class="subtle-button"> Make an Enquiry > </a>
+  </div>
+
 </section>
 
 

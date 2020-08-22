@@ -91,25 +91,6 @@ sass:
 page_blocks: []
 _array_structures:
   page_blocks:
-    - label: Banner
-      icon: ballot
-      value:
-        _id: banner
-        background_image:
-        block-classes:
-        heading:
-        sub-heading:
-        link-text:
-        link_url:
-    - label: CTA
-      icon: format_quote
-      value:
-        _id: cta
-        block-classes:
-        heading:
-        description:
-        link-text:
-        link_url:
     - label: Flexible Cols
       icon: format_quote
       value:
@@ -117,6 +98,14 @@ _array_structures:
         block-classes:
         heading_html:
         columns: []
+    - label: Gallery
+      icon: format_quote
+      value:
+        _id: gallery
+        block-classes:
+        heading_html:
+        gallery-images: []
+        gallery-text_html:
   columns:
     label: Column
     icon: collections
@@ -124,3 +113,9 @@ _array_structures:
       size:
       class:
       text_html:
+  gallery-images:
+    label: Gallery Images
+    icon: collections
+    value:
+      image_path:
+      aspect-ratio:
