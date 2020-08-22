@@ -62,6 +62,25 @@ page_blocks:
       - image_path: /images/uma-2020/eon-uma2020-23.jpg
         aspect-ratio: portrait-tall
     gallery-text_html:
+  - _id: gallery
+    block-classes:
+      - padded-tall
+    heading_html: >-
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
+      ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
+      est laborum.</p><p>&nbsp;</p>
+    gallery-images:
+      - image_path: /images/asri-swim/eon-asri-39.jpg
+        aspect-ratio: portrait-tall
+      - image_path: /images/asri-swim/eon-asri-43.jpg
+        aspect-ratio: portrait-tall
+      - image_path: /images/asri-swim/eon-asri-40.jpg
+        aspect-ratio: portrait-tall
+    gallery-text_html:
   - _id: cols
     block-classes:
       - padded-tall
@@ -97,25 +116,6 @@ page_blocks:
           adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
           magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
           ullamco laboris nisi ut aliquip ex ea commodo consequat.&nbsp;</p>
-  - _id: gallery
-    block-classes:
-      - padded-tall
-    heading_html: >-
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-      ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-      est laborum.</p>
-    gallery-images:
-      - image_path: /images/asri-swim/eon-asri-39.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/asri-swim/eon-asri-43.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/asri-swim/eon-asri-40.jpg
-        aspect-ratio: portrait-tall
-    gallery-text_html:
   - _id: gallery
     block-classes:
       - padded-tall
