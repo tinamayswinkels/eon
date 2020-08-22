@@ -4,6 +4,7 @@ title: Restaurants & Cafes
 category: cafe
 featured_image: /images/placeholder-2.jpg
 intro-text_html: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+page_blocks:
 gallery-images:
   - image_path: /images/Portfolio – 2.jpg
     alt: This is the alt text
