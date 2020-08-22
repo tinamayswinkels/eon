@@ -73,11 +73,8 @@ page_blocks:
           <h3>Marketing Strategy&nbsp;</h3><p>Lorem ipsum dolor sit amet,
           consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
           labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-          exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est
-          laborum.</p>
+          exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat.</p>
       - column-size: col-4_sm-12
         block-classes:
           - padded-2
@@ -85,11 +82,8 @@ page_blocks:
           <h3>Social Media Management</h3><p>Lorem ipsum dolor sit amet,
           consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
           labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-          exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est
-          laborum.</p>
+          exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat.</p>
       - column-size: col-4_sm-12
         block-classes:
           - padded-2
@@ -97,10 +91,7 @@ page_blocks:
           <h3>How we work&nbsp;</h3><p>Lorem ipsum dolor sit amet, consectetur
           adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
           magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-          ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-          irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-          fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-          sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          ullamco laboris nisi ut aliquip ex ea commodo consequat.&nbsp;</p>
 gallery-images:
   - image_path: /images/Portfolio – 2.jpg
     alt: This is the alt text
