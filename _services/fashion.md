@@ -22,6 +22,12 @@ page_blocks:
         aspect-ratio: portrait
       - image_path: /images/alex-hossick/eon-hossick-11.jpg
         aspect-ratio: portrait
+      - image_path: /images/alex-hossick/eon-hossick-36.jpg
+        aspect-ratio: portrait-tall
+      - image_path: /images/alex-hossick/eon-hossick-30.jpg
+        aspect-ratio: portrait-tall
+      - image_path: /images/alex-hossick/eon-hossick-35.jpg
+        aspect-ratio: portrait-tall
     gallery-text_html:
   - _id: text-block
     block-classes:
