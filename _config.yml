@@ -58,10 +58,19 @@ inner-block-classes:
   - bg-v-white-tan
 
 _options:
+  heading_html:
+    format: p h1 h2 h3 h4 h5 h6
+    right: align-to-right
+    center: align-to-center
+    left: align-to-left
+    bold: true
+    italic: true
+    link: true
+    styles: /assets/editor.css
   body-content_html:
     blockquote: true
     horizontalrule: true
-    format: p h1 h2 h3 h4 h5 h6 pre address div
+    format: p h1 h2 h3 h4 h5 h6
     bold: true
     italic: true
     numberedlist: true
@@ -132,7 +141,7 @@ _array_structures:
     label: Column
     icon: collections
     value:
-      size:
+      column-size:
       class:
       text_html:
   gallery-images:

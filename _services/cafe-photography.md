@@ -65,8 +65,8 @@ page_blocks:
       <h2>Marketing &amp; Social Media Management</h2><h4>for Cafes &amp;
       Restaurants in Bali&nbsp;</h4>
     columns:
-      - size: one-third
-        class: padded-2
+      - column-size: col-4_sm-12
+        block-classes: ['padded-2']
         text_html: >-
           <h3>Marketing Strategy&nbsp;</h3><p>Lorem ipsum dolor sit amet,
           consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
@@ -76,8 +76,8 @@ page_blocks:
           dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
           proident, sunt in culpa qui officia deserunt mollit anim id est
           laborum.</p>
-      - size: one-third
-        class: padded-2
+      - column-size: col-4_sm-12
+        block-classes: ['padded-2']
         text_html: >-
           <h3>Social Media Management</h3><p>Lorem ipsum dolor sit amet,
           consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
@@ -87,8 +87,8 @@ page_blocks:
           dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
           proident, sunt in culpa qui officia deserunt mollit anim id est
           laborum.</p>
-      - size: one-third
-        class: padded-2
+      - column-size: col-4_sm-12
+        block-classes: ['padded-2']
         text_html: >-
           <h3>How we work&nbsp;</h3><p>Lorem ipsum dolor sit amet, consectetur
           adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
@@ -145,4 +145,3 @@ marketing-gallery:
   - /images/ig-feeds/kokoon.png
   - /images/ig-feeds/kozue.png
 ---
-
