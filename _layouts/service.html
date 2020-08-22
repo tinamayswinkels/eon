@@ -24,43 +24,23 @@ page_blocks:
 {% endfor %}
 
 <section class="padded">
-  <div class="padded bg-v-white-tan">
-    {{content}}
-  </div>
-</section>
-
-<section class="gallery padded centered grid padded-t-0">
-
-  {% for item in page.gallery-feeds %}
-
-  <img src="{{item.image_path}}" class="one-third"></div>
-
-  {% endfor %}
-
-  <div class="margin-top-1"> {{page.gallery-text_html}}</div>
-</section>
+  <h2 class="medium-text big-bold"> Explore More Projects. </h2>
 
 
-<!-- IG Feed Gallery -->
-<section class="padded padded-t-15vh ">
+    <div class="grid mob-horizontal-scroll">
 
-  <div class="grid marketing-gallery mob-horizontal-scroll">
-  {% for image in page.marketing-gallery %}
+      {% assign page-category = page.category %}
+      {% assign relevant-projects = site.projects | where_exp:"project", "project.categories contains page-category" %}
 
-  <div class="col-3_xs-10">
-    <a href="{{image}}" data-fancybox="gallery" class="bg-image tall-portrait" style="background-image:url({{image}}"> </a>
-  </div>
+      {% for project in relevant-projects reversed %}
 
-  {% endfor %}
-  </div>
+        {% include project-loop-item.html %}
 
-  <div class="right padded-1">
-      <a href="/contact" class="subtle-button"> Make an Enquiry > </a>
-  </div>
+      {% endfor %}
+
+    </div>
 
 </section>
-
-
 <style>
   .big-bold {
     position: relative;

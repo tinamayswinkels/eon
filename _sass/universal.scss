@@ -38,7 +38,8 @@
     display: block;
   }
 
-  .tall-portrait {
+  .tall-portrait,
+  .portrait-tall {
     padding-bottom: 175%;
   }
 
@@ -110,11 +111,12 @@
 
   /* ------------- Utility Classes --------------  */
 
-  .left     {  text-align: left;     }
-  .right    {  text-align: right;    }
-  .centered {  text-align: center;   }
+  .left, .align-to-left     {  text-align: left;     }
+  .right, .align-to-right     {  text-align: right;    }
+  .centered, .align-to-center  {  text-align: center;   }
 
-  .padded      {  padding: 5%;    }
+  .padded, .padded-5p      {  padding: 5%;    }
+  .padded-tall    {  padding: 15vh 5%;    }
   .padded-10   {  padding: 10%;    }
   .padded-v {  padding-top: 5%; padding-bottom: 5%;  }
   .padded-5vw { padding: 5vw;  }

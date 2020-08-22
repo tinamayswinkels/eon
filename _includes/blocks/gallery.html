@@ -5,6 +5,8 @@
       {{include.block.heading_html}}
   </div>
 
+  {% endunless %}
+
   {% for item in include.block.gallery-images %}
   <a class="col-4 padded-05" href="{{item.image_path}}" data-fancybox="gallery">
     <div style="background-image:url('{{item.image_path}}')" class="bg-image {{item.aspect-ratio}}"></div>

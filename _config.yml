@@ -40,13 +40,40 @@ block-classes:
   - padded-1
   - padded-2
   - padded-5p
+  - padded-tall
   - border-center
+  - bg-split-white-tan
+  - bg-split-tan-white
+  - bg-v-white-tan
+
+inner-block-classes:
+  - light-bg
+  - featured-bg
+  - dark-bg
+  - padded-1
+  - padded-2
+  - padded-5p
+  - padded-tall
+  - border-center
+  - bg-split-white-tan
+  - bg-split-tan-white
+  - bg-v-white-tan
 
 _options:
+  heading_html:
+    format: p h1 h2 h3 h4 h5 h6
+    right: align-to-right
+    center: align-to-center
+    left: align-to-left
+    bold: true
+    italic: true
+    link: true
+    horizontalrule: true
+    styles: /assets/editor.css
   body-content_html:
     blockquote: true
     horizontalrule: true
-    format: p h1 h2 h3 h4 h5 h6 pre address div
+    format: p h1 h2 h3 h4 h5 h6
     bold: true
     italic: true
     numberedlist: true
@@ -106,11 +133,18 @@ _array_structures:
         heading_html:
         gallery-images: []
         gallery-text_html:
+    - label: Text Block
+      icon: format_quote
+      value:
+        _id: text-block
+        block-classes:
+        inner-block-classes:
+        content_html:
   columns:
     label: Column
     icon: collections
     value:
-      size:
+      column-size:
       class:
       text_html:
   gallery-images:
