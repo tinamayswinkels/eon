@@ -1,10 +1,10 @@
 ---
 layout: project
 hidden: false
-title: River House
-subtitle: Luxury Pererenan Villa
+title: Kozue Niseko
+subtitle: A penthouse on the slopes
 vertical-heading: true
-featured_image: /images/riverhouse/eon-riverhouse-40.jpg
+featured_image: /images/kozue-niseko/eon-kozue-40.jpg
 featured-image-caption: Shot by Eyes of a Nomad
 intro-text_html: >-
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -19,7 +19,7 @@ categories:
   - featured
 campaign:
   show-campaign-details: true
-  campaign-title: Luxury Pererenan Villa
+  campaign-title: A penthouse on the slopes
   campaign-text_html: >-
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -34,81 +34,81 @@ campaign:
   team-text-2_html: 'This was the name of the hmua, and a little bit of a blurb about her.'
   team-heading-3: Stylist
   team-text-3_html: 'This was the name of the stylist, and a little bit of a blurb about her.'
-  campaign_image: /images/riverhouse/eon-riverhouse-44.jpg
+  campaign_image: /images/kozue-niseko/eon-kozue-44.jpg
 gallery-images:
-  - image_path: /images/riverhouse/eon-riverhouse-41.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-41.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/riverhouse/eon-riverhouse-47.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-47.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/riverhouse/eon-riverhouse-1.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-1.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/riverhouse/eon-riverhouse-42.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-42.jpg
     alt: This is the alt text
     size: full-width
-  - image_path: /images/riverhouse/eon-riverhouse-45.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-45.jpg
     alt: This is the alt text
     size: one-half
-  - image_path: /images/riverhouse/eon-riverhouse-43.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-43.jpg
     alt: This is the alt text
     size: one-half
-  - image_path: /images/riverhouse/eon-riverhouse-20.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-20.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/riverhouse/eon-riverhouse-12.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-12.jpg
     alt: This is the alt text
     size: two-thirds
-  - image_path: /images/riverhouse/eon-riverhouse-35.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-35.jpg
     alt: This is the alt text
     size: two-thirds
-  - image_path: /images/riverhouse/eon-riverhouse-39.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-39.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/riverhouse/eon-riverhouse-18.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-18.jpg
     alt: This is the alt text
     size: full-width
-  - image_path: /images/riverhouse/eon-riverhouse-13.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-13.jpg
     alt: This is the alt text
     size: one-half
-  - image_path: /images/riverhouse/eon-riverhouse-28.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-28.jpg
     alt: This is the alt text
     size: one-half
-  - image_path: /images/riverhouse/eon-riverhouse-32.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-32.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/riverhouse/eon-riverhouse-9.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-9.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/riverhouse/eon-riverhouse-25.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-25.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/riverhouse/eon-riverhouse-11.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-11.jpg
     alt: This is the alt text
     size: full-width
-  - image_path: /images/riverhouse/eon-riverhouse-22.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-22.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/riverhouse/eon-riverhouse-6.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-6.jpg
     alt: This is the alt text
     size: two-thirds
-  - image_path: /images/riverhouse/eon-riverhouse-2.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-2.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/riverhouse/eon-riverhouse-17.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-17.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/riverhouse/eon-riverhouse-30.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-30.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/riverhouse/eon-riverhouse-50.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-50.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/riverhouse/eon-riverhouse-4.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-4.jpg
     alt: This is the alt text
     size: two-thirds
-  - image_path: /images/riverhouse/eon-riverhouse-23.jpg
+  - image_path: /images/kozue-niseko/eon-kozue-23.jpg
     alt: This is the alt text
     size: full-width
 gallery-text_html:
