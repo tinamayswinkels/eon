@@ -1,6 +1,6 @@
-<section class="{{include.block.block-classes | array_to_sentence_string }}">
+<section class="{{include.block.block-classes | join: ' ' }}">
 
-  <div class="{{include.block.inner-block-classes | array_to_sentence_string }}">
+  <div class="{{include.block.inner-block-classes | join: ' ' }}">
 
       {{include.block.content_html}}
 

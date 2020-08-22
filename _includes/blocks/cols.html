@@ -1,4 +1,4 @@
-<section class="grid {{include.block.block-classes | array_to_sentence_string }}">
+<section class="grid {{include.block.block-classes | join: ' ' }}">
 
   {% unless include.block.heading_html == nil %}
   <div class="col-12">
@@ -8,7 +8,7 @@
 
   {% for col in include.block.columns %}
 
-  <div class="{{col.column-size}} {{col.block-classes  | array_to_sentence_string }}">
+  <div class="{{col.column-size}} {{col.block-classes  | join: ' ' }}">
     {{col.text_html}}
   </div>
 
