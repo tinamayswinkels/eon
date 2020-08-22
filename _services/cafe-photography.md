@@ -45,6 +45,18 @@ page_blocks:
       cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
       non proident, sunt in culpa qui officia deserunt mollit anim id est
       laborum.</p>
+  - _id: gallery
+    block-classes:
+      - padded-5p
+    heading_html:
+    gallery-images:
+      - image_path: /images/alex-hossick/eon-hossick-36.jpg
+        aspect-ratio: portrait-tall
+      - image_path: /images/alex-hossick/eon-hossick-30.jpg
+        aspect-ratio: portrait-tall
+      - image_path: /images/alex-hossick/eon-hossick-35.jpg
+        aspect-ratio: portrait-tall
+    gallery-text_html:
 gallery-images:
   - image_path: /images/Portfolio – 2.jpg
     alt: This is the alt text
