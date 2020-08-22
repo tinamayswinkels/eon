@@ -1,7 +1,7 @@
 ---
 layout: project
 hidden: false
-title: Jane X Riverhouse
+title: Jane x Riverhouse
 subtitle: In the Jungle
 vertical-heading: true
 featured_image: /images/jane-riverhouse/eon-jane-3.jpg
@@ -50,7 +50,7 @@ gallery-images:
     aspect-ratio:
   - image_path: /images/jane-riverhouse/eon-jane-13.jpg
     alt: This is the alt text
-    size: full
+    size: full-width
     aspect-ratio:
   - image_path: /images/jane-riverhouse/eon-jane-14.jpg
     alt: This is the alt text
