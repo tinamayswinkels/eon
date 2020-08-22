@@ -92,4 +92,17 @@ page_blocks:
           adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
           magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
           ullamco laboris nisi ut aliquip ex ea commodo consequat.&nbsp;</p>
+  - _id: gallery
+    block-classes:
+      - padded-tall
+      - light-bg
+    heading_html:
+    gallery-images:
+      - image_path: /images/insta-mock/casa-mock.png
+        aspect-ratio: portrait-tall
+      - image_path: /images/insta-mock/twoislands-mock.png
+        aspect-ratio: portrait-tall
+      - image_path: /images/insta-mock/riverhouse-mock.png
+        aspect-ratio: portrait-tall
+    gallery-text_html:
 ---

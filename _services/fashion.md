@@ -28,7 +28,6 @@ page_blocks:
       - padded-tall
     inner-block-classes:
       - padded-5p
-      - bg-v-white-tan
     content_html: >-
       <h2 id="photography--videography-for-cafes-in-bali">Photography &amp;
       Videography for Cafes in Bali</h2><p>Lorem ipsum dolor sit amet,
@@ -98,11 +97,11 @@ page_blocks:
       - light-bg
     heading_html:
     gallery-images:
-      - image_path: /images/insta-mock/alex-hossick-mock.jpg
+      - image_path: /images/insta-mock/hossick-mock.png
         aspect-ratio: portrait-tall
-      - image_path: /images/insta-mock/liq-mock.jpg
+      - image_path: /images/insta-mock/liq-mock.png
         aspect-ratio: portrait-tall
-      - image_path: /images/insta-mock/riverhouse-mock.jpg
+      - image_path: /images/insta-mock/riverhouse-mock.png
         aspect-ratio: portrait-tall
     gallery-text_html:
 ---
