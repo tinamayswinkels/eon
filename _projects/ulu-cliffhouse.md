@@ -1,10 +1,10 @@
 ---
 layout: project
 hidden: false
-title: La Lunia
-subtitle: Komodo Sailing
+title: Ulu Cliffhouse
+subtitle: '& Clubhouse'
 vertical-heading: true
-featured_image: /images/komodo/eon-komodo-56.jpg
+featured_image: /images/ulu-cliffhouse/eon-cliffhouse-38.jpg
 featured-image-caption: Shot by Eyes of a Nomad
 intro-text_html: >-
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -15,11 +15,10 @@ intro-text_html: >-
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 categories:
   - venue
-  - lifestyle
   - featured
 campaign:
   show-campaign-details: true
-  campaign-title: Komodo Sailing
+  campaign-title: '& Clubhouse'
   campaign-text_html: >-
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -34,68 +33,77 @@ campaign:
   team-text-2_html: 'This was the name of the hmua, and a little bit of a blurb about her.'
   team-heading-3: Stylist
   team-text-3_html: 'This was the name of the stylist, and a little bit of a blurb about her.'
-  campaign_image: /images/komodo/eon-komodo-35.jpg
+  campaign_image: /images/ulu-cliffhouse/eon-cliffhouse-8.jpg
 gallery-images:
-  - image_path: /images/komodo/eon-komodo-11.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-9.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/komodo/eon-komodo-39.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-5.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/komodo/eon-komodo-31.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-12.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/komodo/eon-komodo-42.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-34.jpg
     alt: This is the alt text
     size: full-width
-  - image_path: /images/komodo/eon-komodo-13.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-17.jpg
     alt: This is the alt text
     size: one-half
-  - image_path: /images/komodo/eon-komodo-55.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-30.jpg
     alt: This is the alt text
     size: one-half
-  - image_path: /images/komodo/eon-komodo-5.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-36.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/komodo/eon-komodo-44.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-10.jpg
     alt: This is the alt text
     size: two-thirds
-  - image_path: /images/komodo/eon-komodo-32.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-35.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/komodo/eon-komodo-30.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-4.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/komodo/eon-komodo-9.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-20.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/komodo/eon-komodo-50.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-28.jpg
     alt: This is the alt text
     size: one-half
-  - image_path: /images/komodo/eon-komodo-52.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-3.jpg
     alt: This is the alt text
     size: one-half
-  - image_path: /images/komodo/eon-komodo-6.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-22.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/komodo/eon-komodo-27.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-13.jpg
     alt: This is the alt text
     size: two-thirds
-  - image_path: /images/komodo/eon-komodo-53.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-37.jpg
     alt: This is the alt text
     size: full-width
-  - image_path: /images/komodo/eon-komodo-41.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-32.jpg
     alt: This is the alt text
     size: one-half
-  - image_path: /images/komodo/eon-komodo-57.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-2.jpg
     alt: This is the alt text
     size: one-half
-  - image_path: /images/komodo/eon-komodo-37.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-11.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/komodo/eon-komodo-33.jpg
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-39.jpg
     alt: This is the alt text
     size: two-thirds
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-15.jpg
+    alt: This is the alt text
+    size: full-width
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-1.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/ulu-cliffhouse/eon-cliffhouse-19.jpg
+    alt: This is the alt text
+    size: one-half
 gallery-text_html:
 _comments:
   layout: Don't touch this
