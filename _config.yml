@@ -124,7 +124,7 @@ _array_structures:
     - label: Text Block
       icon: format_quote
       value:
-        _id: text-blog
+        _id: text-block
         block-classes:
         inner-block-classes:
         content_html:
