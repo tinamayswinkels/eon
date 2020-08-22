@@ -38,31 +38,6 @@
     display: block;
   }
 
-  .tall-portrait,
-  .portrait-tall {
-    padding-bottom: 175%;
-  }
-
-  .portrait {
-    padding-bottom: 115%;
-  }
-
-  .square {
-    padding-bottom: 100%;
-  }
-
-  .landscape {
-    padding-bottom: 60%;
-  }
-
-  .tall-landscape {
-    padding-bottom: 69%;;
-  }
-
-  .wide-landscape {
-    padding-bottom: 40%;
-  }
-
   .project-gallery {
     display: flex;
     flex-flow: row wrap;
@@ -107,6 +82,33 @@
     .full-width {
       padding-bottom: 60%;
     }
+
+
+      .tall-portrait,
+      .portrait-tall {
+        padding-bottom: 175%;
+      }
+
+      .portrait {
+        padding-bottom: 115%;
+      }
+
+      .square {
+        padding-bottom: 100%;
+      }
+
+      .landscape {
+        padding-bottom: 60%;
+      }
+
+      .tall-landscape {
+        padding-bottom: 69%;;
+      }
+
+      .wide-landscape {
+        padding-bottom: 40%;
+      }
+
 
 
   /* ------------- Utility Classes --------------  */
