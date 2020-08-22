@@ -55,11 +55,11 @@ page_blocks:
       - padded-5p
     heading_html:
     gallery-images:
-      - image_path: /images/alex-hossick/eon-hossick-36.jpg
+      - image_path: /images/uma-2020/eon-uma2020-29.jpg
         aspect-ratio: portrait-tall
-      - image_path: /images/alex-hossick/eon-hossick-30.jpg
+      - image_path: /images/uma-2020/eon-uma2020-23.jpg
         aspect-ratio: portrait-tall
-      - image_path: /images/alex-hossick/eon-hossick-35.jpg
+      - image_path: /images/uma-2020/eon-uma2020-20.jpg
         aspect-ratio: portrait-tall
     gallery-text_html:
   - _id: cols
@@ -67,9 +67,9 @@ page_blocks:
       - padded-tall
       - light-bg
     heading_html: >-
-      <h2 class="align-to-center">Marketing &amp; Social Media Management</h2><h4
-      class="align-to-center subtle-heading">for Cafes &amp; Restaurants in
-      Bali&nbsp;</h4> <hr class="centered">
+      <h2 class="align-to-center">Marketing &amp; Social Media
+      Management</h2><h4 class="align-to-center subtle-heading">for Cafes &amp;
+      Restaurants in Bali&nbsp;</h4> <hr class="centered">
     columns:
       - column-size: col-4_sm-12
         block-classes:
@@ -111,3 +111,4 @@ page_blocks:
         aspect-ratio: portrait-tall
     gallery-text_html:
 ---
+
