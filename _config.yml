@@ -66,6 +66,7 @@ _options:
     bold: true
     italic: true
     link: true
+    horizontalrule: true
     styles: /assets/editor.css
   body-content_html:
     blockquote: true
