@@ -7,13 +7,66 @@ layout: default
     <div class="bg-image square" style="background-image:url({{page.featured_image}});"></div>
     <p class="image-caption"> {{page.featured-image-caption}} </p>
   </div>
-  <div class="col-6_sm-12 padded">
+  <div class="col-6_sm-12 padded title-container">
      <h1 class="big-bold {% unless page.vertical-heading == false %} vertical-text {% endunless %}"> {{page.title}}.</h1>
   </div>
   <div class="col-6_sm-12 padded-t-2">
          {{page.intro-text_html}}
   </div>
 </section>
+
+<!-- <section class="gallery padded centered padded-t-0">
+
+  {% for item in page.gallery limit:3 %}
+  <img src="{{item.image_path}}" class="{{item.size}}" alt="{{item.alt}}">
+  {% endfor %}
+</section> -->
+
+{% unless page.campaign.show-campaign-details == false %}
+
+<section class="padded grid-spaceAround padded-t-0 capped-width campaign-section">
+  <div class="col-8_sm-12">
+    <div class="padded-1">
+      <h2 class="big-bold campaign-heading padded-2-v"> {{page.campaign.campaign-title}}.</h2>
+      {{page.campaign.campaign-text_html}}
+    </div>
+    <div class="grid padded-2-v">
+      <div class="col-3_md-4_xs-12 padded-1">
+        <h3 class="subtle-heading"> {{page.campaign.team-heading-1}}</h3>
+        <p class="subtle"> {{page.campaign.team-text-1_html}} </p>
+      </div>
+      <div class="col-3_md-4_xs-12 padded-1">
+        <h3 class="subtle-heading"> {{page.campaign.team-heading-2}}</h3>
+        <p class="subtle"> {{page.campaign.team-text-2_html}} </p>
+      </div>
+      <div class="col-3_md-4_xs-12 padded-1">
+        <h3 class="subtle-heading"> {{page.campaign.team-heading-3}}</h3>
+        <p class="subtle"> {{page.campaign.team-text-3_html}} </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-4_sm-12-bottom padded-1 d-p-b-3 mob-order-1">
+      <div class="bg-image tall-portrait" style="background-image:url({{page.campaign.campaign_image}});"> </div>
+  </div>
+</section>
+
+{% endunless %}
+
+<section class="project-gallery padded centered capped-width">
+
+  {% for item in page.gallery-images %}
+  <a class="col-{{item.size}} padded-05" href="{{item.image_path}}" data-fancybox="gallery">
+    <div style="background-image:url('{{item.image_path}}')" class="bg-image {{item.size}}"></div>
+  </a>
+  {% endfor %}
+
+  <div class="margin-top-1"> {{page.gallery-text_html}}</div>
+</section>
+
+{% include related-projects.html %}
+
+
+<!-- On-page styles  -->
 
 <style>
 
@@ -31,65 +84,62 @@ layout: default
       margin-left: -10%;
     }
 
-</style>
-
-<!-- <section class="gallery padded centered padded-t-0">
-
-  {% for item in page.gallery limit:3 %}
-  <img src="{{item.image_path}}" class="{{item.size}}" alt="{{item.alt}}">
-  {% endfor %}
-</section> -->
-
-{% unless page.campaign.show-campaign-details == false %}
-
-<section class="padded grid-spaceAround padded-t-0 capped-width">
-  <div class="col-8_sm-12">
-    <div class="padded-1">
-      <h2 class="big-bold campaign-heading padded-2-v"> {{page.campaign.campaign-title}}.</h2>
-      {{page.campaign.campaign-text_html}}
-    </div>
-    <div class="grid padded-2-v">
-      <div class="col-3 padded-1">
-        <h3 class="subtle-heading"> {{page.campaign.team-heading-1}}</h3>
-        <p class="subtle"> {{page.campaign.team-text-1_html}} </p>
-      </div>
-      <div class="col-3 padded-1">
-        <h3 class="subtle-heading"> {{page.campaign.team-heading-2}}</h3>
-        <p class="subtle"> {{page.campaign.team-text-2_html}} </p>
-      </div>
-      <div class="col-3 padded-1">
-        <h3 class="subtle-heading"> {{page.campaign.team-heading-3}}</h3>
-        <p class="subtle"> {{page.campaign.team-text-3_html}} </p>
-      </div>
-    </div>
-  </div>
-  <div class="col-4_sm-12-bottom padded-1 d-p-b-3">
-      <div class="bg-image tall-portrait" style="background-image:url({{page.campaign.campaign_image}});"> </div>
-  </div>
-</section>
-
-{% endunless %}
-
-<style>
-  .campaign-heading {
-    font-size: 15vh;
-  }
-
-  @media(min-width:768px) {
-    .d-p-b-3 {
-      padding-bottom: 3rem;
+    .campaign-heading {
+      font-size: 8vw;
     }
-  }
+
+    @media(max-width:768px) {
+      .campaign-section {
+        background-color: #F2EEE9;
+        margin-top: 4rem;
+      }
+
+      .image-caption {
+        margin-left: -1.5rem;
+      }
+
+      .vertical-text {
+        font-size: 15vw;
+        transform: none;
+        margin-left: 0;
+        margin-bottom: 0;
+      }
+
+      .title-container {
+        padding: 5% 0 0;
+      }
+
+      .campaign-heading {
+        transform: rotate(270deg);
+        transform-origin: top left;
+        font-size: 6vh;
+        top: -2rem;
+        padding: 0;
+        position: relative;
+        width: 80vh;
+      }
+      .d-p-b-3 {
+        padding-left: 9vh;
+        margin-top: -4rem;
+      }
+
+      .campaign-heading + p {
+        margin-top: -2rem;
+      }
+      .subtle-heading {
+        font-size: 1.4rem;
+        text-transform: uppercase;
+      }
+      .tall-portrait {
+        padding-bottom: 150%;
+      }
+
+    }
+
+    @media(min-width:768px) {
+      .d-p-b-3 {
+        padding-bottom: 3rem;
+      }
+    }
 
 </style>
-
-<section class="project-gallery padded centered capped-width">
-
-  {% for item in page.gallery-images %}
-  <a class="col-{{item.size}} padded-05" href="{{item.image_path}}" data-fancybox="gallery">
-    <div style="background-image:url('{{item.image_path}}')" class="bg-image {{item.size}}"></div>
-  </a>
-  {% endfor %}
-
-  <div class="margin-top-1"> {{page.gallery-text_html}}</div>
-</section>

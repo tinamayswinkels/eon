@@ -18,11 +18,13 @@ $(document).ready(function() {
 		keyboard: true,
 		arrows: true,
 		infobar: false,
-		toolbar: false
+		buttons: [
+    "close"
+	  ],
 	});
 
 	// Slick Slider
-	$('.slick-blog-loop').slick({
+	$('.slick-video-loop').slick({
 		autoplay: false
 	});
 

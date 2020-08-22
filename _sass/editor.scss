@@ -6,6 +6,7 @@ p.emphasis {
 }
 p.subtle {
   font-family: "PT Sans";
+  font-weight: 300;
   font-size: 0.9rem;
 }
 
@@ -13,14 +14,17 @@ p.image-caption-left {
   transform: rotate(270deg);
   transform-origin: top left 0;
   margin-left: -2rem;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 
 p.image-caption-right {
-  transform: rotate(270deg);
-  transform-origin: top left 0;
-  margin-left: -2rem;
-  font-size: 0.8rem;
+  transform: rotate(90deg);
+  transform-origin: top right 0;
+  left: 2rem;
+  top: -0.5rem;
+  position: relative;
+  font-size: 0.9rem;
+  text-align: right;
 }
 
 /* Image Styles */
