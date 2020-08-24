@@ -169,7 +169,7 @@
   .dark-bg      {  background-color: #d7b1a2;  }
   .v-light-bg     {  background-color:#f8f6f4;  }
   .light-bg     {  background-color: #F2EEE9;  }
-  .featured-bg  {  background-color: #f9f0e7;  }
+  .featured-bg  {  background-color: #e8e1d9;  }
   .grey-bg      {  background-color: #f6f6f6;  }
 
   .bg-split-white-tan {
@@ -407,7 +407,8 @@
     font-size: 1.2rem;
   }
 
-  p.subtle {
+  p.subtle,
+  .subtle p {
     font-size: 0.9rem;
   }
 

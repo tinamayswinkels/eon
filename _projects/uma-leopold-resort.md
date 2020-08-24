@@ -5,14 +5,12 @@ title: Uma & Leopold
 subtitle: Resort Collection
 vertical-heading: true
 featured_image: /images/uma-resort/eon-uma-resort-12.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured-image-caption: Editorial fashion campaign shot in Bali
 intro-text_html: >-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Uma &amp; Leopold is an international fashion brand with pieces handcrafted
+  in Bali.&nbsp;<br /><br />Releasing a new collection focused on linens and
+  natural flowing fabrics, we were hired to deliver an editorial style campaign
+  with island resort vibes.&nbsp;</p>
 categories:
   - fashion
   - featured
@@ -20,19 +18,30 @@ campaign:
   show-campaign-details: true
   campaign-title: Resort Collection
   campaign-text_html: >-
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-    non proident, sunt in culpa qui officia deserunt mollit anim id est
-    laborum.</p>
-  team-heading-1: Model
-  team-text-1_html: 'This was the name of the model, and a little bit of a blurb about her.'
-  team-heading-2: HMUA
-  team-text-2_html: 'This was the name of the hmua, and a little bit of a blurb about her.'
-  team-heading-3: Stylist
-  team-text-3_html: 'This was the name of the stylist, and a little bit of a blurb about her.'
+    <p>For this project we handled everything from putting together moodboards
+    for the shoot and model selection, to creative direction on the day of the
+    shoot.&nbsp;<br /><br />For the location, we choose a space that has a mix
+    of textures and tones that would fit with the existing brand aesthetic on
+    social media and played with both soft morning light and harsher midday
+    light.&nbsp; Then for the studio shoot we wanted to mirror this casual
+    resort style capturing the movement of the outfits.&nbsp;</p>
+  team-heading-1: Brief
+  team-text-1_html: >-
+    <p>A full-day editorial campaign + studio shoot with deliverables for web
+    and social.</p>
+  team-heading-2: Team
+  team-text-2_html: >-
+    <p>Models - <a rel="noreferrer noopener" target="_blank"
+    href="https://instagram.com/chantal.ka?igshid=jgeqvc803efu">Chantal</a>
+    &amp; <a target="_blank" rel="noopener noreferrer" href="
+    https://instagram.com/ayakhnina?igshid=19ll3k0xcjs5q">Anastasia</a><br
+    />HMUA - <a target="_blank" rel="noopener noreferrer"
+    href="https://instagram.com/rosarinhor?igshid=u17kizpo7pco">Rosa</a><br
+    />Creative Direction - Kelapa Creative</p>
+  team-heading-3: Location
+  team-text-3_html: >-
+    <p>We shot this campaign at Mrs Sippy beach club in Seminyak Bali, rented
+    exclusively for the shoot.&nbsp;</p>
   campaign_image: /images/uma-resort/eon-uma-resort-4.jpg
 gallery-images:
   - image_path: /images/uma-resort/eon-uma-resort-1.jpg
@@ -68,16 +77,17 @@ gallery-images:
   - image_path: /images/uma-resort/eon-uma-resort-16.jpg
     alt: This is the alt text
     size: one-third
-    aspect-ratio: tall-portrait
+    aspect-ratio: portrait-tall
   - image_path: /images/uma-resort/eon-uma-resort-13.jpg
     alt: This is the alt text
     size: one-third
-    aspect-ratio: tall-portrait
+    aspect-ratio: portrait-tall
   - image_path: /images/uma-resort/eon-uma-resort-15.jpg
     alt: This is the alt text
     size: one-third
-    aspect-ratio: tall-portrait
+    aspect-ratio: portrait-tall
 gallery-text_html:
 _comments:
   layout: Don't touch this
 ---
+

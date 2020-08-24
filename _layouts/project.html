@@ -33,15 +33,15 @@ layout: default
     <div class="grid padded-2-v">
       <div class="col-3_md-4_xs-12 padded-1">
         <h3 class="subtle-heading"> {{page.campaign.team-heading-1}}</h3>
-        <p class="subtle"> {{page.campaign.team-text-1_html}} </p>
+        <div class="subtle"> {{page.campaign.team-text-1_html}} </div>
       </div>
       <div class="col-3_md-4_xs-12 padded-1">
         <h3 class="subtle-heading"> {{page.campaign.team-heading-2}}</h3>
-        <p class="subtle"> {{page.campaign.team-text-2_html}} </p>
+        <div class="subtle"> {{page.campaign.team-text-2_html}} </div>
       </div>
       <div class="col-3_md-4_xs-12 padded-1">
         <h3 class="subtle-heading"> {{page.campaign.team-heading-3}}</h3>
-        <p class="subtle"> {{page.campaign.team-text-3_html}} </p>
+        <div class="subtle"> {{page.campaign.team-text-3_html}} </div>
       </div>
     </div>
   </div>
@@ -88,6 +88,10 @@ layout: default
       font-size: 8vw;
     }
 
+    .campaign-section p a {
+      border-color: rgb(230,230,230);
+    }
+
     @media(max-width:768px) {
       .campaign-section {
         background-color: #F2EEE9;
@@ -118,6 +122,7 @@ layout: default
         position: relative;
         width: 80vh;
       }
+
       .d-p-b-3 {
         padding-left: 9vh;
         margin-top: -4rem;
