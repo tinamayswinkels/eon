@@ -37,18 +37,18 @@ header-class: on-top
     <form method="post" action="/success.html" class="enquiry capped-width">
 
       <div class="grid padded">
-      <div class="col-2 relative">
-        <h2 class="sm-bold vertical-text"> The Basics. </h2>
+      <div class="col-2_sm-12 relative">
+        <h2 class="sm-bold vertical-form-text"> The Basics. </h2>
       </div>
 
-      <div class="col-10 padded-2">
+      <div class="col-10_sm-12 padded-2">
         <div class="floating-input">
-          <input type="text" name="name" placeholder="Your Name" class="input-text">
+          <input type="text" name="name" placeholder="Your Name" class="input-text" required>
           <label class="input-label">Your Name</label>
         </div>
 
         <div class="floating-input">
-          <input type="text" name="email" placeholder="Your Email Address" class="input-text">
+          <input type="text" name="email" placeholder="Your Email Address" class="input-text" required>
           <label class="input-label">Your Email Address</label>
         </div>
 
@@ -61,18 +61,18 @@ header-class: on-top
     </div>
     <div class="grid padded">
 
-      <div class="col-2 relative">
-        <h2 class="sm-bold vertical-text"> The project. </h2>
+      <div class="col-2_sm-12 relative">
+        <h2 class="sm-bold vertical-form-text"> The project. </h2>
       </div>
 
-      <div class="col-10 padded-2">
+      <div class="col-10_sm-12 padded-2">
         <div class="floating-input">
-          <textarea name="message" placeholder="Tell me a little about your business or brand" class="input-text"></textarea>
+          <textarea name="message" placeholder="Tell me a little about your business or brand" class="input-text" required></textarea>
           <label class="input-label">Your Brand</label>
         </div>
 
         <div class="floating-input">
-          <textarea name="message" placeholder="Let me know what services you are looking for or how we can help." class="input-text"></textarea>
+          <textarea name="message" placeholder="Let me know what services you are looking for or how we can help." class="input-text" required></textarea>
           <label class="input-label">Your Message</label>
         </div>
 
@@ -120,23 +120,25 @@ header-class: on-top
     top: -2rem;
   }
 
-  form .vertical-text {
-    transform: rotate(270deg);
-    font-size: 8vh;
-    min-width: 60vh;
-    transform-origin: top left 0;
-    display: inline-block;
-    position: absolute;
-    left: 0;
-    top: 45vh;
-  }
-
   .contact p {
     margin-bottom:0.2rem;
   }
 
   .contact h4 {
     margin-top:2.5rem;
+  }
+
+  @media(min-width:768px) {
+    .vertical-form-text {
+      transform: rotate(270deg);
+      font-size: 8vh;
+      min-width: 60vh;
+      transform-origin: top left 0;
+      display: inline-block;
+      position: absolute;
+      left: 0;
+      top: 45vh;
+    }
   }
 
   @media(max-width:768px) {

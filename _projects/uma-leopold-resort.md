@@ -27,11 +27,11 @@ campaign:
     cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
     non proident, sunt in culpa qui officia deserunt mollit anim id est
     laborum.</p>
-  team-heading-1: Model
-  team-text-1_html: 'This was the name of the model, and a little bit of a blurb about her.'
-  team-heading-2: HMUA
+  team-heading-1: Brief
+  team-text-1_html: A full-day editorial campaign with deliverables for web and social.
+  team-heading-2: Team
   team-text-2_html: 'This was the name of the hmua, and a little bit of a blurb about her.'
-  team-heading-3: Stylist
+  team-heading-3: Location
   team-text-3_html: 'This was the name of the stylist, and a little bit of a blurb about her.'
   campaign_image: /images/uma-resort/eon-uma-resort-4.jpg
 gallery-images:
