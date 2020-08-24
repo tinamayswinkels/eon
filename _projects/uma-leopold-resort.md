@@ -5,7 +5,7 @@ title: Uma & Leopold
 subtitle: Resort Collection
 vertical-heading: true
 featured_image: /images/uma-resort/eon-uma-resort-12.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured-image-caption: Editorial fashion campaign shot by Eyes of a Nomad
 intro-text_html: >-
   <p>Uma &amp; Leopold is an international fashion brand with pieces handcrafted
   in Bali.&nbsp;<br /><br />Releasing a new collection focused on linens and
@@ -43,7 +43,7 @@ gallery-images:
     size: one-half
   - image_path: /images/uma-resort/eon-uma-resort-5.jpg
     alt: This is the alt text
-    size:
+    size: full
   - image_path: /images/uma-resort/eon-uma-resort-10.jpg
     alt: This is the alt text
     size: one-third
