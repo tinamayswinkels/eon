@@ -77,15 +77,15 @@ gallery-images:
   - image_path: /images/uma-resort/eon-uma-resort-16.jpg
     alt: This is the alt text
     size: one-third
-    aspect-ratio:
+    aspect-ratio: portrait-tall
   - image_path: /images/uma-resort/eon-uma-resort-13.jpg
     alt: This is the alt text
     size: one-third
-    aspect-ratio:
+    aspect-ratio: portrait-tall
   - image_path: /images/uma-resort/eon-uma-resort-15.jpg
     alt: This is the alt text
     size: one-third
-    aspect-ratio:
+    aspect-ratio: portrait-tall
 gallery-text_html:
 _comments:
   layout: Don't touch this
