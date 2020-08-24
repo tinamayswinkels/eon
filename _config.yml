@@ -17,7 +17,7 @@ collections:
     output: true
 
 sizes:
-  - full
+  - full-width
   - one-half
   - one-third
   - two-thirds
