@@ -20,17 +20,14 @@ campaign:
   show-campaign-details: true
   campaign-title: Resort Collection
   campaign-text_html: >-
-    <p>Releasing a new collection focused on linens and natural flowing fabrics,
-    we were hired to deliver an editorial style campaign with island resort
+    <p>We were hired to deliver an editorial style campaign with island resort
     vibes.&nbsp;</p><p>For this project we handled everything from putting
     together moodboards for the shoot and model selection, to creative direction
-    on the day of the shoot. We worked closely with the Uma &amp; Leopold team
-    who handled the styling of individual outfits and accessories.&nbsp;<br
-    /><br />For the location, we choose a space that has a mix of textures and
-    tones that would fit with the existing brand aesthetic on social media and
-    played with both soft morning light and harsher midday
-    light.&nbsp;</p><p>For the studio shoot we wanted to mirror this casual
-    resort capturing the movement of the outfits.&nbsp;</p>
+    on the day of the shoot.&nbsp;<br /><br />For the location, we choose a
+    space that has a mix of textures and tones that would fit with the existing
+    brand aesthetic on social media and played with both soft morning light and
+    harsher midday light.&nbsp; Then for the studio shoot we wanted to mirror
+    this casual resort style capturing the movement of the outfits.&nbsp;</p>
   team-heading-1: Brief
   team-text-1_html: <p>A full-day editorial campaign with deliverables for web and social.</p>
   team-heading-2: Team
