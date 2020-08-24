@@ -52,7 +52,7 @@ gallery-images:
     size: one-half
   - image_path: /images/uma-resort/eon-uma-resort-5.jpg
     alt: This is the alt text
-    size:
+    size: full-width
   - image_path: /images/uma-resort/eon-uma-resort-10.jpg
     alt: This is the alt text
     size: one-third
@@ -67,7 +67,7 @@ gallery-images:
     size: one-half
   - image_path: /images/uma-resort/eon-uma-resort-2.jpg
     alt: This is the alt text
-    size:
+    size: full-width
   - image_path: /images/uma-resort/eon-uma-resort-8.jpg
     alt: This is the alt text
     size: one-half
