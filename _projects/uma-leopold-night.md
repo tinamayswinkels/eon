@@ -107,15 +107,15 @@ gallery-images:
   - image_path: /images/uma-night/eon-uma-night-58.jpg
     alt: This is the alt text
     size: one-third
-    aspect-ratio: tall-portrait
+    aspect-ratio: portrait-tall
   - image_path: /images/uma-night/eon-uma-night-56.jpg
     alt: This is the alt text
     size: one-third
-    aspect-ratio: tall-portrait
+    aspect-ratio: portrait-tall
   - image_path: /images/uma-night/eon-uma-night-55.jpg
     alt: This is the alt text
     size: one-third
-    aspect-ratio: tall-portrait
+    aspect-ratio: portrait-tall
 gallery-text_html:
 _comments:
   layout: Don't touch this
