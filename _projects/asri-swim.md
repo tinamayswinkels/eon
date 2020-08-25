@@ -19,17 +19,33 @@ campaign:
   campaign-text_html: >-
     <p>Asri Swim came to us with the idea of using real, diverse customers
     instead of experienced models -- they wanted to showcase that anyone could
-    look amazing in their products.&nbsp;<br /><br />Shooting with 6 women, only
-    one of whom was an experienced model, was an ambitious plan but we were
-    happy to take on the challenge.&nbsp;</p><p>This shoot was shot with only
-    natural lighting and zero airbrushing, staying true to the ethos of the
+    look amazing in their products.&nbsp;<br /><br />Shooting with 6 women, many
+    of whom had no previous modelling experience, was an ambitious plan but we
+    were happy to take on the challenge.&nbsp;</p><p>This shoot was shot with
+    only natural lighting and zero airbrushing, staying true to the ethos of the
     brand.&nbsp;</p>
-  team-heading-1:
-  team-text-1_html:
-  team-heading-2:
-  team-text-2_html:
-  team-heading-3:
-  team-text-3_html:
+  team-heading-1: Team
+  team-text-1_html: >-
+    <p>Models - <a target="_blank" rel="noopener noreferrer"
+    href="https://instagram.com/mikaylaklewer?igshid=1wvuxf15bgd1v">Mikayla</a>,
+    <a target="_blank" rel="noopener noreferrer"
+    href="https://instagram.com/chaobellaa__?igshid=16ntiwlc1o7dh">Arabella</a>,
+    <a target="_blank" rel="noopener noreferrer"
+    href="https://instagram.com/titasahara_?igshid=cb18bkvy3x20">Tirtra</a>, <a
+    target="_blank" rel="noopener noreferrer"
+    href="https://instagram.com/josylucas?igshid=3etnjgjbdwne">Josy</a>&nbsp;&amp;&nbsp;<a
+    target="_blank" rel="noopener noreferrer"
+    href="https://instagram.com/nataliemuax?igshid=s876b2ekpwq">Natalie</a>&nbsp;<br
+    />&nbsp;</p>
+  team-heading-2: Brief
+  team-text-2_html: >-
+    <p>A half-day lifestyle shoot and studio shoot with deliverables for web and
+    social media.&nbsp;</p>
+  team-heading-3: Location
+  team-text-3_html: >-
+    <p>We shot this campaign at <a target="_blank" rel="noopener noreferrer"
+    href="https://instagram.com/mrssippybali?igshid=yp9wm3ublqiq">Mrs Sippy
+    Beach club</a>, rented exclusively for the shoot.&nbsp;</p>
   campaign_image: /images/asri-swim/eon-asri-21.jpg
 gallery-images:
   - image_path: /images/asri-swim/eon-asri-36.jpg
