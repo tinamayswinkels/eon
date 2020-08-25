@@ -98,11 +98,12 @@ page_blocks:
       - light-bg
     heading_html:
     gallery-images:
-      - image_path: /images/insta-mock/front-mock.png
+      - image_path: /images/insta-mock/food-mock/acorn-mock.png
         aspect-ratio: portrait-tall
-      - image_path: /images/insta-mock/twoislands-mock.png
+      - image_path: /images/insta-mock/food-mock/front-mock.png
         aspect-ratio: portrait-tall
-      - image_path: /images/insta-mock/riverhouse-mock.png
+      - image_path: /images/insta-mock/food-mock/nude-mock.png
         aspect-ratio: portrait-tall
     gallery-text_html:
 ---
+
