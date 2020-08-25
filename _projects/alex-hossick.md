@@ -5,7 +5,7 @@ title: Alex Hossick
 subtitle: Eyptsea Collection
 vertical-heading: true
 featured_image: /images/alex-hossick/eon-hossick-29.jpg
-featured-image-caption: Lifestyle Photoshoot at Uluwatu Beach
+featured-image-caption: 'Editorial jewellery shoot in Bali, Indonesia'
 intro-text_html: >-
   <p>Artisanal jewellery made by hand with texture, artistry, and precious
   materials for the collector of curiosities.<br /><br />The E<a target="_blank"
