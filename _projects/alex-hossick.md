@@ -41,7 +41,7 @@ campaign:
     https://instagram.com/kseniia_mua?igshid=4bki8dyofcev"> Kseniia</a>&nbsp;//
     Creative Direction by Kelapa Creative</p>
   team-heading-3: Location
-  team-text-3_html: '<p>Hidden beach in Bali, Indonesia</p>'
+  team-text-3_html: '<p>This shoot took place at a hidden beach in Bali, Indonesia</p>'
   campaign_image: /images/alex-hossick/eon-hossick-5.jpg
 gallery-images:
   - image_path: /images/alex-hossick/eon-hossick-9.jpg
