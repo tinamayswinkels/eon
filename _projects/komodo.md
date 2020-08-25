@@ -5,20 +5,19 @@ title: La Lunia
 subtitle: Komodo Sailing
 vertical-heading: true
 featured_image: /images/komodo/eon-komodo-56.jpg
-featured-image-caption: Shot by Eyes of a Nomad
+featured-image-caption: Komodo Sailing by Eyes of a Nomad
 intro-text_html: >-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>We were invited by the team at La Lunia&nbsp; to capture photography of
+  their liveaboard cruise through Komodo.&nbsp;</p><p>Our brief included
+  photography and videography for all aspects of the experience from the boat
+  itself and the food, to lifestyle images of our group, to drone photography of
+  the surrounding areas.&nbsp;</p>
 categories:
   - venue
   - lifestyle
   - featured
 campaign:
-  show-campaign-details: true
+  show-campaign-details: false
   campaign-title: Komodo Sailing
   campaign-text_html: >-
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -29,11 +28,15 @@ campaign:
     non proident, sunt in culpa qui officia deserunt mollit anim id est
     laborum.</p>
   team-heading-1: Model
-  team-text-1_html: 'This was the name of the model, and a little bit of a blurb about her.'
+  team-text-1_html: >-
+    <p>This was the name of the model, and a little bit of a blurb about
+    her.</p>
   team-heading-2: HMUA
-  team-text-2_html: 'This was the name of the hmua, and a little bit of a blurb about her.'
+  team-text-2_html: '<p>This was the name of the hmua, and a little bit of a blurb about her.</p>'
   team-heading-3: Stylist
-  team-text-3_html: 'This was the name of the stylist, and a little bit of a blurb about her.'
+  team-text-3_html: >-
+    <p>This was the name of the stylist, and a little bit of a blurb about
+    her.</p>
   campaign_image: /images/komodo/eon-komodo-35.jpg
 gallery-images:
   - image_path: /images/komodo/eon-komodo-11.jpg
@@ -100,3 +103,4 @@ gallery-text_html:
 _comments:
   layout: Don't touch this
 ---
+
