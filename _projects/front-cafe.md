@@ -23,7 +23,9 @@ campaign:
     showcase the amazing food, highlight key dishes, capture the venue etc. But
     we're also looking for the little things that make a big difference in
     appealing to the target audience, like conveying the playful attitude of the
-    venue or the friendly smile of the attentive staff.&nbsp;</p>
+    venue or the friendly smile of the attentive staff.&nbsp;</p><p>We created
+    key themes and repeatable elements that could carry the consistency through
+    each month.&nbsp;</p>
   team-heading-1: Brief
   team-text-1_html: >-
     <p>We created 30 days of social media content for Front Cafe, on a monthly
