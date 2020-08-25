@@ -5,14 +5,13 @@ title: Front Cafe
 subtitle: Social Stories
 vertical-heading: true
 featured_image: /images/front-cafe/eon-front-11.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured-image-caption: Social media photoshoot by Eyes of a Nomad
 intro-text_html: >-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Front Cafe is a locally owned hidden gem in the heart of Pererenan (the coo
+  big sister of Canggu) serving up delicious food and a cosy
+  environment.&nbsp;</p><p>As this shoot was right at the beginning of their
+  opening, we had an opportunity to provide creative direction and a strong
+  visual aesthetic for their social media moving forward.&nbsp;</p>
 categories:
   - food
   - featured
@@ -20,19 +19,25 @@ campaign:
   show-campaign-details: true
   campaign-title: Social Stories
   campaign-text_html: >-
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-    non proident, sunt in culpa qui officia deserunt mollit anim id est
-    laborum.</p>
-  team-heading-1: Model
-  team-text-1_html: 'This was the name of the model, and a little bit of a blurb about her.'
-  team-heading-2: HMUA
-  team-text-2_html: 'This was the name of the hmua, and a little bit of a blurb about her.'
-  team-heading-3: Stylist
-  team-text-3_html: 'This was the name of the stylist, and a little bit of a blurb about her.'
+    <p>For a cafe shoot we're always looking to capture a couple of things -- to
+    showcase the amazing food, highlight key dishes, capture the venue etc. But
+    we're also looking for the little things that make a big difference in
+    appealing to the target audience, like conveying the playful attitude of the
+    venue or the friendly smile of the attentive staff.&nbsp;</p><p>We created
+    key themes and repeatable elements that could carry the consistency through
+    each month.&nbsp;</p>
+  team-heading-1: Brief
+  team-text-1_html: >-
+    <p>We created 30 days of social media content for Front Cafe, on a monthly
+    basis.&nbsp;</p>
+  team-heading-2: Team
+  team-text-2_html: >-
+    <p>Kelapa Creative provided creative direction and styling (flowers etc), as
+    well as the monthly social media grid.&nbsp;</p>
+  team-heading-3: Brand
+  team-text-3_html: >-
+    <p>The brand personality was playful, friendly and bright - a little bit of
+    a Melbourne vibe in Bali.&nbsp;</p>
   campaign_image: /images/front-cafe/eon-front-22.jpg
 gallery-images:
   - image_path: /images/front-cafe/eon-front-14.jpg
@@ -96,3 +101,4 @@ gallery-text_html:
 _comments:
   layout: Don't touch this
 ---
+
