@@ -5,14 +5,15 @@ title: Alex Hossick
 subtitle: Eyptsea Collection
 vertical-heading: true
 featured_image: /images/alex-hossick/eon-hossick-29.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured-image-caption: Lifestyle Photoshoot at Uluwatu Beach
 intro-text_html: >-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Artisanal jewellery made by hand with texture, artistry, and precious
+  materials for the collector of curiosities.<br /><br />The E<a target="_blank"
+  rel="noopener noreferrer"
+  href="https://alex-hossick-designs.myshopify.com/collections/egypsea">gyptsea
+  Collection</a> was inspired by Alex's travels through Egypt and her
+  fascination with the ancient relics is captured through each unique
+  piece.&nbsp;</p>
 categories:
   - fashion
   - featured
@@ -20,19 +21,27 @@ campaign:
   show-campaign-details: true
   campaign-title: Eyptsea Collection
   campaign-text_html: >-
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-    non proident, sunt in culpa qui officia deserunt mollit anim id est
-    laborum.</p>
-  team-heading-1: Model
-  team-text-1_html: 'This was the name of the model, and a little bit of a blurb about her.'
-  team-heading-2: HMUA
-  team-text-2_html: 'This was the name of the hmua, and a little bit of a blurb about her.'
-  team-heading-3: Stylist
-  team-text-3_html: 'This was the name of the stylist, and a little bit of a blurb about her.'
+    <p><em>"Ancient Egypt. Same sands. A different time. Another
+    world."</em></p><p>For this project we sat down with the founder &amp;
+    designer Alex to understand her inspirations for the collection, what it
+    meant to her, what story she wanted to tell. From there we came u with a
+    mood board and creative direction both for the shoot itself and her
+    instagram aesthetic that would accompany the launch.&nbsp;</p>
+  team-heading-1: Brief
+  team-text-1_html: >-
+    <p>A half day editorial campaign and product shoot as well as an instagram
+    grid design.&nbsp;</p>
+  team-heading-2: Team
+  team-text-2_html: >-
+    <p>Models - <a target="_blank" rel="noopener noreferrer"
+    href="https://instagram.com/elena_ralu?igshid=1kmv9aaaratzf">Raluca</a>
+    &amp; <a target="_blank" rel="noopener noreferrer" href="Johnny -
+    https://instagram.com/cosmicdogg?igshid=1851tlz6by6ge">Johnny</a>&nbsp;//
+    HMUA -<a target="_blank" rel="noopener noreferrer" href="Kseniia -
+    https://instagram.com/kseniia_mua?igshid=4bki8dyofcev"> Kseniia</a>&nbsp;//
+    Creative Direction by Kelapa Creative</p>
+  team-heading-3: Location
+  team-text-3_html: '<p>Hidden beach in Bali, Indonesia</p>'
   campaign_image: /images/alex-hossick/eon-hossick-5.jpg
 gallery-images:
   - image_path: /images/alex-hossick/eon-hossick-9.jpg
@@ -99,3 +108,4 @@ gallery-text_html:
 _comments:
   layout: Don't touch this
 ---
+
