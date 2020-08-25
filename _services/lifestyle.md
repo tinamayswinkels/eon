@@ -1,6 +1,6 @@
 ---
 layout: service
-title: Fashion
+title: Lifestyle
 category: fashion
 featured_image: /images/placeholder-2.jpg
 intro-text_html: >-
@@ -106,3 +106,4 @@ page_blocks:
         aspect-ratio: portrait-tall
     gallery-text_html:
 ---
+
