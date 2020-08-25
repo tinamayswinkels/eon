@@ -2,10 +2,10 @@
 layout: project
 hidden: false
 title: Asri Swim
-subtitle: Swimwear shoot for Asri Swim
+subtitle: First Swimwear Collection Launch
 vertical-heading: true
 featured_image: /images/asri-swim/eon-asri-20.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured-image-caption: Swimwear shoot for Asri Swim
 intro-text_html: >-
   <p>We want to encourage every woman to love her body and feel amazing in a
   swimsuit. That's the mission of Asri Swim and their vision for this campaign
