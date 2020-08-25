@@ -2,17 +2,14 @@
 layout: project
 hidden: false
 title: Asri Swim
-subtitle: First Collection
+subtitle: First Swimwear Collection Launch
 vertical-heading: true
 featured_image: /images/asri-swim/eon-asri-20.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured-image-caption: Swimwear shoot for Asri Swim
 intro-text_html: >-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>We want to encourage every woman to love her body and feel amazing in a
+  swimsuit. That's the mission of Asri Swim and their vision for this campaign
+  -- their very first photoshoot to launch their new brand.&nbsp;</p>
 categories:
   - fashion
   - featured
@@ -20,19 +17,35 @@ campaign:
   show-campaign-details: true
   campaign-title: First Collection
   campaign-text_html: >-
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-    non proident, sunt in culpa qui officia deserunt mollit anim id est
-    laborum.</p>
-  team-heading-1: Model
-  team-text-1_html: 'This was the name of the model, and a little bit of a blurb about her.'
-  team-heading-2: HMUA
-  team-text-2_html: 'This was the name of the hmua, and a little bit of a blurb about her.'
-  team-heading-3: Stylist
-  team-text-3_html: 'This was the name of the stylist, and a little bit of a blurb about her.'
+    <p>Asri Swim came to us with the idea of using real, diverse customers
+    instead of experienced models -- they wanted to showcase that anyone could
+    look amazing in their products.&nbsp;<br /><br />Shooting with 6 women, many
+    of whom had no previous modelling experience, was an ambitious plan but we
+    were happy to take on the challenge.&nbsp;</p><p>This shoot was shot with
+    only natural lighting and zero airbrushing, staying true to the ethos of the
+    brand.&nbsp;</p>
+  team-heading-1: Team
+  team-text-1_html: >-
+    <p>Models - <a target="_blank" rel="noopener noreferrer"
+    href="https://instagram.com/mikaylaklewer?igshid=1wvuxf15bgd1v">Mikayla</a>,
+    <a target="_blank" rel="noopener noreferrer"
+    href="https://instagram.com/chaobellaa__?igshid=16ntiwlc1o7dh">Arabella</a>,
+    <a target="_blank" rel="noopener noreferrer"
+    href="https://instagram.com/titasahara_?igshid=cb18bkvy3x20">Tirtra</a>, <a
+    target="_blank" rel="noopener noreferrer"
+    href="https://instagram.com/josylucas?igshid=3etnjgjbdwne">Josy</a>&nbsp;&amp;&nbsp;<a
+    target="_blank" rel="noopener noreferrer"
+    href="https://instagram.com/nataliemuax?igshid=s876b2ekpwq">Natalie</a>&nbsp;<br
+    />&nbsp;</p>
+  team-heading-2: Brief
+  team-text-2_html: >-
+    <p>A half-day lifestyle shoot and studio shoot with deliverables for web and
+    social media.&nbsp;</p>
+  team-heading-3: Location
+  team-text-3_html: >-
+    <p>We shot this campaign at <a target="_blank" rel="noopener noreferrer"
+    href="https://instagram.com/mrssippybali?igshid=yp9wm3ublqiq">Mrs Sippy
+    Beach club</a>, rented exclusively for the shoot.&nbsp;</p>
   campaign_image: /images/asri-swim/eon-asri-21.jpg
 gallery-images:
   - image_path: /images/asri-swim/eon-asri-36.jpg
@@ -119,3 +132,4 @@ gallery-text_html:
 _comments:
   layout: Don't touch this
 ---
+

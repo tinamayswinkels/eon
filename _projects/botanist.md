@@ -7,32 +7,38 @@ vertical-heading: true
 featured_image: /images/botanist/eon-botanist-1.jpg
 featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
 intro-text_html: >-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Sophisticated board shorts that are as individual as you are. Botanist
+  Collection will have you ready to lay by the pool in an Italian resort or
+  explore the beaches and waterfalls of beautiful Indonesia.&nbsp;</p>
 categories:
   - fashion
   - featured
 campaign:
-  show-campaign-details: True
+  show-campaign-details: true
   campaign-title: Floral Collection
   campaign-text_html: >-
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-    non proident, sunt in culpa qui officia deserunt mollit anim id est
-    laborum.</p>
-  team-heading-1: Model
-  team-text-1_html: 'This was the name of the model, and a little bit of a blurb about her.'
-  team-heading-2: HMUA
-  team-text-2_html: 'This was the name of the hmua, and a little bit of a blurb about her.'
-  team-heading-3: Stylist
-  team-text-3_html: 'This was the name of the stylist, and a little bit of a blurb about her.'
+    <p>The social media shoot for The Botanist's new floral collection was all
+    about having a summer adventure. Feeling the sand under your feet and the
+    wind in your hair.&nbsp;</p><p>We opted for a location that had a variety of
+    textures and tones to add visual interest and a level of sophistication you
+    wouldn't normally find with a beach photoshoot. The shoot included a mix of
+    hero shots and close up detail shots to showcase the beautiful
+    patterns.&nbsp;</p>
+  team-heading-1: Brief
+  team-text-1_html: >-
+    <p>A half day editorial &amp; lifestyle photoshoot with deliverables for web
+    and social media.&nbsp;</p>
+  team-heading-2: Team
+  team-text-2_html: >-
+    <p>The model of this shoot was the talented <a target="_blank" rel="noopener
+    noreferrer"
+    href="https://instagram.com/andreasbeel?igshid=1kt17scw0dul7">Andres</a>,
+    with simple HMUA by <a target="_blank" rel="noopener noreferrer"
+    href="https://instagram.com/blessedvenuss?igshid=15x52chwyhbt9">Jane</a> and
+    creative direction by <a target="_blank" rel="noopener noreferrer"
+    href="https://instagram.com/kelapacreative">Kelapa Creative</a>.&nbsp;</p>
+  team-heading-3: Location
+  team-text-3_html: '<p>For this shoot we had mapped out various locations in Uluwatu, Bali</p>'
   campaign_image: /images/botanist/eon-botanist-2.jpg
 gallery-images:
   - image_path: /images/botanist/eon-botanist-3.jpg
@@ -83,3 +89,4 @@ gallery-text_html:
 _comments:
   layout: Don't touch this
 ---
+
