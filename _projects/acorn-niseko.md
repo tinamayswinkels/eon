@@ -5,34 +5,30 @@ title: Acorn Niseko
 subtitle: Fine Dining in Japan
 vertical-heading: true
 featured_image: /images/acorn-niseko/eon-acorn-33.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured-image-caption: Experiential Dining Photoshoot by Eyes of a Nomad
 intro-text_html: >-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>At Acorn every dish is a piece of art, meticulously designed and with a
+  story of its own, a chapter within the greater tale that is the 9-course set
+  menu.&nbsp;<br /><br />We were invited to capture the mystery of the
+  experience, a culinary journey and wine pairing.&nbsp;</p>
 categories:
   - food
-  - featured
 campaign:
   show-campaign-details: true
   campaign-title: Fine Dining in Japan
   campaign-text_html: >-
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-    non proident, sunt in culpa qui officia deserunt mollit anim id est
-    laborum.</p>
-  team-heading-1: Model
-  team-text-1_html: 'This was the name of the model, and a little bit of a blurb about her.'
-  team-heading-2: HMUA
-  team-text-2_html: 'This was the name of the hmua, and a little bit of a blurb about her.'
-  team-heading-3: Stylist
-  team-text-3_html: 'This was the name of the stylist, and a little bit of a blurb about her.'
+    <p>To capture the Acorn dining experience we attended as guests, shooting
+    the experience as it was served. This meant ensuring that in the process of
+    of the photoshoot we were never disruptive to other paying diners, and that
+    we used exclusively natural light with no artificial flash or
+    lighting.&nbsp;<br /><br />We wanted to tell a story, showcasing the
+    ambiance of the experience not just the food itself.&nbsp;</p>
+  team-heading-1:
+  team-text-1_html:
+  team-heading-2:
+  team-text-2_html:
+  team-heading-3:
+  team-text-3_html:
   campaign_image: /images/acorn-niseko/eon-acorn-32.jpg
 gallery-images:
   - image_path: /images/acorn-niseko/eon-acorn-14.jpg
@@ -87,3 +83,4 @@ gallery-text_html:
 _comments:
   layout: Don't touch this
 ---
+
