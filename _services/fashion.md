@@ -128,5 +128,18 @@ page_blocks:
       - image_path: /images/insta-mock/riverhouse-mock.png
         aspect-ratio: portrait-tall
     gallery-text_html:
+  - _id: gallery
+    block-classes:
+      - light-bg
+      - padded-5p
+    heading_html: <p>Intsa Grid</p>
+    gallery-images:
+      - image_path: /images/insta-mock/fashion-mock/asri-mock.png
+        aspect-ratio: portrait-tall
+      - image_path: /images/insta-mock/fashion-mock/forsoul-mock.png
+        aspect-ratio: portrait-tall
+      - image_path: /images/insta-mock/fashion-mock/liq-mock.png
+        aspect-ratio: portrait-tall
+    gallery-text_html:
 ---
 
