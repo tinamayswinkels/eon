@@ -117,19 +117,6 @@ page_blocks:
           ullamco laboris nisi ut aliquip ex ea commodo consequat.&nbsp;</p>
   - _id: gallery
     block-classes:
-      - padded-tall
-      - light-bg
-    heading_html:
-    gallery-images:
-      - image_path: /images/insta-mock/hossick-mock.png
-        aspect-ratio: portrait-tall
-      - image_path: /images/insta-mock/liq-mock.png
-        aspect-ratio: portrait-tall
-      - image_path: /images/insta-mock/riverhouse-mock.png
-        aspect-ratio: portrait-tall
-    gallery-text_html:
-  - _id: gallery
-    block-classes:
       - light-bg
       - padded-5p
     heading_html: <p>Intsa Grid</p>
