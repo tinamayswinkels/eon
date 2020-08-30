@@ -1,6 +1,6 @@
 ---
 layout: service
-title: Fashion
+title: Product
 category: fashion
 featured_image: /images/placeholder-2.jpg
 intro-text_html: >-
@@ -98,11 +98,10 @@ page_blocks:
       - light-bg
     heading_html:
     gallery-images:
-      - image_path: /images/insta-mock/front-mock.png
+      - image_path: /images/insta-mock/product-mock/hossick-mock.png
         aspect-ratio: portrait-tall
-      - image_path: /images/insta-mock/twoislands-mock.png
-        aspect-ratio: portrait-tall
-      - image_path: /images/insta-mock/riverhouse-mock.png
+      - image_path: /images/insta-mock/product-mock/twoislands-mock.png
         aspect-ratio: portrait-tall
     gallery-text_html:
 ---
+

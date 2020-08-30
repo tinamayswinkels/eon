@@ -27,12 +27,23 @@ campaign:
     cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
     non proident, sunt in culpa qui officia deserunt mollit anim id est
     laborum.</p>
-  team-heading-1: Model
-  team-text-1_html: 'This was the name of the model, and a little bit of a blurb about her.'
-  team-heading-2: HMUA
-  team-text-2_html: 'This was the name of the hmua, and a little bit of a blurb about her.'
-  team-heading-3: Stylist
-  team-text-3_html: 'This was the name of the stylist, and a little bit of a blurb about her.'
+  team-heading-1: Brief
+  team-text-1_html: >-
+    <p>A 2-hour shoot for social media, with a focus of telling a story, with
+    wider shots and props.&nbsp;</p>
+  team-heading-2: Team
+  team-text-2_html: >-
+    <p>Model &amp; HMUA - <a target="_blank" rel="noopener"
+    href="https://instagram.com/blessedvenuss?igshid=15x52chwyhbt9">Jane</a>&nbsp;//
+    Creative Direction by <a target="_blank" rel="noopener"
+    href="https://instagram.com/kelapacreative?igshid=1p6x9235jzkgc">Kelapa
+    Creative</a></p>
+  team-heading-3: Location
+  team-text-3_html: >-
+    <p>We shot this at the absolutely stunning <a target="_blank" rel="noopener"
+    href="https://www.instagram.com/mandalaplaces/">Mandala - The Rocks</a>.
+    This beachfront villa is perched just above the waves and made for the
+    perfect location to shoot these bikinis!</p>
   campaign_image: /images/liq-bikini/eon-liq-8.jpg
 gallery-images:
   - image_path: /images/liq-bikini/eon-liq-45.jpg
@@ -123,3 +134,4 @@ gallery-text_html:
 _comments:
   layout: Don't touch this
 ---
+
