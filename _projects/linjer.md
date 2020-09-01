@@ -16,6 +16,7 @@ intro-text_html: >-
 categories:
   - fashion
   - featured
+  - Product
 campaign:
   show-campaign-details: true
   campaign-title: Essentials
@@ -105,3 +106,4 @@ gallery-text_html:
 _comments:
   layout: Don't touch this
 ---
+
