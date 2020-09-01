@@ -17,7 +17,6 @@ intro-text_html: >-
 categories:
   - fashion
   - featured
-  - Product
 campaign:
   show-campaign-details: true
   campaign-title: Eyptsea Collection
