@@ -40,14 +40,66 @@ campaign:
     Creative Studio</a>.&nbsp;</p>
   campaign_image: /images/pepito/eon-pepito-9.jpg
 gallery-images:
-  - image_path: /images/Portfolio – 2.jpg
+  - image_path: /images/pepito/eon-pepito-11.jpg
     alt: This is the alt text
-    size: two-thirds
-  - image_path: /images/Portfolio – 3.jpg
+    size: one-half
+  - image_path: /images/pepito/eon-pepito-10.jpg
     alt: This is the alt text
     size: one-third
     aspect-ratio:
-gallery-text_html:
+  - image_path: /images/pepito/eon-pepito-25.jpg
+    alt: This is the alt text
+    size: two-thirds
+  - image_path: /images/pepito/eon-pepito-26.jpg
+    alt: This is the alt text
+    size: one-third
+    aspect-ratio:
+  - image_path: /images/pepito/eon-pepito-27.jpg
+    alt: This is the alt text
+    size: two-thirds
+  - image_path: /images/pepito/eon-pepito-41.jpg
+    alt: This is the alt text
+    size: one-third
+    aspect-ratio:
+  - image_path: /images/pepito/eon-pepito-42.jpg
+    alt: This is the alt text
+    size: two-thirds
+  - image_path: /images/pepito/eon-pepito-16.jpg
+    alt: This is the alt text
+    size: one-third
+    aspect-ratio:
+ - image_path: /images/pepito/eon-pepito-17.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/pepito/eon-pepito-18.jpg
+    alt: This is the alt text
+    size: one-third
+    aspect-ratio:
+  - image_path: /images/pepito/eon-pepito-28.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/pepito/eon-pepito-29.jpg
+    alt: This is the alt text
+    size: one-half
+    aspect-ratio:
+  - image_path: /images/pepito/eon-pepito-38.jpg
+    alt: This is the alt text
+    size: one-third
+    aspect-ratio:
+  - image_path: /images/pepito/eon-pepito-37.jpg
+    alt: This is the alt text
+    size: one-third
+  - image_path: /images/pepito/eon-pepito-39.jpg
+    alt: This is the alt text
+    size: one-third
+    aspect-ratio:
+  - image_path: /images/pepito/eon-pepito-21.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/pepito/eon-pepito-20.jpg
+    alt: This is the alt text
+    size: one-half
+gallery-text_html: This is a brief showcase of some of the content we shot for Pepito & Gourmet Market.
 layout: project
 _comments:
   layout: Don't touch this
