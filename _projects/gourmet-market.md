@@ -14,6 +14,7 @@ intro-text_html: >-
 categories:
   - fashion
   - featured
+  - product
 campaign:
   show-campaign-details: true
   campaign-title: Social Stories
