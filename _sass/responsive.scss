@@ -1,5 +1,12 @@
+
+.mob-show {
+  display: none;
+}
+
 /* This media query kicks into action at the gridlex sm breakpoint */
 @media(max-width:768px) {
+
+  .mob-show {display: block;}
 
   .sticky-top {
     position: static;
