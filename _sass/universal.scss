@@ -32,6 +32,7 @@
     background-size: cover;
     background-position: center;
     background-color: #F2EEE9;
+    background-repeat: no-repeat;
   }
 
   a.bg-image {
@@ -477,4 +478,10 @@
     }
     .mob-p-t-0 { padding-top: 0;}
     .mob-p-b-0 { padding-bottom: 0;}
+  .home-banner .logo {
+    margin: 0;
+    border-bottom: none;
+    padding:0;
+  }
+
 }

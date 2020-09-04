@@ -1,10 +1,10 @@
 ---
-hidden: false
 title: Gourmet Market
+hidden: false
 subtitle: New Supermarket by Pepito
 vertical-heading: true
 featured_image: /images/pepito/eon-pepito-22.jpg
-featured-image-caption: Product & lifestyle photography for Bali's biggest supermarket
+featured-image-caption: Product and lifestyle photography for Bali's biggest supermarket
 intro-text_html: >-
   <p>When Pepito Market came to us for help launching their new gourmet
   supermarket, we knew that we could help them create something really
@@ -100,9 +100,8 @@ gallery-images:
   - image_path: /images/pepito/eon-pepito-20.jpg
     alt: This is the alt text
     size: one-half
-gallery-text_html: 
+gallery-text_html:
 layout: project
 _comments:
   layout: Don't touch this
 ---
-

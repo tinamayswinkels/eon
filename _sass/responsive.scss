@@ -63,7 +63,7 @@
 
 
 /* This media query kicks into action at the gridlex xs breakpoint */
-@media(max-width:576px) {
+@media(max-width:767px) {
   .mob-horizontal-scroll {
     overflow-x: auto;
     flex-wrap: nowrap;

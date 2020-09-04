@@ -3,7 +3,7 @@ layout: default
 title: Eyes of a Nomad | Photographer in Bali
 meta-description:
 meta-keywords:
-header-style: on-top hide-logo
+header-style: hide-logo
 featured-image_path:
 banner-1_path: /images/placeholder-2.jpg
 banner-position: 60% 30%;
@@ -11,8 +11,8 @@ slideshow:
   fashion_image: /images/placeholder-2.jpg
   lifestyle_image: /images/riverhouse/EON-riverhouse-28.jpg
   product_image: /images/alex-hossick/EON-hossick-30.jpg
-  venue_image: /images/kabron/EON-kabron-25.jpg
-  food_image: /images/front-cafe/EON-front-11.jpg
+  venue_image: /images/ulu-cliffhouse/eon-cliffhouse-8.jpg
+  food_image: /images/kabron/eon-kabron-21.jpg
 wide_image: /images/forsoul-2019/eon-forsoul-19.jpg
 featured_project_url: /projects/liq-bikini
 footer_image: /images/forsoul-2019/eon-forsoul-7.jpg
@@ -26,19 +26,19 @@ footer_image: /images/forsoul-2019/eon-forsoul-7.jpg
 <section class="grid home-banner">
   <div class="col-6_xs-12 grid">
     <div class="col-12-bottom padded-2">
-      <h1 class="logo"> Eyes of a Nomad. </h1>
+      <h1 class="logo"> Eyes of a <br> Nomad. </h1>
       <!-- <div class="padded-r padded-b">
       <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
     </div> -->
     </div>
   </div>
-  <div class="col-6_xs-12 banner tall-100 relative featured-bg">
+  <div class="col-6_xs-12 banner tall-100 relative featured-bg mob-hide">
     <nav class="hover-links" id="hover-links">
-      <a href="/portfolio#filter" id="link-1" class="active">Fashion</a>
-      <a href="/portfolio#filter" id="link-2">Lifestyle</a>
-      <a href="/portfolio#filter" id="link-3">Product</a>
-      <a href="/portfolio#filter" id="link-5">Venue</a>
-      <a href="/portfolio#filter" id="link-6">Food</a>
+      <a href="/portfolio?fashion" id="fashion" class="active">Fashion</a>
+      <a href="/portfolio?lifestyle" id="lifestyle">Lifestyle</a>
+      <a href="/portfolio?product" id="product">Product</a>
+      <a href="/portfolio?venue" id="venue">Venue</a>
+      <a href="/portfolio?food" id="food">Food</a>
     </nav>
     <div class="hover-image fashion"></div>
     <div class="hover-image lifestyle hidden"></div>
@@ -46,29 +46,86 @@ footer_image: /images/forsoul-2019/eon-forsoul-7.jpg
     <div class="hover-image venue hidden"></div>
     <div class="hover-image food hidden"></div>
   </div>
+</section>
+<section class="light-bg padded-v">
+  <div class="col-12 mob-show mob-horizontal-scroll grid" style="padding: 0 1rem;">
+    <div class="col-11 padded-1">
+      <a href="/portfolio?fashion" id="fashion" class="bg-image fashion">
+        <h3 class="pinned-to-bottom"> FASHION </h3>
+      </a>
+    </div>
+    <div class="col-11 padded-1">
+      <a href="/portfolio?lifestyle" id="lifestyle" class="bg-image lifestyle">
+        <h3 class="pinned-to-bottom"> LIFESTYLE </h3>
+      </a>
+    </div>
+    <div class="col-11 padded-1">
+      <a href="/portfolio?product" id="product" class="bg-image product">
+        <h3 class="pinned-to-bottom"> PRODUCT </h3>
+      </div>
+    </div>
+    <div class="col-11 padded-1">
+      <href="/portfolio?venue" id="venue" class="bg-image venue">
+        <h3 class="pinned-to-bottom"> VENUE </h3>
+      </div>
+    </div>
+    <div class="col-11 padded-1">
+      <href="/portfolio?food" id="food" class="bg-image food">
+        <h3 class="pinned-to-bottom"> FOOD </h3>
+      </div>
+    </div>
+
+    </div>
+
+  </div>
 
 </section>
 
 <style>
-
-  .hover-image.fashion {
-    background-image:url('{{page.slideshow.fashion_image}}')
+  .padded-v {
+    padding: 5vh 0;
   }
 
-  .hover-image.lifestyle {
-    background-image:url('{{page.slideshow.lifestyle_image}}')
+  .mob-horizontal-scroll .bg-image {
+    position: relative;
+    padding-bottom: 160%;
   }
 
-  .hover-image.product {
-    background-image:url('{{page.slideshow.product_image}}')
+  .hover-image.fashion,
+  .bg-image.fashion {
+    background-image:url('{{page.slideshow.fashion_image}}');
   }
 
-  .hover-image.venue {
-    background-image:url('{{page.slideshow.venue_image}}')
+  .hover-image.lifestyle,
+  .bg-image.lifestyle {
+    background-image:url('{{page.slideshow.lifestyle_image}}');
   }
 
-  .hover-image.food {
-    background-image:url('{{page.slideshow.food_image}}')
+  .hover-image.product,
+  .bg-image.product {
+    background-image:url('{{page.slideshow.product_image}}');
+  }
+
+  .hover-image.venue,
+  .bg-image.venue {
+    background-image:url('{{page.slideshow.venue_image}}');
+  }
+
+  .hover-image.food,
+  .bg-image.food {
+    background-image:url('{{page.slideshow.food_image}}');
+  }
+
+  .pinned-to-bottom {
+    /* font-family: "PT Sans"; */
+    /* font-weight: bold; */
+    font-size: 15vw;
+    position: absolute;
+    left: 1rem;
+    top:2rem;
+    right: 1rem;
+    color: white;
+    text-align: center;
   }
 
 </style>
