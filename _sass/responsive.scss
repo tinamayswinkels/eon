@@ -65,15 +65,10 @@
 
   // Horizontal Scroll
 
-
-} /* end media query */
-
-
-/* This media query kicks into action at the gridlex xs breakpoint */
-@media(max-width:768px) {
   .mob-horizontal-scroll {
     overflow-x: auto;
     flex-wrap: nowrap;
     -webkit-overflow-scrolling: auto;
   }
+  
 } /* end media query */
