@@ -65,12 +65,6 @@
 
   // Horizontal Scroll
 
-
-} /* end media query */
-
-
-/* This media query kicks into action at the gridlex xs breakpoint */
-@media(max-width:767px) {
   .mob-horizontal-scroll {
     overflow-x: auto;
     flex-wrap: nowrap;
