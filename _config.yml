@@ -149,6 +149,18 @@ _array_structures:
         slider-column-size:
         aspect-ratio:
         slider-images: []
+        text-column-size:
+        text_html:
+    - label:  Video Slider
+      icon: format_quote
+      value:
+        _id: slider-video
+        block-classes:
+        heading_html:
+        slider-column-size:
+        aspect-ratio:
+        slider-videos: []
+        text-column-size:
         text_html:
   columns:
     label: Column
@@ -168,3 +180,10 @@ _array_structures:
     icon: collections
     value:
       image_path:
+  slider-videos:
+    label: Slider Videos
+    icon: collections
+    value:
+      webm_path:
+      mp4_path:
+      poster_path:
