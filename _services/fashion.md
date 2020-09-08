@@ -23,7 +23,7 @@ page_blocks:
       moodboards etc.&nbsp;</p><p class="align-to-center">Regardless of which
       option you pick, we'll work with you to understand all the little details
       about your brand personality so that every photo perfectly reflects your
-      brand.&nbsp;</p>
+      brand.&nbsp;</p><p class="align-to-center">&nbsp;</p>
     gallery-images:
       - image_path: /images/alex-hossick/eon-hossick-1.jpg
         aspect-ratio: portrait
