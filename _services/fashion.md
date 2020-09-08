@@ -20,10 +20,7 @@ page_blocks:
       media with beautiful content that tells a story, and drives customers to
       purchase. We can also put together bigger creative editorial campaigns,
       helping with model selection and castings, location scouting, creation of
-      moodboards etc.&nbsp;</p><p class="align-to-center">Regardless of which
-      option you pick, we'll work with you to understand all the little details
-      about your brand personality so that every photo perfectly reflects your
-      brand.&nbsp;</p><p class="align-to-center">&nbsp;</p>
+      moodboards etc.</p><p class="align-to-center">&nbsp;</p>
     gallery-images:
       - image_path: /images/alex-hossick/eon-hossick-1.jpg
         aspect-ratio: portrait
