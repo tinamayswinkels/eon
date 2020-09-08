@@ -71,45 +71,16 @@ page_blocks:
       - image_path: /images/asri-swim/eon-asri-40.jpg
         aspect-ratio: portrait-tall
     gallery-text_html:
-  - _id: cols
-    block-classes:
-      - padded-tall
-      - light-bg
-    heading_html: >-
-      <h2 class="align-to-center">Marketing &amp; Social Media
-      Management</h2><hr class="centered" />
-    columns:
-      - column-size: col-4_sm-12
-        block-classes:
-          - padded-2
-        text_html: >-
-          <h3>Marketing Strategy&nbsp;</h3><p>Lorem ipsum dolor sit amet,
-          consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-          exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat.</p>
-      - column-size: col-4_sm-12
-        block-classes:
-          - padded-2
-        text_html: >-
-          <h3>Social Media Management</h3><p>Lorem ipsum dolor sit amet,
-          consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-          exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat.</p>
-      - column-size: col-4_sm-12
-        block-classes:
-          - padded-2
-        text_html: >-
-          <h3>How we work&nbsp;</h3><p>Lorem ipsum dolor sit amet, consectetur
-          adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-          magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-          ullamco laboris nisi ut aliquip ex ea commodo consequat.&nbsp;</p>
   - _id: gallery
     block-classes:
       - light-bg
       - padded-5p
-    heading_html: <p>Intsa Grid</p>
+    heading_html: >-
+      <h2 class="align-to-center">Marketing &amp; Social Media Management</h2><p
+      class="align-to-center">In addition to photography through our creative
+      agency Kelapa Creative we also offer marketing strategy &amp; social media
+      management. Here are a few examples of instagram grid's we've created for
+      clients.&nbsp;</p>
     gallery-images:
       - image_path: /images/insta-mock/fashion-mock/asri-mock.png
         aspect-ratio: portrait-tall
