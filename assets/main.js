@@ -51,7 +51,7 @@ $(function() {
 	// Daniel's new code
 	var initial = location.search.replace("?","");
 
-	alert(initial)
+	// alert(initial)
 
 	 if (initial != "" ) {
 	  $('.portfolio .portfolio-item').each(function() {
