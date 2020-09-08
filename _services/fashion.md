@@ -100,7 +100,7 @@ page_blocks:
       - image_path: /images/insta-mock/fashion-mock/asri-mock.png
       - image_path: /images/insta-mock/fashion-mock/forsoul-mock.png
       - image_path: /images/insta-mock/fashion-mock/liq-mock.png
-    text-column-size: col-6_sm-12
+    text-column-size: col-6_sm-12-middle
     text_html: >-
       <h2>Marketing &amp; Social Media Management</h2><p>In addition to
       photography through our creative agency Kelapa Creative we also offer
