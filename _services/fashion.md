@@ -4,12 +4,10 @@ title: Fashion Photography
 category: fashion
 featured_image: /images/placeholder-2.jpg
 intro-text_html: >-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Looking for a fashion photographer in Bali, or a remote team to run a
+  destination campaign in this stunning tropical island? Fashion photography is
+  our speciality and we would love to help bring your vision to life and create
+  meaningful content that will get results for your brand.&nbsp;</p>
 page_blocks:
   - _id: gallery
     block-classes:
