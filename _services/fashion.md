@@ -44,7 +44,7 @@ page_blocks:
       ecommerce that can show off the personality of the brand and the movement
       and texture of the pieces.&nbsp;</p><p>We have various backdrops and our
       lighting set up can handle everything from hash shadows to soft even
-      light.&nbsp;</p>
+      light.&nbsp;</p><p>&nbsp;</p>
     gallery-images:
       - image_path: /images/uma-2020/eon-uma2020-22.jpg
         aspect-ratio: portrait-tall
@@ -62,7 +62,7 @@ page_blocks:
       <h2>Cut-out &amp; Manequin Photography</h2><p>When you want the product to
       be the sole focus we can provide studio photography using a model or ghost
       manequin that can be with a solid color background or transparent, cut-out
-      background.&nbsp;</p>
+      background.&nbsp;</p><p>&nbsp;</p>
     gallery-images:
       - image_path: /images/asri-swim/eon-asri-39.jpg
         aspect-ratio: portrait-tall
@@ -71,45 +71,16 @@ page_blocks:
       - image_path: /images/asri-swim/eon-asri-40.jpg
         aspect-ratio: portrait-tall
     gallery-text_html:
-  - _id: cols
-    block-classes:
-      - padded-tall
-      - light-bg
-    heading_html: >-
-      <h2 class="align-to-center">Marketing &amp; Social Media
-      Management</h2><hr class="centered" />
-    columns:
-      - column-size: col-4_sm-12
-        block-classes:
-          - padded-2
-        text_html: >-
-          <h3>Marketing Strategy&nbsp;</h3><p>Lorem ipsum dolor sit amet,
-          consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-          exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat.</p>
-      - column-size: col-4_sm-12
-        block-classes:
-          - padded-2
-        text_html: >-
-          <h3>Social Media Management</h3><p>Lorem ipsum dolor sit amet,
-          consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-          exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat.</p>
-      - column-size: col-4_sm-12
-        block-classes:
-          - padded-2
-        text_html: >-
-          <h3>How we work&nbsp;</h3><p>Lorem ipsum dolor sit amet, consectetur
-          adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-          magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-          ullamco laboris nisi ut aliquip ex ea commodo consequat.&nbsp;</p>
   - _id: gallery
     block-classes:
       - light-bg
       - padded-5p
-    heading_html: <p>Intsa Grid</p>
+    heading_html: >-
+      <h2 class="align-to-center">Marketing &amp; Social Media Management</h2><p
+      class="align-to-center">In addition to photography through our creative
+      agency Kelapa Creative we also offer marketing strategy &amp; social media
+      management. Here are a few examples of instagram grid's we've created for
+      clients.&nbsp;</p><p class="align-to-center">&nbsp;</p>
     gallery-images:
       - image_path: /images/insta-mock/fashion-mock/asri-mock.png
         aspect-ratio: portrait-tall
@@ -118,5 +89,22 @@ page_blocks:
       - image_path: /images/insta-mock/fashion-mock/liq-mock.png
         aspect-ratio: portrait-tall
     gallery-text_html:
+  - _id: slider
+    block-classes:
+      - light-bg
+      - padded-5p
+    heading_html:
+    slider-column-size: col-6_sm-12
+    aspect-ratio: portrait-tall
+    slider-images:
+      - image_path: /images/insta-mock/fashion-mock/asri-mock.png
+      - image_path: /images/insta-mock/fashion-mock/forsoul-mock.png
+      - image_path: /images/insta-mock/fashion-mock/liq-mock.png
+    text-column-size: col-6_sm-12-middle
+    text_html: >-
+      <h2>Marketing &amp; Social Media Management</h2><p>In addition to
+      photography through our creative agency Kelapa Creative we also offer
+      marketing strategy &amp; social media management. Here are a few examples
+      of instagram grid's we've created for clients.</p>
 ---
 
