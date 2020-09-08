@@ -88,6 +88,24 @@ _options:
     image: true
     bulletedlist: true
     styles: /assets/editor.css
+  text_html:
+    blockquote: true
+    horizontalrule: true
+    format: p h1 h2 h3 h4 h5 h6
+    bold: true
+    italic: true
+    numberedlist: true
+    embed: true
+    link: true
+    undo: true
+    redo: true
+    underline: true
+    strike: true
+    subscript: true
+    superscript: true
+    image: true
+    bulletedlist: true
+    styles: /assets/editor.css
   content:
     blockquote: true
     horizontalrule: true

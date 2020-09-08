@@ -7,7 +7,7 @@
 
   {% endunless %}
 
-<div class="{{block.slider-column-size}} slider-container slick-block-loop">
+<div class="{{block.slider-column-size}} slider-container slick-block-loop padded">
 
   {% for image in include.block.slider-images %}
 
@@ -17,11 +17,12 @@
   </div>
 
   {% endfor %}
+
 </div>
 
   {% unless include.block.text_html == nil %}
 
-  <div class="{{block.text-column-size}}">
+  <div class="{{block.text-column-size}} padded">
       {{include.block.text_html}}
   </div>
 
