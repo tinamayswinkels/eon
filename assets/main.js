@@ -51,9 +51,12 @@ $(function() {
 	// Daniel's new code
 	var initial = location.search.replace("?","");
 
+	alert(initial)
+
+	 if (initial != "" ) {
 	  $('.portfolio .portfolio-item').each(function() {
 	        if(initial == 'all'){
-	          $(this).removeClass('hidden');
+						$(this).removeClass('hidden');
 	        }else{
 	          if(!$(this).hasClass(initial)) {
 	            $(this).addClass('hidden'); // hide those that don't have the filter
@@ -62,6 +65,8 @@ $(function() {
 	          }
 	        };
 	    });
+		};
+
 
   $('nav#portfolio-filter a').click(function(e){
     e.preventDefault();
