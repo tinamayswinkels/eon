@@ -33,21 +33,16 @@ page_blocks:
     inner-block-classes:
       - padded-5p
     content_html: >-
-      <h2 id="photography--videography-for-cafes-in-bali">Photography &amp;
-      Videography for Cafes in Bali</h2><p>Lorem ipsum dolor sit amet,
-      consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-      et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-      ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-      dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-      nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-      culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum
-      dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-      incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-      nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-      non proident, sunt in culpa qui officia deserunt mollit anim id est
-      laborum.</p>
+      <h2 id="photography--videography-for-cafes-in-bali">Editorial &amp;
+      Lifestyle Photography</h2><p>We have packages to suit all needs and
+      budgets,</p><p>One-off or monthly lifestyle shoots are perfect for filling
+      your social media with beautiful content that tells a story, and drives
+      customers to purchase.&nbsp;</p><p>We can also put together bigger
+      creative editorial campaigns, helping with model selection and castings,
+      location scouting, creation of moodboards etc.&nbsp;</p><p>Regardless of
+      which option you pick, we'll work with you to understand all the little
+      details about your brand personality so that every photo perfectly
+      reflects your brand.&nbsp;</p>
   - _id: gallery
     block-classes:
       - padded-5p
