@@ -26,12 +26,7 @@ page_blocks:
         aspect-ratio: portrait-tall
       - image_path: /images/alex-hossick/eon-hossick-35.jpg
         aspect-ratio: portrait-tall
-    gallery-text_html:
-  - _id: text-block
-    block-classes:
-    inner-block-classes:
-      - padded-5p
-    content_html: >-
+    gallery-text_html: >-
       <h2 id="photography--videography-for-cafes-in-bali">Editorial &amp;
       Lifestyle Photography</h2><p>We have packages to suit all needs and
       budgets,</p><p>One-off or monthly lifestyle shoots are perfect for filling
