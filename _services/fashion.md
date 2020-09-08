@@ -38,7 +38,13 @@ page_blocks:
   - _id: gallery
     block-classes:
       - padded-5p
-    heading_html:
+    heading_html: >-
+      <h2>Studio &amp; Ecommerce Photography</h2><p>We can offer various styles
+      of studio photography - from still posed shots to editorial-style
+      ecommerce that can show off the personality of the brand and the movement
+      and texture of the pieces.&nbsp;</p><p>We have various backdrops and our
+      lighting set up can handle everything from hash shadows to soft even
+      light.&nbsp;</p>
     gallery-images:
       - image_path: /images/uma-2020/eon-uma2020-22.jpg
         aspect-ratio: portrait-tall
@@ -46,24 +52,17 @@ page_blocks:
         aspect-ratio: portrait-tall
       - image_path: /images/uma-2020/eon-uma2020-23.jpg
         aspect-ratio: portrait-tall
-    gallery-text_html: >-
-      <h2>Studio &amp; Ecommerce Photography</h2><p>We can offer various styles
-      of studio photography - from still posed shots to editorial-style
-      ecommerce that can show off the personality of the brand and the movement
-      and texture of the pieces.&nbsp;</p><p>We have various backdrops and our
-      lighting set up can handle everything from hash shadows to soft even
-      light.&nbsp;</p>
+      - image_path:
+        aspect-ratio:
+    gallery-text_html:
   - _id: gallery
     block-classes:
       - padded-tall
     heading_html: >-
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-      ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-      est laborum.</p><p>&nbsp;</p>
+      <h2>Cut-out &amp; Manequin Photography</h2><p>When you want the product to
+      be the sole focus we can provide studio photography using a model or ghost
+      manequin that can be with a solid color background or transparent, cut-out
+      background.&nbsp;</p>
     gallery-images:
       - image_path: /images/asri-swim/eon-asri-39.jpg
         aspect-ratio: portrait-tall
