@@ -28,6 +28,12 @@ $(document).ready(function() {
 		autoplay: false
 	});
 
+	// Slick Slider
+	$('.slick-block-loop').slick({
+		autoplay: false
+	});
+
+
 });
 
 

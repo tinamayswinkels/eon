@@ -140,6 +140,16 @@ _array_structures:
         block-classes:
         inner-block-classes:
         content_html:
+    - label: Slider
+      icon: format_quote
+      value:
+        _id: slider
+        block-classes:
+        heading_html:
+        slider-column-size:
+        aspect-ratio:
+        slider-images: []
+        text_html:
   columns:
     label: Column
     icon: collections
@@ -153,3 +163,8 @@ _array_structures:
     value:
       image_path:
       aspect-ratio:
+  slider-images:
+    label: Slider Images
+    icon: collections
+    value:
+      image_path:
