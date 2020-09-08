@@ -29,7 +29,6 @@ page_blocks:
     gallery-text_html:
   - _id: text-block
     block-classes:
-      - padded-tall
     inner-block-classes:
       - padded-5p
     content_html: >-
@@ -54,7 +53,13 @@ page_blocks:
         aspect-ratio: portrait-tall
       - image_path: /images/uma-2020/eon-uma2020-23.jpg
         aspect-ratio: portrait-tall
-    gallery-text_html:
+    gallery-text_html: >-
+      <h2>Studio &amp; Ecommerce Photography</h2><p>We can offer various styles
+      of studio photography - from still posed shots to editorial-style
+      ecommerce that can show off the personality of the brand and the movement
+      and texture of the pieces.&nbsp;</p><p>We have various backdrops and our
+      lighting set up can handle everything from hash shadows to soft even
+      light.&nbsp;</p>
   - _id: gallery
     block-classes:
       - padded-tall
