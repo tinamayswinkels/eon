@@ -12,7 +12,18 @@ page_blocks:
   - _id: gallery
     block-classes:
       - padded-5p
-    heading_html:
+    heading_html: >-
+      <h2 id="photography--videography-for-cafes-in-bali"
+      class="align-to-center">Editorial &amp; Lifestyle Photography</h2><p
+      class="align-to-center">We have packages to suit all needs and budgets.
+      One-off or monthly lifestyle shoots are perfect for filling your social
+      media with beautiful content that tells a story, and drives customers to
+      purchase. We can also put together bigger creative editorial campaigns,
+      helping with model selection and castings, location scouting, creation of
+      moodboards etc.&nbsp;</p><p class="align-to-center">Regardless of which
+      option you pick, we'll work with you to understand all the little details
+      about your brand personality so that every photo perfectly reflects your
+      brand.&nbsp;</p>
     gallery-images:
       - image_path: /images/alex-hossick/eon-hossick-1.jpg
         aspect-ratio: portrait
@@ -26,17 +37,7 @@ page_blocks:
         aspect-ratio: portrait-tall
       - image_path: /images/alex-hossick/eon-hossick-35.jpg
         aspect-ratio: portrait-tall
-    gallery-text_html: >-
-      <h2 id="photography--videography-for-cafes-in-bali">Editorial &amp;
-      Lifestyle Photography</h2><p>We have packages to suit all needs and
-      budgets,</p><p>One-off or monthly lifestyle shoots are perfect for filling
-      your social media with beautiful content that tells a story, and drives
-      customers to purchase.&nbsp;</p><p>We can also put together bigger
-      creative editorial campaigns, helping with model selection and castings,
-      location scouting, creation of moodboards etc.&nbsp;</p><p>Regardless of
-      which option you pick, we'll work with you to understand all the little
-      details about your brand personality so that every photo perfectly
-      reflects your brand.&nbsp;</p>
+    gallery-text_html:
   - _id: gallery
     block-classes:
       - padded-5p
