@@ -43,9 +43,9 @@ page_blocks:
       artificial or natural light we can capture all the little details that
       make your venue beautiful.&nbsp;</p><p>&nbsp;</p>
     gallery-images:
-      - image_path: /images/front-cafe/eon-front-32.jpg
-        aspect-ratio: portrait
-      - image_path: /images/kembali/eon-kembali-26.jpg
+      - image_path: /images/front-cafe/eon-front-14.jpg
+        aspect-ratio: landscape
+      - image_path: /images/kembali/eon-kembali-27.jpg
         aspect-ratio: landscape
       - image_path: /images/kembali/eon-kembali-26.jpg
         aspect-ratio: landscape
