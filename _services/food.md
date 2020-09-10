@@ -67,8 +67,6 @@ page_blocks:
       - image_path: /images/nude-cafe/eon-nude-7.jpg
         aspect-ratio: portrait
       - image_path: /images/kabron/eon-kabron-28.jpg
-        aspect-ratio: portrait
-      - image_path: /images/kabron/eon-kabron-13.jpg
         aspect-ratio: square
       - image_path: /images/kabron/eon-kabron-3.jpg
         aspect-ratio: square
