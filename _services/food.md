@@ -43,30 +43,29 @@ page_blocks:
       artificial or natural light we can capture all the little details that
       make your venue beautiful.&nbsp;</p><p>&nbsp;</p>
     gallery-images:
-      - image_path: /images/front-cafe/eon-front-14.jpg
-        aspect-ratio: landscape
       - image_path: /images/kembali/eon-kembali-27.jpg
+        aspect-ratio: landscape
+      - image_path: /images/front-cafe/eon-front-33.jpg
         aspect-ratio: landscape
       - image_path: /images/kembali/eon-kembali-26.jpg
         aspect-ratio: landscape
-      - image_path:
-        aspect-ratio:
     gallery-text_html:
   - _id: gallery
     block-classes:
       - padded-tall
     heading_html: >-
-      <h2>Cut-out &amp; Manequin Photography</h2><p>When you want the product to
-      be the sole focus we can provide studio photography using a model or ghost
-      manequin that can be with a solid color background or transparent, cut-out
-      background.&nbsp;</p><p>&nbsp;</p>
+      <h2>Lifestyle &amp; Social Media Photography</h2><p>These playful or
+      creative shots can help bring the real experience of your cafe or
+      restaurant to your content. We can organise talent, styling, etc to make
+      sure that everything is as easy as possible for
+      you.&nbsp;</p><p>&nbsp;</p>
     gallery-images:
-      - image_path: /images/asri-swim/eon-asri-39.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/asri-swim/eon-asri-43.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/asri-swim/eon-asri-40.jpg
-        aspect-ratio: portrait-tall
+      - image_path: /images/front-cafe/eon-front-9.jpg
+        aspect-ratio: portrait
+      - image_path: /images/kembali/eon-kembali-7.jpg
+        aspect-ratio: portrait
+      - image_path: /images/nude-cafe/eon-nude-7.jpg
+        aspect-ratio: portrait
     gallery-text_html:
   - _id: slider
     block-classes:
