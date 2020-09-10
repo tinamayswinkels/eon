@@ -17,26 +17,23 @@ page_blocks:
       - padded-5p
     heading_html: >-
       <h2 id="photography--videography-for-cafes-in-bali"
-      class="align-to-center">Editorial &amp; Lifestyle Photography</h2><p
-      class="align-to-center">We have packages to suit all needs and budgets.
-      One-off or monthly lifestyle shoots are perfect for filling your social
-      media with beautiful content that tells a story, and drives customers to
-      purchase. We can also put together bigger creative editorial campaigns,
-      helping with model selection and castings, location scouting, creation of
-      moodboards etc.</p><p class="align-to-center">&nbsp;</p>
+      class="align-to-center">Menu Photography</h2><p
+      class="align-to-center">Want to create a visual menu on instagram or your
+      website? We can photograph each dish for you.&nbsp;</p><p
+      class="align-to-center">&nbsp;</p>
     gallery-images:
-      - image_path: /images/alex-hossick/eon-hossick-1.jpg
-        aspect-ratio: portrait
-      - image_path: /images/alex-hossick/eon-hossick-10.jpg
-        aspect-ratio: portrait
-      - image_path: /images/alex-hossick/eon-hossick-11.jpg
-        aspect-ratio: portrait
-      - image_path: /images/alex-hossick/eon-hossick-36.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/alex-hossick/eon-hossick-30.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/alex-hossick/eon-hossick-35.jpg
-        aspect-ratio: portrait-tall
+      - image_path: /images/front-cafe/eon-front-16.jpg
+        aspect-ratio: square
+      - image_path: /images/front-cafe/eon-front-34.jpg
+        aspect-ratio: square
+      - image_path: /images/front-cafe/eon-front-20.jpg
+        aspect-ratio: square
+      - image_path: /images/kembali/eon-kembali-12.jpg
+        aspect-ratio: square
+      - image_path: /images/kembali/eon-kembali-9.jpg
+        aspect-ratio: square
+      - image_path: /images/kembali/eon-kembali-1.jpg
+        aspect-ratio: square
     gallery-text_html:
   - _id: gallery
     block-classes:
