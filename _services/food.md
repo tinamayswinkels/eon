@@ -2,71 +2,76 @@
 layout: service
 title: Food Photography
 category: fashion
-featured_image: /images/placeholder-2.jpg
+featured_image: /images/front-cafe/eon-front-11.jpg
 intro-text_html: >-
-  <p>Looking for a food photographer for your restaurant, cafe or bar in Bali? We've worked with some of the top venues on the island and we would love to capture your incredible food, venue and experience. We can offer styled food photography, lifestyle photography of your dining experience, venue photography and more. We can also help with marketing strategy, social media management and influencer marketing to help you attract more customers to your cafe or restaurant. </p>
+  <p>Looking for a food photographer for your restaurant, cafe or bar in Bali?
+  We've worked with some of the top venues on the island and we would love to
+  capture your incredible food, venue and experience. We can offer styled food
+  photography, lifestyle photography of your dining experience, venue
+  photography and more. We can also help with marketing strategy, social media
+  management and influencer marketing to help you attract more customers to your
+  cafe or restaurant.</p>
 page_blocks:
   - _id: gallery
     block-classes:
       - padded-5p
     heading_html: >-
       <h2 id="photography--videography-for-cafes-in-bali"
-      class="align-to-center">Editorial &amp; Lifestyle Photography</h2><p
-      class="align-to-center">We have packages to suit all needs and budgets.
-      One-off or monthly lifestyle shoots are perfect for filling your social
-      media with beautiful content that tells a story, and drives customers to
-      purchase. We can also put together bigger creative editorial campaigns,
-      helping with model selection and castings, location scouting, creation of
-      moodboards etc.</p><p class="align-to-center">&nbsp;</p>
+      class="align-to-center">Menu Photography</h2><p
+      class="align-to-center">Want to create a visual menu on instagram or your
+      website? We can photograph each dish for you.&nbsp;</p><p
+      class="align-to-center">&nbsp;</p>
     gallery-images:
-      - image_path: /images/alex-hossick/eon-hossick-1.jpg
-        aspect-ratio: portrait
-      - image_path: /images/alex-hossick/eon-hossick-10.jpg
-        aspect-ratio: portrait
-      - image_path: /images/alex-hossick/eon-hossick-11.jpg
-        aspect-ratio: portrait
-      - image_path: /images/alex-hossick/eon-hossick-36.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/alex-hossick/eon-hossick-30.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/alex-hossick/eon-hossick-35.jpg
-        aspect-ratio: portrait-tall
+      - image_path: /images/front-cafe/eon-front-16.jpg
+        aspect-ratio: square
+      - image_path: /images/front-cafe/eon-front-34.jpg
+        aspect-ratio: square
+      - image_path: /images/front-cafe/eon-front-20.jpg
+        aspect-ratio: square
+      - image_path: /images/kembali/eon-kembali-12.jpg
+        aspect-ratio: square
+      - image_path: /images/kembali/eon-kembali-9.jpg
+        aspect-ratio: square
+      - image_path: /images/kembali/eon-kembali-1.jpg
+        aspect-ratio: square
     gallery-text_html:
   - _id: gallery
     block-classes:
       - padded-5p
     heading_html: >-
-      <h2>Studio &amp; Ecommerce Photography</h2><p>We can offer various styles
-      of studio photography - from still posed shots to editorial-style
-      ecommerce that can show off the personality of the brand and the movement
-      and texture of the pieces.&nbsp;</p><p>We have various backdrops and our
-      lighting set up can handle everything from hash shadows to soft even
-      light.&nbsp;</p><p>&nbsp;</p>
+      <h2>Venue Photography</h2><p>With or without customers and using
+      artificial or natural light we can capture all the little details that
+      make your venue beautiful.&nbsp;</p><p>&nbsp;</p>
     gallery-images:
-      - image_path: /images/uma-2020/eon-uma2020-22.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/uma-2020/eon-uma2020-20.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/uma-2020/eon-uma2020-23.jpg
-        aspect-ratio: portrait-tall
-      - image_path:
-        aspect-ratio:
+      - image_path: /images/kembali/eon-kembali-27.jpg
+        aspect-ratio: landscape
+      - image_path: /images/front-cafe/eon-front-33.jpg
+        aspect-ratio: landscape
+      - image_path: /images/kembali/eon-kembali-26.jpg
+        aspect-ratio: landscape
     gallery-text_html:
   - _id: gallery
     block-classes:
       - padded-tall
     heading_html: >-
-      <h2>Cut-out &amp; Manequin Photography</h2><p>When you want the product to
-      be the sole focus we can provide studio photography using a model or ghost
-      manequin that can be with a solid color background or transparent, cut-out
-      background.&nbsp;</p><p>&nbsp;</p>
+      <h2>Lifestyle &amp; Social Media Photography</h2><p>These playful or
+      creative shots can help bring the real experience of your cafe or
+      restaurant to your content. We can organise talent, styling, etc to make
+      sure that everything is as easy as possible for
+      you.&nbsp;</p><p>&nbsp;</p>
     gallery-images:
-      - image_path: /images/asri-swim/eon-asri-39.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/asri-swim/eon-asri-43.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/asri-swim/eon-asri-40.jpg
-        aspect-ratio: portrait-tall
+      - image_path: /images/front-cafe/eon-front-9.jpg
+        aspect-ratio: portrait
+      - image_path: /images/kembali/eon-kembali-7.jpg
+        aspect-ratio: portrait
+      - image_path: /images/nude-cafe/eon-nude-7.jpg
+        aspect-ratio: portrait
+      - image_path: /images/kabron/eon-kabron-28.jpg
+        aspect-ratio: square
+      - image_path: /images/kabron/eon-kabron-3.jpg
+        aspect-ratio: square
+      - image_path: /images/kabron/eon-kabron-29.jpg
+        aspect-ratio: square
     gallery-text_html:
   - _id: slider
     block-classes:
@@ -76,13 +81,17 @@ page_blocks:
     slider-column-size: col-6_sm-12
     aspect-ratio: portrait-tall
     slider-images:
-      - image_path: /images/insta-mock/fashion-mock/asri-mock.png
-      - image_path: /images/insta-mock/fashion-mock/forsoul-mock.png
-      - image_path: /images/insta-mock/fashion-mock/liq-mock.png
+      - image_path: /images/insta-mock/food-mock/front-mock.png
+      - image_path: /images/insta-mock/food-mock/acorn-mock.png
+      - image_path: /images/insta-mock/food-mock/kembali-mock.png
+      - image_path: /images/insta-mock/food-mock/synkonah-mock.png
+      - image_path: /images/insta-mock/food-mock/nude-mock.png
     text-column-size: col-6_sm-12-middle
     text_html: >-
       <h2>Marketing &amp; Social Media Management</h2><p>In addition to
-      photography through our creative agency Kelapa Creative we also offer
+      photography through our creative agency <a target="_blank" rel="noopener"
+      href="http://www.kelapacreative.com">Kelapa Creative</a> we also offer
       marketing strategy &amp; social media management. Here are a few examples
       of instagram grid's we've created for clients.</p>
 ---
+
