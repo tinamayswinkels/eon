@@ -68,8 +68,12 @@ page_blocks:
         aspect-ratio: portrait
       - image_path: /images/kabron/eon-kabron-28.jpg
         aspect-ratio: portrait
-      - image_path: /images/kabron/eon-kabron-6.jpg
-        aspect-ratio: portrait
+      - image_path: /images/kabron/eon-kabron-13.jpg
+        aspect-ratio: square
+      - image_path: /images/kabron/eon-kabron-3.jpg
+        aspect-ratio: square
+      - image_path: /images/kabron/eon-kabron-29.jpg
+        aspect-ratio: square
     gallery-text_html:
   - _id: slider
     block-classes:
