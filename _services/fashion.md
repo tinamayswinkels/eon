@@ -71,24 +71,6 @@ page_blocks:
       - image_path: /images/asri-swim/eon-asri-40.jpg
         aspect-ratio: portrait-tall
     gallery-text_html:
-  - _id: gallery
-    block-classes:
-      - light-bg
-      - padded-5p
-    heading_html: >-
-      <h2 class="align-to-center">Marketing &amp; Social Media Management</h2><p
-      class="align-to-center">In addition to photography through our creative
-      agency Kelapa Creative we also offer marketing strategy &amp; social media
-      management. Here are a few examples of instagram grid's we've created for
-      clients.&nbsp;</p><p class="align-to-center">&nbsp;</p>
-    gallery-images:
-      - image_path: /images/insta-mock/fashion-mock/asri-mock.png
-        aspect-ratio: portrait-tall
-      - image_path: /images/insta-mock/fashion-mock/forsoul-mock.png
-        aspect-ratio: portrait-tall
-      - image_path: /images/insta-mock/fashion-mock/liq-mock.png
-        aspect-ratio: portrait-tall
-    gallery-text_html:
   - _id: slider
     block-classes:
       - light-bg
