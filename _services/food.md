@@ -66,6 +66,10 @@ page_blocks:
         aspect-ratio: portrait
       - image_path: /images/nude-cafe/eon-nude-7.jpg
         aspect-ratio: portrait
+      - image_path: /images/kabron/eon-kabron-28.jpg
+        aspect-ratio: portrait
+      - image_path: /images/kabron/eon-kabron-6.jpg
+        aspect-ratio: portrait
     gallery-text_html:
   - _id: slider
     block-classes:
