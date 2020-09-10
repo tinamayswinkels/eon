@@ -2,9 +2,15 @@
 layout: service
 title: Food Photography
 category: fashion
-featured_image: /images/placeholder-2.jpg
+featured_image: /images/front-cafe/eon-front-11.jpg
 intro-text_html: >-
-  <p>Looking for a food photographer for your restaurant, cafe or bar in Bali? We've worked with some of the top venues on the island and we would love to capture your incredible food, venue and experience. We can offer styled food photography, lifestyle photography of your dining experience, venue photography and more. We can also help with marketing strategy, social media management and influencer marketing to help you attract more customers to your cafe or restaurant. </p>
+  <p>Looking for a food photographer for your restaurant, cafe or bar in Bali?
+  We've worked with some of the top venues on the island and we would love to
+  capture your incredible food, venue and experience. We can offer styled food
+  photography, lifestyle photography of your dining experience, venue
+  photography and more. We can also help with marketing strategy, social media
+  management and influencer marketing to help you attract more customers to your
+  cafe or restaurant.</p>
 page_blocks:
   - _id: gallery
     block-classes:
@@ -86,3 +92,4 @@ page_blocks:
       marketing strategy &amp; social media management. Here are a few examples
       of instagram grid's we've created for clients.</p>
 ---
+
