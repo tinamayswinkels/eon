@@ -39,19 +39,16 @@ page_blocks:
     block-classes:
       - padded-5p
     heading_html: >-
-      <h2>Studio &amp; Ecommerce Photography</h2><p>We can offer various styles
-      of studio photography - from still posed shots to editorial-style
-      ecommerce that can show off the personality of the brand and the movement
-      and texture of the pieces.&nbsp;</p><p>We have various backdrops and our
-      lighting set up can handle everything from hash shadows to soft even
-      light.&nbsp;</p><p>&nbsp;</p>
+      <h2>Venue Photography</h2><p>With or without customers and using
+      artificial or natural light we can capture all the little details that
+      make your venue beautiful.&nbsp;</p><p>&nbsp;</p>
     gallery-images:
-      - image_path: /images/uma-2020/eon-uma2020-22.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/uma-2020/eon-uma2020-20.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/uma-2020/eon-uma2020-23.jpg
-        aspect-ratio: portrait-tall
+      - image_path: /images/front-cafe/eon-front-32.jpg
+        aspect-ratio: portrait
+      - image_path: /images/kembali/eon-kembali-26.jpg
+        aspect-ratio: landscape
+      - image_path: /images/kembali/eon-kembali-26.jpg
+        aspect-ratio: landscape
       - image_path:
         aspect-ratio:
     gallery-text_html:
