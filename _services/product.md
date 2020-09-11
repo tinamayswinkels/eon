@@ -15,7 +15,7 @@ page_blocks:
       - padded-5p
     heading_html: >-
       <h2 id="photography--videography-for-cafes-in-bali"
-      class="align-to-center">Studio Product Photography</h2><p
+      class="align-to-center">Studio Product &amp; Ecommerce Photography</h2><p
       class="align-to-center">With a professional photography studio right here
       in Canggu, Bali we can capture all your studio photography
       needs.&nbsp;</p><p class="align-to-center">&nbsp;</p>
