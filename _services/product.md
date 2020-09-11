@@ -2,7 +2,7 @@
 layout: service
 title: Product Photography
 category: fashion
-featured_image: /images/placeholder-2.jpg
+featured_image: /images/pepito/eon-pepito-30.jpg
 intro-text_html: >-
   <p>We create stunning studio &amp; lifestyle images of your products, and will
   make sure you have images that can really sell online. From e-commerce photos,
@@ -40,14 +40,30 @@ page_blocks:
       product.&nbsp;<br /><br />&lt; NOTE ADD GOURMET MARKET
       &gt;&nbsp;</p><p>&nbsp;</p>
     gallery-images:
-      - image_path: /images/uma-2020/eon-uma2020-22.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/uma-2020/eon-uma2020-20.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/uma-2020/eon-uma2020-23.jpg
-        aspect-ratio: portrait-tall
-      - image_path:
-        aspect-ratio:
+      - image_path: /images/alex-hossick/hossick-product-1.jpg
+        aspect-ratio: portrait
+        size: one-half
+      - image_path: /images/alex-hossick/hossick-product-2.jpg
+        aspect-ratio: portrait
+        size: one-half
+      - image_path: /images/pepito/eon-gourmet1.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/pepito/eon-gourmet2.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/pepito/eon-gourmet3.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/pepito/eon-gourmet9.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/pepito/eon-gourmet7.jpg
+        aspect-ratio: portrait
+        size: one-half
+      - image_path: /images/pepito/eon-gourmet8.jpg
+        aspect-ratio: portrait
+        size: one-third
     gallery-text_html:
   - _id: gallery
     block-classes:
