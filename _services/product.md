@@ -29,6 +29,12 @@ page_blocks:
       - image_path: /images/asri-swim/eon-asri-41.jpg
         aspect-ratio: portrait-tall
         size: one-third
+      - image_path: /uploads/cultiver-sheets-1.jpg
+        aspect-ratio: portrait
+        size: one-half
+      - image_path: /uploads/cultiver-sheets-3.jpg
+        aspect-ratio: portrait
+        size: one-half
     gallery-text_html:
   - _id: gallery
     block-classes:
@@ -37,8 +43,7 @@ page_blocks:
       <h2>Product Unboxing &amp; Creative Photography</h2><p>Beyond your
       standard product photography, we can help capture creative imagery that
       conjures an emotive response and gets your audience excited about your
-      product.&nbsp;<br /><br />&lt; NOTE ADD GOURMET MARKET
-      &gt;&nbsp;</p><p>&nbsp;</p>
+      product.&nbsp;</p><p>&nbsp;</p>
     gallery-images:
       - image_path: /images/alex-hossick/hossick-product-1.jpg
         aspect-ratio: portrait
