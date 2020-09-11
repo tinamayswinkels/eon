@@ -50,7 +50,7 @@ page_blocks:
         aspect-ratio: portrait
         size: one-third
       - image_path: /images/mandala-thebay/eon-thebay-9.jpg
-        aspect-ratio:
+        aspect-ratio: portrait
         size: one-third
       - image_path: /images/mandala-thebay/eon-thebay-18.jpg
         aspect-ratio: portrait
@@ -60,17 +60,23 @@ page_blocks:
     block-classes:
       - padded-tall
     heading_html: >-
-      <h2>Cut-out &amp; Manequin Photography</h2><p>When you want the product to
-      be the sole focus we can provide studio photography using a model or ghost
-      manequin that can be with a solid color background or transparent, cut-out
-      background.&nbsp;</p><p>&nbsp;</p>
+      <h2>Restaurant, Bar &amp; Club Photography</h2><p>We've working with
+      dozens of the biggest restaurants and pool bars in Bali capturing photos
+      for their website, social media, digital advertising, billboards &amp;
+      print and PR features.&nbsp;</p><p>&nbsp;</p>
     gallery-images:
-      - image_path: /images/asri-swim/eon-asri-39.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/asri-swim/eon-asri-43.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/asri-swim/eon-asri-40.jpg
-        aspect-ratio: portrait-tall
+      - image_path: /images/kabron/eon-kabron-15.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/kabron/eon-kabron-14.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/kabron/eon-kabron-16.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/kembali/eon-kembali-26.jpg
+        aspect-ratio: landscape
+        size: full-width
     gallery-text_html:
   - _id: slider
     block-classes:
