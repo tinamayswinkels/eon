@@ -24,16 +24,22 @@ page_blocks:
     gallery-images:
       - image_path: /images/alex-hossick/eon-hossick-1.jpg
         aspect-ratio: portrait
+        size: one-third
       - image_path: /images/alex-hossick/eon-hossick-10.jpg
         aspect-ratio: portrait
+        size: one-third
       - image_path: /images/alex-hossick/eon-hossick-11.jpg
         aspect-ratio: portrait
+        size: one-third
       - image_path: /images/alex-hossick/eon-hossick-36.jpg
         aspect-ratio: portrait-tall
+        size: one-third
       - image_path: /images/alex-hossick/eon-hossick-30.jpg
         aspect-ratio: portrait-tall
+        size: one-third
       - image_path: /images/alex-hossick/eon-hossick-35.jpg
         aspect-ratio: portrait-tall
+        size: one-third
     gallery-text_html:
   - _id: gallery
     block-classes:
@@ -48,12 +54,13 @@ page_blocks:
     gallery-images:
       - image_path: /images/uma-2020/eon-uma2020-22.jpg
         aspect-ratio: portrait-tall
+        size: one-third
       - image_path: /images/uma-2020/eon-uma2020-20.jpg
         aspect-ratio: portrait-tall
+        size: one-third
       - image_path: /images/uma-2020/eon-uma2020-23.jpg
         aspect-ratio: portrait-tall
-      - image_path:
-        aspect-ratio:
+        size: one-third
     gallery-text_html:
   - _id: gallery
     block-classes:
@@ -66,10 +73,13 @@ page_blocks:
     gallery-images:
       - image_path: /images/asri-swim/eon-asri-39.jpg
         aspect-ratio: portrait-tall
+        size: one-third
       - image_path: /images/asri-swim/eon-asri-43.jpg
         aspect-ratio: portrait-tall
+        size: one-third
       - image_path: /images/asri-swim/eon-asri-40.jpg
         aspect-ratio: portrait-tall
+        size: one-third
     gallery-text_html:
   - _id: slider
     block-classes:
@@ -89,4 +99,3 @@ page_blocks:
       marketing strategy &amp; social media management. Here are a few examples
       of instagram grid's we've created for clients.</p>
 ---
-

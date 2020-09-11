@@ -24,16 +24,22 @@ page_blocks:
     gallery-images:
       - image_path: /images/front-cafe/eon-front-16.jpg
         aspect-ratio: square
+        size: one-third
       - image_path: /images/front-cafe/eon-front-34.jpg
         aspect-ratio: square
+        size: one-third
       - image_path: /images/front-cafe/eon-front-20.jpg
         aspect-ratio: square
+        size: one-third
       - image_path: /images/kembali/eon-kembali-12.jpg
         aspect-ratio: square
+        size: one-third
       - image_path: /images/kembali/eon-kembali-9.jpg
         aspect-ratio: square
+        size: one-third
       - image_path: /images/kembali/eon-kembali-1.jpg
         aspect-ratio: square
+        size: one-third
     gallery-text_html:
   - _id: gallery
     block-classes:
@@ -45,10 +51,16 @@ page_blocks:
     gallery-images:
       - image_path: /images/kembali/eon-kembali-27.jpg
         aspect-ratio: landscape
+        size: one-half
       - image_path: /images/front-cafe/eon-front-33.jpg
         aspect-ratio: landscape
+        size: one-half
       - image_path: /images/kembali/eon-kembali-26.jpg
         aspect-ratio: landscape
+        size: one-half
+      - image_path: /images/kembali/eon-kembali-26.jpg
+        aspect-ratio: landscape
+        size: one-half
     gallery-text_html:
   - _id: gallery
     block-classes:
@@ -62,16 +74,22 @@ page_blocks:
     gallery-images:
       - image_path: /images/front-cafe/eon-front-9.jpg
         aspect-ratio: portrait
+        size: one-third
       - image_path: /images/kembali/eon-kembali-7.jpg
         aspect-ratio: portrait
+        size: one-third
       - image_path: /images/nude-cafe/eon-nude-7.jpg
         aspect-ratio: portrait
+        size: one-third
       - image_path: /images/kabron/eon-kabron-28.jpg
         aspect-ratio: square
+        size: one-third
       - image_path: /images/kabron/eon-kabron-3.jpg
         aspect-ratio: square
+        size: one-third
       - image_path: /images/kabron/eon-kabron-29.jpg
         aspect-ratio: square
+        size: one-third
     gallery-text_html:
   - _id: slider
     block-classes:
@@ -94,4 +112,3 @@ page_blocks:
       marketing strategy &amp; social media management. Here are a few examples
       of instagram grid's we've created for clients.</p>
 ---
-

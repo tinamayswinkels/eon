@@ -7,11 +7,12 @@
 
   {% endunless %}
 
-  {% for item in include.block.gallery-images %}
-  <a class="col-4 padded-05" href="{{item.image_path}}" data-fancybox="gallery">
-    <div style="background-image:url('{{item.image_path}}')" class="bg-image {{item.aspect-ratio}}"></div>
-  </a>
-  {% endfor %}
+    {% for item in include.block.gallery-images %}
+    <a class="col-{{item.size}} padded-05" href="{{item.image_path}}" data-fancybox="gallery">
+      <div style="background-image:url('{{item.image_path}}')" class="bg-image {{item.size}} {{item.aspect-ratio}}"></div>
+    </a>
+    {% endfor %}
+
 
   <div class="margin-top-1"> {{include.block.gallery-text_html}}</div>
 </section>
