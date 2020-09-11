@@ -103,6 +103,15 @@ page_blocks:
       - image_path: /images/linjer-1/eon-linjer-6.jpg
         aspect-ratio: portrait
         size: one-third
+      - image_path: /images/aufait-furniture-1.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/aufait-furniture-2.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/aufait-furniture-3.jpg
+        aspect-ratio: portrait
+        size: one-third
     gallery-text_html:
   - _id: slider
     block-classes:
