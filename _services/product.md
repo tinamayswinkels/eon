@@ -57,6 +57,15 @@ page_blocks:
       beautifully styled shots in the studio or at locations across
       Bali.&nbsp;</p><p>&nbsp;</p>
     gallery-images:
+      - image_path: /images/alex-hossick/eon-hossick-11.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/alex-hossick/eon-hossick-2.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/alex-hossick/eon-hossick-30.jpg
+        aspect-ratio: portrait
+        size: one-third
       - image_path: /images/good-clean/eon-clean-17.jpg
         aspect-ratio: landscape
         size: one-half
