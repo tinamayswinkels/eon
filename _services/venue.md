@@ -26,7 +26,7 @@ page_blocks:
         size: one-half
       - image_path: /images/ulu-cliffhouse/eon-cliffhouse-19.jpg
         aspect-ratio: portrait-tall
-        size: one-third
+        size: one-half
     gallery-text_html:
   - _id: gallery
     block-classes:
