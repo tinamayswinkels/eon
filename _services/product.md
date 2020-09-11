@@ -1,7 +1,7 @@
 ---
 layout: service
 title: Product Photography
-category: product
+category: fashion
 featured_image: /images/placeholder-2.jpg
 intro-text_html: >-
   <p>Looking for a fashion photographer in Bali, or a remote team to run a
