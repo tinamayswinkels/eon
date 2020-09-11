@@ -35,6 +35,15 @@ page_blocks:
       - image_path: /uploads/cultiver-sheets-3.jpg
         aspect-ratio: portrait
         size: one-half
+      - image_path: /images/synkonah/eon-ginbar-22.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /uploads/synkonah-product-2.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/synkonah/eon-ginbar-24.jpg
+        aspect-ratio:
+        size: one-third
     gallery-text_html:
   - _id: gallery
     block-classes:
