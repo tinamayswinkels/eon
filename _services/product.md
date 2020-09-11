@@ -58,9 +58,11 @@ page_blocks:
       Bali.&nbsp;</p><p>&nbsp;</p>
     gallery-images:
       - image_path: /images/good-clean/eon-clean-17.jpg
-        aspect-ratio: square
+        aspect-ratio: landscape
+        size: one-half
       - image_path: /images/good-clean/eon-clean-26.jpg
         aspect-ratio: landscape
+        size: one-half
       - image_path: /images/linjer-1/eon-linjer-16.jpg
         aspect-ratio: portrait
         size: one-third
