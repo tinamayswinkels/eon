@@ -95,5 +95,28 @@ page_blocks:
       photography through our creative agency Kelapa Creative we also offer
       marketing strategy &amp; social media management. Here are a few examples
       of instagram grid's we've created for clients.</p>
+  - _id: gallery
+    block-classes:
+      - padded-5p
+    heading_html: >-
+      <h2 class="align-to-center">Drone Photography &amp; Videography</h2><p
+      class="align-to-center">A new perspective on your property</p>
+    gallery-images:
+      - image_path: /images/kabron/eon-kabron-31.jpg
+        aspect-ratio: square
+        size: one-half
+      - image_path: /images/kabron/eon-kabron-30.jpg
+        aspect-ratio: square
+        size: one-third
+      - image_path: /images/mandala-thebay/eon-thebay-61.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/mandala-thebay/eon-thebay-64.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/mandala-thebay/eon-thebay-62.jpg
+        aspect-ratio: portrait
+        size: one-third
+    gallery-text_html:
 ---
 
