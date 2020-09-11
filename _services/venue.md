@@ -27,6 +27,15 @@ page_blocks:
       - image_path: /images/ulu-cliffhouse/eon-cliffhouse-19.jpg
         aspect-ratio: portrait-tall
         size: one-half
+      - image_path: /images/niseko-hotel/eon-niseko-1.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/nest-niseko/eon-nestniseko-5.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/nest-niseko/eon-nestniseko-2.jpg
+        aspect-ratio: portrait
+        size: one-third
     gallery-text_html:
   - _id: gallery
     block-classes:
