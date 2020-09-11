@@ -46,10 +46,10 @@ page_blocks:
       - image_path: /images/alex-hossick/hossick-product-2.jpg
         aspect-ratio: portrait
         size: one-half
-      - image_path: /images/pepito/eon-gourmet1.jpg
+      - image_path: /images/pepito/eon-gourmet2.jpg
         aspect-ratio: portrait
         size: one-third
-      - image_path: /images/pepito/eon-gourmet2.jpg
+      - image_path: /images/pepito/eon-gourmet1.jpg
         aspect-ratio: portrait
         size: one-third
       - image_path: /images/pepito/eon-gourmet3.jpg
@@ -58,12 +58,18 @@ page_blocks:
       - image_path: /images/pepito/eon-gourmet9.jpg
         aspect-ratio: portrait
         size: one-third
+      - image_path: /images/pepito/eon-pepito-15.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/pepito/eon-pepito-21.jpg
+        aspect-ratio: portrait
+        size: one-third
       - image_path: /images/pepito/eon-gourmet7.jpg
         aspect-ratio: portrait
         size: one-half
       - image_path: /images/pepito/eon-gourmet8.jpg
         aspect-ratio: portrait
-        size: one-third
+        size: one-half
     gallery-text_html:
   - _id: gallery
     block-classes:
