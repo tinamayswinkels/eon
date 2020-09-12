@@ -20,13 +20,13 @@ page_blocks:
       in Canggu, Bali we can capture all your studio photography
       needs.&nbsp;</p><p class="align-to-center">&nbsp;</p>
     gallery-images:
-      - image_path: /images/asri-swim/eon-asri-39.jpg
+      - image_path: /images/asri-swim/eon-asri-cut-1.png
         aspect-ratio: portrait
         size: one-third
-      - image_path: /images/asri-swim/eon-asri-43.jpg
+      - image_path: /images/asri-swim/eon-asri-cut-2.png
         aspect-ratio: portrait
         size: one-third
-      - image_path: /images/asri-swim/asri-product-1.png
+      - image_path: /images/asri-swim/eon-asri-cut-3.png
         aspect-ratio: portrait
         size: one-third
       - image_path: /uploads/cultiver-sheets-1.jpg
@@ -50,13 +50,13 @@ page_blocks:
       - image_path: /images/alex-hossick/hossick-product-2.jpg
         aspect-ratio: portrait
         size: one-half
-      - image_path: /images/pepito/gourmet-product-5.jpg
+      - image_path: /images/pepito/eon-pepito-product-1.jpg
         aspect-ratio: portrait
         size: one-third
-      - image_path: /images/pepito/gourmet-product-4.jpg
+      - image_path: /images/pepito/eon-pepito-product-1.jpg
         aspect-ratio: portrait
         size: one-third
-      - image_path: /images/pepito/gourmet-product-6.jpg
+      - image_path: /images/pepito/eon-pepito-product-1.jpg
         aspect-ratio: portrait
         size: one-third
     gallery-text_html:
@@ -153,4 +153,3 @@ page_blocks:
       marketing strategy &amp; social media management. Here are a few examples
       of instagram grid's we've created for clients.</p>
 ---
-
