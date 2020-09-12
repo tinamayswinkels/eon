@@ -21,13 +21,13 @@ page_blocks:
       needs.&nbsp;</p><p class="align-to-center">&nbsp;</p>
     gallery-images:
       - image_path: /images/asri-swim/eon-asri-39.jpg
-        aspect-ratio: portrait-tall
+        aspect-ratio: portrait
         size: one-third
       - image_path: /images/asri-swim/eon-asri-43.jpg
-        aspect-ratio: portrait-tall
+        aspect-ratio: portrait
         size: one-third
-      - image_path: /images/asri-swim/eon-asri-41.jpg
-        aspect-ratio: portrait-tall
+      - image_path: /images/asri-swim/asri-product-1.png
+        aspect-ratio: portrait
         size: one-third
       - image_path: /uploads/cultiver-sheets-1.jpg
         aspect-ratio: portrait
@@ -50,6 +50,15 @@ page_blocks:
       - image_path: /images/alex-hossick/hossick-product-2.jpg
         aspect-ratio: portrait
         size: one-half
+      - image_path: /images/pepito/gourmet-product-5.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/pepito/gourmet-product-4.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/pepito/gourmet-product-6.jpg
+        aspect-ratio: portrait
+        size: one-third
     gallery-text_html:
   - _id: gallery
     block-classes:
@@ -144,3 +153,4 @@ page_blocks:
       marketing strategy &amp; social media management. Here are a few examples
       of instagram grid's we've created for clients.</p>
 ---
+

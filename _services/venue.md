@@ -55,6 +55,12 @@ page_blocks:
       - image_path: /images/mandala-thebay/eon-thebay-18.jpg
         aspect-ratio: portrait
         size: one-third
+      - image_path: /images/riverhouse/eon-riverhouse-41.jpg
+        aspect-ratio: portrait
+        size: one-half
+      - image_path: /images/riverhouse/eon-riverhouse-47.jpg
+        aspect-ratio: portrait
+        size: one-half
     gallery-text_html:
   - _id: gallery
     block-classes:
