@@ -1,7 +1,7 @@
 ---
 layout: service
 title: Food Photography
-category: fashion
+category: food
 featured_image: /images/front-cafe/eon-front-11.jpg
 intro-text_html: >-
   <p>Looking for a food photographer for your restaurant, cafe or bar in Bali?

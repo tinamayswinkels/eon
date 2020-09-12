@@ -1,7 +1,7 @@
 ---
 layout: service
 title: Product Photography
-category: fashion
+category: product
 featured_image: /images/placeholder-2.jpg
 intro-text_html: >-
   <p>We create stunning studio &amp; lifestyle images of your products, and will
@@ -99,4 +99,3 @@ page_blocks:
       marketing strategy &amp; social media management. Here are a few examples
       of instagram grid's we've created for clients.</p>
 ---
-
