@@ -20,9 +20,11 @@ page_blocks:
   <hr class="centered">
 </section>
 
+<div class="capped-width">
 {% for block in page.page_blocks %}
       {% include blocks/{{block._id}}.html block=block %}
 {% endfor %}
+</div>
 
 <section class="padded-tall">
   <h2 class="med-bold"> Explore More Projects. </h2>
@@ -35,7 +37,7 @@ page_blocks:
 
       {% for project in relevant-projects reversed %}
 
-        {% include project-loop-item.html %}
+        {% include project-loop-item-small.html %}
 
       {% endfor %}
 

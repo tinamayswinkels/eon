@@ -88,6 +88,24 @@ _options:
     image: true
     bulletedlist: true
     styles: /assets/editor.css
+  text_html:
+    blockquote: true
+    horizontalrule: true
+    format: p h1 h2 h3 h4 h5 h6
+    bold: true
+    italic: true
+    numberedlist: true
+    embed: true
+    link: true
+    undo: true
+    redo: true
+    underline: true
+    strike: true
+    subscript: true
+    superscript: true
+    image: true
+    bulletedlist: true
+    styles: /assets/editor.css
   content:
     blockquote: true
     horizontalrule: true
@@ -140,6 +158,28 @@ _array_structures:
         block-classes:
         inner-block-classes:
         content_html:
+    - label: Slider
+      icon: format_quote
+      value:
+        _id: slider
+        block-classes:
+        heading_html:
+        slider-column-size:
+        aspect-ratio:
+        slider-images: []
+        text-column-size:
+        text_html:
+    - label:  Video Slider
+      icon: format_quote
+      value:
+        _id: slider-video
+        block-classes:
+        heading_html:
+        slider-column-size:
+        aspect-ratio:
+        slider-videos: []
+        text-column-size:
+        text_html:
   columns:
     label: Column
     icon: collections
@@ -153,3 +193,16 @@ _array_structures:
     value:
       image_path:
       aspect-ratio:
+      size: one-third
+  slider-images:
+    label: Slider Images
+    icon: collections
+    value:
+      image_path:
+  slider-videos:
+    label: Slider Videos
+    icon: collections
+    value:
+      webm_path:
+      mp4_path:
+      poster_path:

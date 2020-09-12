@@ -32,6 +32,7 @@
     background-size: cover;
     background-position: center;
     background-color: #F2EEE9;
+    background-repeat: no-repeat;
   }
 
   a.bg-image {
@@ -219,7 +220,7 @@
   transform: translate(-50%);
 }
 
-@media(max-width:767px) {
+@media(max-width:768px) {
   .border-center:after {
     content: none;
   }
@@ -239,7 +240,7 @@
   }
 
   .subtle-heading {
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     font-weight: bold;
   }
 
@@ -362,7 +363,7 @@
   // Logo & Unique Typography
 
   .home-banner .logo {
-    font-family: "PT Sans";
+    font-family: "Source Sans Pro";
     font-weight: bold;
     font-size: 8vw;
     line-height: 1.1;
@@ -373,16 +374,15 @@
     position: relative;
     z-index: 2;
     padding-bottom: 1rem;
-    letter-spacing: 1px;
   }
 
   .big-bold,
   .med-bold,
   .sm-bold {
-    font-family: "PT Sans";
+    font-family: "Source Sans Pro";
     font-weight: bold;
     font-size: 10vw;
-    letter-spacing: 1px;
+    letter-spacing: -0.2vw;
   }
 
   .med-bold {
@@ -391,6 +391,7 @@
 
   .sm-bold {
     font-size: 2.5rem;
+    letter-spacing: -0.1vw;
   }
 
   .border-left    { border-left: 2px solid }
@@ -438,32 +439,6 @@
     line-height: 1;
   }
 
-   // About Page
-.about-page h1 {
-  font-family: p22-underground, sans-serif;
-  text-transform: uppercase;
-  // letter-spacing: 4px;
-  font-weight: normal;
-  font-size: 2.5rem;
-}
-
-.about-page h1 span {
-  font-family: helvetica;
-  font-size: 1.8rem;
-  padding: 0.5rem;
-  vertical-align: top;
-  display: inline-block;
-}
-
-.about-page h2 {
-  // font-style: italic;
-  font-weight: 300;
-  font-family: p22-underground, sans-serif;
-  // letter-spacing: 2px;
-  font-size: 1.3rem;
-  // color: rgb(90,90,90);
-}
-
 
 @media(max-width:900px) {
     .home-banner .logo {
@@ -471,10 +446,15 @@
     }
 }
 
-@media(max-width:767px) {
-    .mob-p-0 {
-        padding: 0;
-    }
+@media(max-width:768px) {
+    .mob-p-0 { padding: 0;  }
+    .mob-p-5 { padding: 5%;  }
     .mob-p-t-0 { padding-top: 0;}
     .mob-p-b-0 { padding-bottom: 0;}
+  .home-banner .logo {
+    margin: 0;
+    border-bottom: none;
+    padding:0;
+  }
+
 }

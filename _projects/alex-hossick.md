@@ -17,6 +17,7 @@ intro-text_html: >-
 categories:
   - fashion
   - featured
+  - Product
 campaign:
   show-campaign-details: true
   campaign-title: Eyptsea Collection
@@ -103,6 +104,21 @@ gallery-images:
     size: one-third
   - image_path: /images/alex-hossick/eon-hossick-12.jpg
     alt: This is the alt text
+    size: one-third
+  - image_path: /images/alex-hossick/hossick-product-1.jpg
+    aspect-ratio: portrait
+    size: one-half
+  - image_path: /images/alex-hossick/eon-hossick-8.jpg
+    aspect-ratio: portrait
+    size: one-half
+  - image_path: /images/alex-hossick/hossick-product-5.jpg
+    aspect-ratio: square
+    size: one-third
+  - image_path: /images/alex-hossick/hossick-product-3.jpg
+    aspect-ratio: square
+    size: one-third
+  - image_path: /images/alex-hossick/hossick-product-4.jpg
+    aspect-ratio: square
     size: one-third
 gallery-text_html:
 _comments:

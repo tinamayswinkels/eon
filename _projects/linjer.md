@@ -5,34 +5,34 @@ title: Linjer
 subtitle: Essentials
 vertical-heading: true
 featured_image: /images/linjer-1/eon-linjer-6.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured-image-caption: Jewelry shoot in Bali by Eyes of a Nomad
 intro-text_html: >-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Linjer is known for beautiful watches, bags and jewelry that are
+  handcrafted with sustainable materials -- offering luxury products at a
+  fraction of the cost of traditional luxury brands.&nbsp;</p>
 categories:
   - fashion
   - featured
+  - Product
 campaign:
   show-campaign-details: true
   campaign-title: Essentials
   campaign-text_html: >-
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-    non proident, sunt in culpa qui officia deserunt mollit anim id est
-    laborum.</p>
-  team-heading-1: Model
-  team-text-1_html: 'This was the name of the model, and a little bit of a blurb about her.'
-  team-heading-2: HMUA
-  team-text-2_html: 'This was the name of the hmua, and a little bit of a blurb about her.'
-  team-heading-3: Stylist
-  team-text-3_html: 'This was the name of the stylist, and a little bit of a blurb about her.'
+    <p>For this project we took inspiration from the brands humble beginnings
+    and honest ethos to craft an image of luxury in simplicity. Shooting both
+    photo and video, covering up close product shots and more editorial and
+    lifestyle shots to bring a cohesive feeling across the website, social media
+    and digital advertising platforms.&nbsp;</p>
+  team-heading-1: Brief
+  team-text-1_html: <p>A collection of photos &amp; videos for web &amp; social.&nbsp;</p>
+  team-heading-2: Team
+  team-text-2_html: >-
+    <p>Model <a target="_blank" rel="noopener"
+    href="https://www.instagram.com/sveta_fafa/">Sveta</a> with HMUA by <a
+    target="_blank" rel="noopener"
+    href="https://instagram.com/kseniia_mua">Kseniia</a></p>
+  team-heading-3: Location
+  team-text-3_html: '<p>Shot at the beautiful Villa Merci, in Bali Indonesia</p>'
   campaign_image: /images/linjer-1/eon-linjer-5.jpg
 gallery-images:
   - image_path: /images/linjer-1/eon-linjer-10.jpg
@@ -105,3 +105,4 @@ gallery-text_html:
 _comments:
   layout: Don't touch this
 ---
+

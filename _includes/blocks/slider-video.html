@@ -1,0 +1,36 @@
+<section class="gallery padded centered grid {{include.block.block-classes | join: ' ' }}">
+
+  {% unless include.block.heading_html == nil %}
+  <div class="col-12">
+      {{include.block.heading_html}}
+  </div>
+
+  {% endunless %}
+
+<div class="{{block.slider-column-size}} slider-container slick-video-loop">
+
+  {% for image in include.block.slider-images %}
+
+  <div class="slick-item">
+    <div class="video-container">
+      <video controls poster="{{video.poster_path}}">
+          <source src="{{video.webm_path}}" type="video/webm">
+          <source src="{{video.mp4_path}}" type="video/mp4">
+          <p>Your browser does not support the video element.</p>
+      </video>
+    </div>
+  </div>
+
+  {% endfor %}
+
+</div>
+
+  {% unless include.block.text_html == nil %}
+
+  <div class="{{block.text-column-size}}">
+      {{include.block.text_html}}
+  </div>
+
+  {% endunless %}
+
+</section>

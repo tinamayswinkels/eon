@@ -15,7 +15,7 @@ intro-text_html: >-
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 categories:
   - featured
-  - cafe
+  - fashion
 campaign:
   show-campaign-details: false
   campaign-title: Beach Retreat
@@ -63,4 +63,3 @@ gallery-text_html:
 _comments:
   layout: Don't touch this
 ---
-

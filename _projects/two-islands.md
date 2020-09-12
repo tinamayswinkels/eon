@@ -16,7 +16,7 @@ intro-text_html: >-
 categories:
   - food
   - lifestyle
-  - featured
+  - product
 campaign:
   show-campaign-details: true
   campaign-title: Have a little sip

@@ -1,0 +1,31 @@
+<section class="gallery padded centered grid {{include.block.block-classes | join: ' ' }}">
+
+  {% unless include.block.heading_html == nil %}
+  <div class="col-12">
+      {{include.block.heading_html}}
+  </div>
+
+  {% endunless %}
+
+<div class="{{block.slider-column-size}} slider-container slick-block-loop padded">
+
+  {% for image in include.block.slider-images %}
+
+  <div class="slick-item">
+    <div class="bg-image {{include.block.aspect-ratio}}" style="background-image:url('{{image.image_path}}')">
+    </div>
+  </div>
+
+  {% endfor %}
+
+</div>
+
+  {% unless include.block.text_html == nil %}
+
+  <div class="{{block.text-column-size}} padded">
+      {{include.block.text_html}}
+  </div>
+
+  {% endunless %}
+
+</section>
