@@ -2,7 +2,7 @@
 layout: service
 title: Product Photography
 category: product
-featured_image: /images/placeholder-2.jpg
+featured_image: /images/pepito/eon-pepito-30.jpg
 intro-text_html: >-
   <p>We create stunning studio &amp; lifestyle images of your products, and will
   make sure you have images that can really sell online. From e-commerce photos,
@@ -29,6 +29,27 @@ page_blocks:
       - image_path: /images/asri-swim/eon-asri-41.jpg
         aspect-ratio: portrait-tall
         size: one-third
+      - image_path: /uploads/cultiver-sheets-1.jpg
+        aspect-ratio: portrait
+        size: one-half
+      - image_path: /uploads/cultiver-sheets-3.jpg
+        aspect-ratio: portrait
+        size: one-half
+      - image_path: /images/synkonah/eon-ginbar-26.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /uploads/synkonah-product-2.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/synkonah/eon-ginbar-24.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/alex-hossick/hossick-product-1.jpg
+        aspect-ratio: portrait
+        size: one-half
+      - image_path: /images/alex-hossick/hossick-product-2.jpg
+        aspect-ratio: portrait
+        size: one-half
     gallery-text_html:
   - _id: gallery
     block-classes:
@@ -37,17 +58,32 @@ page_blocks:
       <h2>Product Unboxing &amp; Creative Photography</h2><p>Beyond your
       standard product photography, we can help capture creative imagery that
       conjures an emotive response and gets your audience excited about your
-      product.&nbsp;<br /><br />&lt; NOTE ADD GOURMET MARKET
-      &gt;&nbsp;</p><p>&nbsp;</p>
+      product.&nbsp;</p><p>&nbsp;</p>
     gallery-images:
-      - image_path: /images/uma-2020/eon-uma2020-22.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/uma-2020/eon-uma2020-20.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/uma-2020/eon-uma2020-23.jpg
-        aspect-ratio: portrait-tall
-      - image_path:
-        aspect-ratio:
+      - image_path: /images/pepito/eon-gourmet2.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/pepito/eon-gourmet1.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/pepito/eon-gourmet3.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/pepito/eon-gourmet9.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/pepito/eon-pepito-15.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/pepito/eon-pepito-21.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/pepito/eon-gourmet7.jpg
+        aspect-ratio: portrait
+        size: one-half
+      - image_path: /images/pepito/eon-gourmet8.jpg
+        aspect-ratio: portrait
+        size: one-half
     gallery-text_html:
   - _id: gallery
     block-classes:
@@ -79,6 +115,15 @@ page_blocks:
         aspect-ratio: portrait
         size: one-third
       - image_path: /images/linjer-1/eon-linjer-6.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/aufait-furniture-2.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/aufait-furniture-1.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/aufait-furniture-3.jpg
         aspect-ratio: portrait
         size: one-third
     gallery-text_html:
