@@ -44,19 +44,13 @@ page_blocks:
       - image_path: /images/synkonah/eon-ginbar-24.jpg
         aspect-ratio: portrait
         size: one-third
-      - image_path: /images/alex-hossick/hossick-product-1.jpg
-        aspect-ratio: portrait
-        size: one-half
-      - image_path: /images/alex-hossick/hossick-product-2.jpg
-        aspect-ratio: portrait
-        size: one-half
       - image_path: /images/pepito/eon-pepito-product-1.jpg
         aspect-ratio: portrait
         size: one-third
-      - image_path: /images/pepito/eon-pepito-product-1.jpg
+      - image_path: /images/pepito/eon-pepito-product-2.jpg
         aspect-ratio: portrait
         size: one-third
-      - image_path: /images/pepito/eon-pepito-product-1.jpg
+      - image_path: /images/pepito/eon-pepito-product-3.jpg
         aspect-ratio: portrait
         size: one-third
     gallery-text_html:
@@ -69,6 +63,12 @@ page_blocks:
       conjures an emotive response and gets your audience excited about your
       product.&nbsp;</p><p>&nbsp;</p>
     gallery-images:
+      - image_path: /images/alex-hossick/hossick-product-1.jpg
+        aspect-ratio: portrait
+        size: one-half
+      - image_path: /images/alex-hossick/hossick-product-2.jpg
+        aspect-ratio: portrait
+        size: one-half
       - image_path: /images/pepito/eon-gourmet2.jpg
         aspect-ratio: portrait
         size: one-third
@@ -93,6 +93,7 @@ page_blocks:
       - image_path: /images/pepito/eon-gourmet8.jpg
         aspect-ratio: portrait
         size: one-half
+
     gallery-text_html:
   - _id: gallery
     block-classes:
