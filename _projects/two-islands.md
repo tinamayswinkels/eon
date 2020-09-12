@@ -16,7 +16,7 @@ intro-text_html: >-
 categories:
   - food
   - lifestyle
-  - Product
+  - product
 campaign:
   show-campaign-details: true
   campaign-title: Have a little sip
@@ -94,4 +94,3 @@ gallery-text_html:
 _comments:
   layout: Don't touch this
 ---
-
