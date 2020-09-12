@@ -26,8 +26,8 @@ page_blocks:
       - image_path: /images/asri-swim/eon-asri-43.jpg
         aspect-ratio: portrait
         size: one-third
-      - image_path: /images/asri-swim/eon-asri-41.jpg
-        aspect-ratio: portrait-tall
+      - image_path: /images/asri-swim/asri-product-1.png
+        aspect-ratio: portrait
         size: one-third
       - image_path: /uploads/cultiver-sheets-1.jpg
         aspect-ratio: portrait
