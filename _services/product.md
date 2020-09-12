@@ -50,6 +50,15 @@ page_blocks:
       - image_path: /images/alex-hossick/hossick-product-2.jpg
         aspect-ratio: portrait
         size: one-half
+      - image_path: /images/pepito/gourmet-product-5.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/pepito/gourmet-product-4.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/pepito/gourmet-product-6.jpg
+        aspect-ratio: portrait
+        size: one-third
     gallery-text_html:
   - _id: gallery
     block-classes:
