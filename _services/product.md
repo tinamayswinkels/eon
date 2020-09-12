@@ -21,10 +21,10 @@ page_blocks:
       needs.&nbsp;</p><p class="align-to-center">&nbsp;</p>
     gallery-images:
       - image_path: /images/asri-swim/eon-asri-39.jpg
-        aspect-ratio: portrait-tall
+        aspect-ratio: portrait
         size: one-third
       - image_path: /images/asri-swim/eon-asri-43.jpg
-        aspect-ratio: portrait-tall
+        aspect-ratio: portrait
         size: one-third
       - image_path: /images/asri-swim/eon-asri-41.jpg
         aspect-ratio: portrait-tall
@@ -144,3 +144,4 @@ page_blocks:
       marketing strategy &amp; social media management. Here are a few examples
       of instagram grid's we've created for clients.</p>
 ---
+
