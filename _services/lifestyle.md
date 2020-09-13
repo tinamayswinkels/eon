@@ -27,21 +27,28 @@ page_blocks:
     block-classes:
       - padded-5p
     heading_html: >-
-      <h2>Studio &amp; Ecommerce Photography</h2><p>We can offer various styles
-      of studio photography - from still posed shots to editorial-style
-      ecommerce that can show off the personality of the brand and the movement
-      and texture of the pieces.&nbsp;</p><p>We have various backdrops and our
-      lighting set up can handle everything from hash shadows to soft even
-      light.&nbsp;</p><p>&nbsp;</p>
+      <h2>Lifestyle Photography for Villa &amp; Hotels</h2><p>What converts
+      customers better than a photo of your empty room? High quality lifestyle
+      imagery conjuring an image of just how good your guests will feel when
+      they stay with you. We often work with hotels who have already captured
+      all their venue' photography but need that edge to stand out from the
+      crowd.</p><p>&nbsp;</p>
     gallery-images:
-      - image_path: /images/uma-2020/eon-uma2020-22.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/uma-2020/eon-uma2020-20.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/uma-2020/eon-uma2020-23.jpg
-        aspect-ratio: portrait-tall
-      - image_path:
-        aspect-ratio:
+      - image_path: /images/riverhouse/eon-riverhouse-12.jpg
+        aspect-ratio: landscape
+        size: one-half
+      - image_path: /images/riverhouse/eon-riverhouse-16.jpg
+        aspect-ratio: landscape
+        size: one-half
+      - image_path: /images/mandala-thebay/eon-thebay-50.jpg
+        aspect-ratio: landscape
+        size: full-width
+      - image_path: /images/mandala-thebay/eon-thebay-33.jpg
+        aspect-ratio: square
+        size: one-half
+      - image_path: /images/mandala-thebay/eon-thebay-46.jpg
+        aspect-ratio: square
+        size: one-half
     gallery-text_html:
   - _id: gallery
     block-classes:
