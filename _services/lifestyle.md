@@ -4,36 +4,24 @@ title: Lifestyle Photography
 category: lifestyle
 featured_image: /images/placeholder-2.jpg
 intro-text_html: >-
-  <p>Looking for a fashion photographer in Bali, or a remote team to run a
-  destination campaign in this stunning tropical island? Fashion photography is
-  our speciality and we would love to help bring your vision to life and create
-  meaningful content that will get results for your brand.&nbsp;</p>
+  <p>Lifestyle photography can be the missing edge that brings your website,
+  social media and digital marketing to life.&nbsp;</p><p>Rather than disrupting
+  your paying customers we organise talent that's more affordable than
+  professional models but has experience on camera.&nbsp;</p>
 page_blocks:
   - _id: gallery
     block-classes:
       - padded-5p
     heading_html: >-
       <h2 id="photography--videography-for-cafes-in-bali"
-      class="align-to-center">Editorial &amp; Lifestyle Photography</h2><p
-      class="align-to-center">We have packages to suit all needs and budgets.
-      One-off or monthly lifestyle shoots are perfect for filling your social
-      media with beautiful content that tells a story, and drives customers to
-      purchase. We can also put together bigger creative editorial campaigns,
-      helping with model selection and castings, location scouting, creation of
-      moodboards etc.</p><p class="align-to-center">&nbsp;</p>
+      class="align-to-center">Lifestyle Photography for Cafes, Restaurants &amp;
+      Bars</h2><p class="align-to-center">One of our most popular services is to
+      create regular monthly or quarterly lifestyle content for venues that want
+      to bring a human element to their content.</p>
     gallery-images:
-      - image_path: /images/alex-hossick/eon-hossick-1.jpg
+      - image_path:
         aspect-ratio: portrait
-      - image_path: /images/alex-hossick/eon-hossick-10.jpg
-        aspect-ratio: portrait
-      - image_path: /images/alex-hossick/eon-hossick-11.jpg
-        aspect-ratio: portrait
-      - image_path: /images/alex-hossick/eon-hossick-36.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/alex-hossick/eon-hossick-30.jpg
-        aspect-ratio: portrait-tall
-      - image_path: /images/alex-hossick/eon-hossick-35.jpg
-        aspect-ratio: portrait-tall
+        size: one-third
     gallery-text_html:
   - _id: gallery
     block-classes:
@@ -89,3 +77,4 @@ page_blocks:
       marketing strategy &amp; social media management. Here are a few examples
       of instagram grid's we've created for clients.</p>
 ---
+
