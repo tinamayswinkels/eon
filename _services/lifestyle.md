@@ -19,7 +19,22 @@ page_blocks:
       create regular monthly or quarterly lifestyle content for venues that want
       to bring a human element to their content.</p>
     gallery-images:
-      - image_path:
+      - image_path: /images/kabron/eon-kabron-28.jpg
+        aspect-ratio: landscape
+        size: one-half
+      - image_path: /images/kabron/eon-kabron-9.jpg
+        aspect-ratio: landscape
+        size: one-half
+      - image_path: /images/kabron/eon-kabron-5.jpg
+        aspect-ratio: landscape
+        size: full-width
+      - image_path: /images/front-cafe/eon-front-21.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/front-cafe/eon-front-30.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/kabron/eon-kabron-29.jpg
         aspect-ratio: portrait
         size: one-third
     gallery-text_html:
