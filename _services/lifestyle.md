@@ -89,10 +89,10 @@ page_blocks:
       - image_path: /images/sippy-event/eon-sippy-42.jpg
         aspect-ratio: portrait-tall
         size: one-third
-      - image_path: /images/sippy-event/eon-sippy-48.jpg
+      - image_path: /images/sippy-event/eon-sippy-32.jpg
         aspect-ratio: portrait-tall
         size: one-third
-      - image_path: /images/sippy-event/eon-sippy-32.jpg
+      - image_path: /images/sippy-event/eon-sippy-48.jpg
         aspect-ratio: portrait-tall
         size: one-third
       - image_path: /images/two-islands/eon-twoislands-32.jpg
@@ -126,4 +126,3 @@ page_blocks:
       marketing strategy &amp; social media management. Here are a few examples
       of instagram grid's we've created for clients.</p>
 ---
-
