@@ -63,17 +63,35 @@ page_blocks:
     block-classes:
       - padded-tall
     heading_html: >-
-      <h2>Cut-out &amp; Manequin Photography</h2><p>When you want the product to
-      be the sole focus we can provide studio photography using a model or ghost
-      manequin that can be with a solid color background or transparent, cut-out
-      background.&nbsp;</p><p>&nbsp;</p>
+      <h2>Event Photography</h2><p>For a more curated event photography
+      experience, where we focus on the quality of images not just the quantity.
+      One of our most popular packages includes the coordination &amp;
+      photography of influencer events -- where we ensure that not only do your
+      VIP guests have an amazing experience, but we provide them with high
+      imagery for your marketing and their own feeds that reflects your venue in
+      the best possible light.&nbsp;</p><p>&nbsp;</p>
     gallery-images:
-      - image_path: /images/asri-swim/eon-asri-39.jpg
+      - image_path: /images/sippy-event/eon-sippy-42.jpg
         aspect-ratio: portrait-tall
-      - image_path: /images/asri-swim/eon-asri-43.jpg
+        size: one-third
+      - image_path: /images/sippy-event/eon-sippy-48.jpg
         aspect-ratio: portrait-tall
-      - image_path: /images/asri-swim/eon-asri-40.jpg
+        size: one-third
+      - image_path: /images/sippy-event/eon-sippy-32.jpg
         aspect-ratio: portrait-tall
+        size: one-third
+      - image_path: /images/two-islands/eon-twoislands-32.jpg
+        aspect-ratio: square
+        size: one-third
+      - image_path: /images/two-islands/eon-twoislands-13.jpg
+        aspect-ratio: square
+        size: one-third
+      - image_path: /images/alternative-event/eon-alternative-1.jpg
+        aspect-ratio: square
+        size: one-third
+      - image_path: /images/alternative-event/eon-alternative-2.jpg
+        aspect-ratio: landscape
+        size: full-width
     gallery-text_html:
   - _id: slider
     block-classes:
