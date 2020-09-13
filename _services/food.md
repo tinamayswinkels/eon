@@ -52,13 +52,13 @@ page_blocks:
       - image_path: /images/kembali/eon-kembali-27.jpg
         aspect-ratio: landscape
         size: one-half
-      - image_path: /images/front-cafe/eon-front-33.jpg
+      - image_path: /images/nude-cafe/eon-nude-24.jpg
         aspect-ratio: landscape
         size: one-half
-      - image_path: /images/kembali/eon-kembali-26.jpg
+      - image_path: /images/ulu-cliffhouse/eon-cliffhouse-39.jpg
         aspect-ratio: landscape
         size: one-half
-      - image_path: /images/kembali/eon-kembali-26.jpg
+      - image_path: /images/marriot-group/eon-marriot-3.jpg
         aspect-ratio: landscape
         size: one-half
     gallery-text_html:

@@ -13,5 +13,11 @@
 
   {% include body-scripts.html %}
 
+  {% if page.url == '/portfolio' %}
+
+    {% include portfolio.html %}
+
+  {% endif %}
+
 </body>
 </html>
