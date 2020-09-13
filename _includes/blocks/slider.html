@@ -1,4 +1,6 @@
-<section class="gallery padded centered grid {{include.block.block-classes | join: ' ' }}">
+<section class="padded {{include.block.block-classes | join: ' ' }}">
+
+  <div class="capped-width grid">
 
   {% unless include.block.heading_html == nil %}
   <div class="col-12">
@@ -27,5 +29,7 @@
   </div>
 
   {% endunless %}
+
+  </div>
 
 </section>

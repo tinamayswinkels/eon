@@ -22,24 +22,33 @@ page_blocks:
       helping with model selection and castings, location scouting, creation of
       moodboards etc.</p><p class="align-to-center">&nbsp;</p>
     gallery-images:
-      - image_path: /images/alex-hossick/eon-hossick-1.jpg
-        aspect-ratio: portrait
-        size: one-third
-      - image_path: /images/alex-hossick/eon-hossick-10.jpg
-        aspect-ratio: portrait
-        size: one-third
-      - image_path: /images/alex-hossick/eon-hossick-11.jpg
-        aspect-ratio: portrait
-        size: one-third
-      - image_path: /images/alex-hossick/eon-hossick-36.jpg
+      - image_path: /images/uma-night/eon-uma-night-49.jpg
+        aspect-ratio: landscape
+        size: one-half
+      - image_path: /images/forsoul-2019/eon-forsoul-41.jpg
+        aspect-ratio: landscape
+        size: one-half
+      - image_path: /images/liq-bikini/eon-liq-27.jpg
         aspect-ratio: portrait-tall
         size: one-third
-      - image_path: /images/alex-hossick/eon-hossick-30.jpg
+      - image_path: /images/jane-riverhouse/eon-jane-10.jpg
         aspect-ratio: portrait-tall
         size: one-third
-      - image_path: /images/alex-hossick/eon-hossick-35.jpg
+      - image_path: /images/uma-alure/eon-uma-alure-8.jpg
         aspect-ratio: portrait-tall
         size: one-third
+      - image_path: /images/zenwa/eon-zenwa-2.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/forsoul-2020/eon-forsoul2020-5.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/rachel-north/eon-rachnorth-6.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/uma-resort/eon-uma-resort-5.jpg
+        aspect-ratio: landscape
+        size: full-width
     gallery-text_html:
   - _id: gallery
     block-classes:
@@ -71,14 +80,14 @@ page_blocks:
       manequin that can be with a solid color background or transparent, cut-out
       background.&nbsp;</p><p>&nbsp;</p>
     gallery-images:
-      - image_path: /images/asri-swim/eon-asri-39.jpg
-        aspect-ratio: portrait-tall
+      - image_path: /images/asri-swim/eon-asri-cut-2.png
+        aspect-ratio: portrait
         size: one-third
-      - image_path: /images/asri-swim/eon-asri-43.jpg
-        aspect-ratio: portrait-tall
+      - image_path: /images/asri-swim/eon-asri-cut-3.png
+        aspect-ratio: portrait
         size: one-third
-      - image_path: /images/asri-swim/eon-asri-40.jpg
-        aspect-ratio: portrait-tall
+      - image_path: /images/asri-swim/eon-asri-cut-1.png
+        aspect-ratio: portrait
         size: one-third
     gallery-text_html:
   - _id: slider

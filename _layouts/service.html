@@ -20,7 +20,7 @@ page_blocks:
   <hr class="centered">
 </section>
 
-<div class="capped-width">
+<div>
 {% for block in page.page_blocks %}
       {% include blocks/{{block._id}}.html block=block %}
 {% endfor %}
