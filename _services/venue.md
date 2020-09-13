@@ -107,8 +107,11 @@ page_blocks:
         aspect-ratio: portrait
         size: one-third
       - image_path: /images/mandala-therocks/eon-therocks-23.jpg
-        aspect-ratio: landscape
-        size: full-width
+        aspect-ratio: portrait
+        size: one-half
+      - image_path: /images/mandala-therocks/eon-therocks-24.jpg
+        aspect-ratio: portrait
+        size: one-half
     gallery-text_html:
   - _id: slider
     block-classes:
