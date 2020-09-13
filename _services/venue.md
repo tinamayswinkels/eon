@@ -80,7 +80,7 @@ page_blocks:
       - image_path: /images/kabron/eon-kabron-16.jpg
         aspect-ratio: portrait
         size: one-third
-      - image_path: /images/kembali/eon-kembali-26.jpg
+      - image_path: /images/nude-cafe/eon-nude-23.jpg
         aspect-ratio: landscape
         size: full-width
     gallery-text_html:
@@ -106,7 +106,7 @@ page_blocks:
       - image_path: /images/mandala-thebay/eon-thebay-62.jpg
         aspect-ratio: portrait
         size: one-third
-      - image_path: /images/mandala-therocks/eon-therocks-26.jpg
+      - image_path: /images/mandala-therocks/eon-therocks-23.jpg
         aspect-ratio: landscape
         size: full-width
     gallery-text_html:
@@ -128,4 +128,3 @@ page_blocks:
       marketing strategy &amp; social media management. Here are a few examples
       of instagram grid's we've created for clients.</p>
 ---
-
