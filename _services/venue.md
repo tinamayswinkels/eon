@@ -89,7 +89,7 @@ page_blocks:
       - padded-5p
     heading_html: >-
       <h2 class="align-to-center">Drone Photography &amp; Videography</h2><p
-      class="align-to-center">A new perspective on your property</p>
+      class="align-to-center">A new perspective on your property <br> </p>
     gallery-images:
       - image_path: /images/kabron/eon-kabron-31.jpg
         aspect-ratio: square
