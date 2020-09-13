@@ -49,6 +49,15 @@ page_blocks:
       - image_path: /images/mandala-thebay/eon-thebay-46.jpg
         aspect-ratio: square
         size: one-half
+      - image_path: /images/kozue-niseko/eon-kozue-5.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/kozue-niseko/eon-kozue-1.jpg
+        aspect-ratio: portrait
+        size: one-third
+      - image_path: /images/kozue-niseko/eon-kozue-10.jpg
+        aspect-ratio: portrait
+        size: one-third
     gallery-text_html:
   - _id: gallery
     block-classes:
