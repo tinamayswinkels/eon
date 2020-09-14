@@ -5,7 +5,7 @@ title: Liq Bikini
 subtitle: Summer Dreams
 vertical-heading: true
 featured_image: /images/liq-bikini/eon-liq-32.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured-image-caption: 'Swimwear photoshoot shoot in Uluwatu, Bali'
 intro-text_html: >-
   <p>Liq Bikini is an eco-sustainable and locally made swimwear brand here in
   Bali. We shot this campaign down in Uluwatu at a small hidden beach and the
