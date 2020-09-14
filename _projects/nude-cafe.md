@@ -13,7 +13,6 @@ intro-text_html: >-
   in-person experience into their social media and website.&nbsp;</p>
 categories:
   - food
-  - featured
 campaign:
   show-campaign-details: true
   campaign-title: Social Stories
