@@ -7,17 +7,15 @@ vertical-heading: true
 featured_image: /images/liq-bikini/eon-liq-32.jpg
 featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
 intro-text_html: >-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Liq Bikini is an eco-sustainable and locally made swimwear brand here in
+  Bali. We shot this campaign down in Uluwatu at a small hidden beach and the
+  stunning Mandala the Rocks villa. Our vision for the shoot was a vintage vibe
+  with that could easily have been shot on the coast of Italy.&nbsp;</p>
 categories:
   - fashion
   - featured
 campaign:
-  show-campaign-details: true
+  show-campaign-details: false
   campaign-title: Summer Dreams
   campaign-text_html: >-
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
