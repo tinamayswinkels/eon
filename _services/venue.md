@@ -14,9 +14,8 @@ page_blocks:
     heading_html: >-
       <h2 id="photography--videography-for-cafes-in-bali"
       class="align-to-center">Hotel Photography</h2><p
-      class="align-to-center">We have worked with luxury hotels all over the
-      world including Ovolo Hotels, The W, The St Regis, and many
-      more.&nbsp;</p><p class="align-to-center">&nbsp;</p>
+      class="align-to-center">We have worked with luxury hotels all over the world including Ovolo Hotels, The W, The St Regis, and many more. 
+But don’t let these big names deter you, we love shooting smaller boutique hotels just as much, so get in touch & lets capture the magic of your space!</p><p class="align-to-center">&nbsp;</p>
     gallery-images:
       - image_path: /images/ulu-cliffhouse/eon-cliffhouse-39.jpg
         aspect-ratio: landscape
@@ -41,10 +40,7 @@ page_blocks:
     block-classes:
       - padded-5p
     heading_html: >-
-      <h2>Luxury Villa &amp; Airbnb Photography</h2><p>Our portfolio of
-      experience shooting luxury houses, villas and airbnbs spans multiple
-      continents. We deliver thoughtfully crafted photos that capture all the
-      little details that make your space special.&nbsp;</p><p>&nbsp;</p>
+      <h2>Luxury Villa &amp; Airbnb Photography</h2><p>Our portfolio of experience shooting luxury houses, villas and airbnbs spans multiple continents, from Bali to Japan, to Morocco & beyond. We deliver thoughtfully crafted photos that capture all the little details that make your space special. </p><p>&nbsp;</p>
     gallery-images:
       - image_path: /images/mandala-thebay/eon-thebay-22.jpg
         aspect-ratio: portrait
@@ -66,7 +62,7 @@ page_blocks:
     block-classes:
       - padded-tall
     heading_html: >-
-      <h2>Restaurant, Bar &amp; Club Photography</h2><p>We've working with
+      <h2>Restaurant, Bar &amp; Club Photography</h2><p>We've worked with
       dozens of the biggest restaurants and pool bars in Bali capturing photos
       for their website, social media, digital advertising, billboards &amp;
       print and PR features.&nbsp;</p><p>&nbsp;</p>
@@ -89,7 +85,7 @@ page_blocks:
       - padded-5p
     heading_html: >-
       <h2 class="align-to-center">Drone Photography &amp; Videography</h2><p
-      class="align-to-center">A new perspective on your property</p>
+      class="align-to-center">Capturing your space from above can bring a totally new perspective to your property, often showcasing the world around your venue, helping set the vibe for future guests. <br> </p>
     gallery-images:
       - image_path: /images/kabron/eon-kabron-31.jpg
         aspect-ratio: square
@@ -107,8 +103,11 @@ page_blocks:
         aspect-ratio: portrait
         size: one-third
       - image_path: /images/mandala-therocks/eon-therocks-23.jpg
-        aspect-ratio: landscape
-        size: full-width
+        aspect-ratio: portrait
+        size: one-half
+      - image_path: /images/mandala-therocks/eon-therocks-24.jpg
+        aspect-ratio: portrait
+        size: one-half
     gallery-text_html:
   - _id: slider
     block-classes:

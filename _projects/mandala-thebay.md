@@ -7,18 +7,16 @@ vertical-heading: true
 featured_image: /images/mandala-thebay/eon-thebay-3.jpg
 featured-image-caption: Shot by Eyes of a Nomad
 intro-text_html: >-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Mandala The Bay is a luxury cliff-front villa in Nusa Lembongan, Bali. For
+  this campaign, our goal was to capture lifestyle content that really showcased
+  the experience of staying here and appealed to a wide audience that included
+  families. Here is a selection of some of the content we delivered.&nbsp;</p>
 categories:
   - venue
   - lifestyle
   - featured
 campaign:
-  show-campaign-details: true
+  show-campaign-details: false
   campaign-title: Nusa Lembongan
   campaign-text_html: >-
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -29,11 +27,15 @@ campaign:
     non proident, sunt in culpa qui officia deserunt mollit anim id est
     laborum.</p>
   team-heading-1: Model
-  team-text-1_html: 'This was the name of the model, and a little bit of a blurb about her.'
+  team-text-1_html: >-
+    <p>This was the name of the model, and a little bit of a blurb about
+    her.</p>
   team-heading-2: HMUA
-  team-text-2_html: 'This was the name of the hmua, and a little bit of a blurb about her.'
+  team-text-2_html: '<p>This was the name of the hmua, and a little bit of a blurb about her.</p>'
   team-heading-3: Stylist
-  team-text-3_html: 'This was the name of the stylist, and a little bit of a blurb about her.'
+  team-text-3_html: >-
+    <p>This was the name of the stylist, and a little bit of a blurb about
+    her.</p>
   campaign_image: /images/mandala-thebay/eon-thebay-9.jpg
 gallery-images:
   - image_path: /images/mandala-thebay/eon-thebay-22.jpg
@@ -109,3 +111,4 @@ gallery-text_html:
 _comments:
   layout: Don't touch this
 ---
+
