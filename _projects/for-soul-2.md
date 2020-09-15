@@ -1,7 +1,7 @@
 ---
 layout: project
 hidden: false
-title: For Soul
+title: Forsoul
 subtitle: La Dolce Vita Collection
 vertical-heading: true
 featured_image: /images/forsoul-2020/eon-forsoul2020-7.jpg
@@ -21,15 +21,15 @@ campaign:
   show-campaign-details: true
   campaign-title: La Dolce Vita Collection
   campaign-text_html: >-
-    <p>The Dolce Vita collection was a shift from the first <a
-    href="/projects/for-soul-1">Soul Seeker campaign</a> we shot with ForSoul to
-    a more vintage, summery vibe.&nbsp;</p><p>The vision Sophia asked us to
-    create for this shoot was to imagine the modern muse, soaking up the simple
-    life in dreamy, romantic places.&nbsp;</p><p>For this campaign we focused
-    less on the location and more on the pieces themselves and capturing the
-    feeling of soaking up the summer sun.&nbsp;</p><p>We also captured some of
-    the accessories in the same location so that the brand could tell a cohesive
-    story through their social media&nbsp;</p>
+    <p>The Dolce Vita collection was a shift from the first <a target="_blank"
+    rel="noopener" href="/projects/for-soul-1">Soul Seeker campaign</a> we shot
+    with Forsoul to a more vintage, summery vibe.&nbsp;</p><p>The vision Sophia
+    asked us to create for this shoot was to imagine the modern muse, soaking up
+    the simple life in dreamy, romantic places.&nbsp;</p><p>For this campaign we
+    focused less on the location and more on the pieces themselves and capturing
+    the feeling of soaking up the summer sun.&nbsp;</p><p>We also captured some
+    of the accessories in the same location so that the brand could tell a
+    cohesive story through their social media&nbsp;</p>
   team-heading-1: Brief
   team-text-1_html: <p>This was a half-day editorial shoot for web and social media.&nbsp;</p>
   team-heading-2: Team
