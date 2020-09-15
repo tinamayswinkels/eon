@@ -1,5 +1,7 @@
 <section class="padded {{include.block.block-classes | join: ' ' }}">
 
+  <a href="cloudcannon:#page_blocks[{{ forloop.index0 }}]" class="editor-link" data-cms-editor-link-style="modal"> Edit section </a>
+
   <div class="capped-width grid">
 
   {% unless include.block.heading_html == nil %}

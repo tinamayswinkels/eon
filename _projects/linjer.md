@@ -19,10 +19,10 @@ campaign:
   campaign-title: Essentials
   campaign-text_html: >-
     <p>For this project we took inspiration from the brands humble beginnings
-    and honest ethos to craft an image of luxury in simplicity. Shooting both
-    photo and video, covering up close product shots and more editorial and
-    lifestyle shots to bring a cohesive feeling across the website, social media
-    and digital advertising platforms.&nbsp;</p>
+    and honest ethos, to craft an image of luxury in simplicity. Shooting both
+    photo and video, covering up close product shots and more
+    editorial/lifestyle shots to bring a cohesive feeling across the website,
+    social media and digital advertising platforms.&nbsp;</p>
   team-heading-1: Brief
   team-text-1_html: <p>A collection of photos &amp; videos for web &amp; social.&nbsp;</p>
   team-heading-2: Team

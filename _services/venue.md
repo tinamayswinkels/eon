@@ -14,8 +14,7 @@ page_blocks:
     heading_html: >-
       <h2 id="photography--videography-for-cafes-in-bali"
       class="align-to-center">Hotel Photography</h2><p
-      class="align-to-center">We have worked with luxury hotels all over the world including Ovolo Hotels, The W, The St Regis, and many more. 
-But don’t let these big names deter you, we love shooting smaller boutique hotels just as much, so get in touch & lets capture the magic of your space!</p><p class="align-to-center">&nbsp;</p>
+      class="align-to-center">We have worked with luxury hotels all over the world including Ovolo Hotels, The W, The St Regis, and many more. But don’t let these big names deter you, we love shooting smaller boutique hotels just as much, so get in touch & lets capture the magic of your space!</p><p class="align-to-center">&nbsp;</p>
     gallery-images:
       - image_path: /images/ulu-cliffhouse/eon-cliffhouse-39.jpg
         aspect-ratio: landscape

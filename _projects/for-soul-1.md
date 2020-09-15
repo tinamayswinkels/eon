@@ -1,7 +1,7 @@
 ---
 layout: project
 hidden: false
-title: For Soul
+title: Forsoul
 subtitle: Soul Seeker Collection
 vertical-heading: true
 featured_image: /images/forsoul-2019/eon-forsoul-20.jpg
@@ -41,7 +41,7 @@ campaign:
     creative direction a joint effort between <a target="_blank" rel="noopener
     noreferrer" href="https://instagram.com/kelapacreative">Kelapa Creative</a>
     &amp; <a target="_blank" rel="noopener noreferrer"
-    href="https://instagram.com/forsoulthelabel">ForSoul</a>.&nbsp;</p>
+    href="https://instagram.com/forsoulthelabel">Forsoul</a>.&nbsp;</p>
   team-heading-3: Location
   team-text-3_html: >-
     <p>This was a secret location in North Bali that we spent weeks researching,
