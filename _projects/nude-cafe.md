@@ -7,10 +7,11 @@ vertical-heading: true
 featured_image: /images/nude-cafe/eon-nude-1.jpg
 featured-image-caption: Shot by Eyes of a Nomad
 intro-text_html: >-
-  <p>Nude Cafe is a locally owned cafe in the heart of&nbsp; Canggu serving up
-  delicious food and a cosy environment.&nbsp;</p><p>As an established cafe with
-  a bold, playful aesthetic our goal for this shoot was to translate that
-  in-person experience into their social media and website.&nbsp;</p>
+  <p>Nude Cafe is a locally owned cafe in the heart of &nbsp;Berawa serving up
+  delicious food, in a bright &amp; cosy environment.&nbsp;</p><p>As an
+  established cafe with a bold, playful aesthetic our goal for this shoot was to
+  translate that in-person experience into their social media and
+  website.&nbsp;</p>
 categories:
   - food
 campaign:
