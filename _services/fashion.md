@@ -77,8 +77,8 @@ page_blocks:
     heading_html: >-
       <h2>Cut-out &amp; Manequin Photography</h2><p>When you want the product to
       be the sole focus we can provide studio photography using a model or ghost
-      manequin that can be with a solid color background or transparent, cut-out
-      background.&nbsp;</p><p>&nbsp;</p>
+      manequin, delivered to you with a solid color background of your choice or
+      transparent, cut-out background.&nbsp;</p><p>&nbsp;</p>
     gallery-images:
       - image_path: /images/asri-swim/eon-asri-cut-2.png
         aspect-ratio: portrait
@@ -108,3 +108,4 @@ page_blocks:
       marketing strategy &amp; social media management. Here are a few examples
       of instagram grid's we've created for clients.</p>
 ---
+
