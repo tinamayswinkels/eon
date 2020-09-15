@@ -85,15 +85,6 @@ gallery-images:
     size: one-half
 gallery-text_html:
 page_blocks:
-  - _id: slider-video
-    block-classes:
-      - bg-v-white-tan
-    heading_html: <h2 class="align-to-center">Luxury Penthouse Video Walkthrough</h2>
-    slider-column-size: col-12
-    aspect-ratio: landscape
-    slider-videos:
-    text-column-size:
-    text_html:
 _comments:
   layout: Don't touch this
 ---
