@@ -84,7 +84,7 @@ gallery-images:
     alt: This is the alt text
     size: one-half
 gallery-text_html:
+page_blocks: 
 _comments:
   layout: Don't touch this
 ---
-

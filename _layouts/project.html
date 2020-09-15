@@ -1,11 +1,12 @@
 ---
 layout: default
+page_blocks:
 ---
 
 <section class="grid padded-10 capped-width">
   <div class="col-6_sm-12">
     <div class="bg-image square" style="background-image:url({{page.featured_image}});"></div>
-    <p class="image-caption"> {{page.featured-image-caption}} </p>
+    <p class="image-caption-left"> {{page.featured-image-caption}} </p>
   </div>
   <div class="col-6_sm-12 padded title-container relative">
      <h1 class="big-bold {% unless page.vertical-heading == false %} vertical-text {% endunless %}"> {{page.title}}.</h1>
@@ -63,20 +64,17 @@ layout: default
   <div class="margin-top-1"> {{page.gallery-text_html}}</div>
 </section>
 
+{% for block in page.page_blocks %}
+      {% include blocks/{{block._id}}.html block=block %}
+{% endfor %}
+
+
 {% include related-projects.html %}
 
 
 <!-- On-page styles  -->
 
 <style>
-
-    .image-caption {
-      transform: rotate(270deg);
-      transform-origin: top left 0;
-      margin-left: -1.5rem;
-      font-size: 0.8rem;
-      font-style: italic;
-    }
 
     .vertical-text {
       font-size: 8vw;
@@ -100,10 +98,6 @@ layout: default
       .campaign-section {
         background-color: #F2EEE9;
         margin-top: 4rem;
-      }
-
-      .image-caption {
-        margin-left: -1.5rem;
       }
 
       .vertical-text {
