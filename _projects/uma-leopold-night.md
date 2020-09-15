@@ -21,7 +21,7 @@ campaign:
     <p>For this project we worked hand-in-hand with the Uma &amp; Leopold team
     on the creative direction of the campaign helping them bring their vision to
     life.&nbsp;<br /><br />We researched and coordinated to shoot in this
-    beautiful cafe in the heart of change with a mixture of natural lighting and
+    beautiful cafe in the heart of Canggu with a mixture of natural lighting and
     flash, working with a range of props and accessories and a mix of
     professional models and real customers.&nbsp;</p><p>The client wanted a
     sophisticated daytime feeling moving to a more grungy, flash feeling at
