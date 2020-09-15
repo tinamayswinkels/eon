@@ -10,7 +10,7 @@ intro-text_html: >-
   <p>Liq Bikini is an eco-sustainable and locally made swimwear brand here in
   Bali. We shot this campaign down in Uluwatu at a small hidden beach and the
   stunning Mandala the Rocks villa. Our vision for the shoot was a vintage vibe
-  with that could easily have been shot on the coast of Italy.&nbsp;</p>
+  with what could easily have been shot on the coast of Italy.&nbsp;</p>
 categories:
   - fashion
   - featured
