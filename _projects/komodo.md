@@ -7,11 +7,11 @@ vertical-heading: true
 featured_image: /images/komodo/eon-komodo-56.jpg
 featured-image-caption: Komodo Sailing by Eyes of a Nomad
 intro-text_html: >-
-  <p>We were invited by the team at La Lunia&nbsp; to capture photography of
-  their liveaboard cruise through Komodo.&nbsp;</p><p>Our brief included
-  photography and videography for all aspects of the experience from the boat
-  itself and the food, to lifestyle images of our group, to drone photography of
-  the surrounding areas.&nbsp;</p>
+  <p>We were invited by the team at La Lunia to capture content of their
+  liveaboard cruise through Komodo.&nbsp;</p><p>Our brief included photography
+  and videography for all aspects of the experience from the boat itself &amp;
+  the food, to lifestyle images of our group, to drone photography of the
+  surrounding areas.&nbsp;</p>
 categories:
   - venue
   - lifestyle
