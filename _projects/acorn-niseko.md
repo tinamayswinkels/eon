@@ -19,8 +19,8 @@ campaign:
   campaign-text_html: >-
     <p>To capture the Acorn dining experience we attended as guests, shooting
     the experience as it was served. This meant ensuring that in the process of
-    of the photoshoot we were never disruptive to other paying diners, and that
-    we used exclusively natural light with no artificial flash or
+    the photoshoot we were never disruptive to other paying diners, and that we
+    used exclusively natural light with no artificial flash or
     lighting.&nbsp;<br /><br />We wanted to tell a story, showcasing the
     ambiance of the experience not just the food itself.&nbsp;</p>
   team-heading-1:
