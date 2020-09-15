@@ -7,12 +7,10 @@ vertical-heading: true
 featured_image: /images/ulu-cliffhouse/eon-cliffhouse-38.jpg
 featured-image-caption: Shot by Eyes of a Nomad
 intro-text_html: >-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Ulu Cliffhouse &amp; Clubhouse is a pool bar/boutique accommodation perched
+  on the Uluwatu cliffs overlooking the ocean. With its modern take on 1920s
+  inspired design, the both the accomadation and the bar is a stunning venue to
+  photograph.&nbsp;</p>
 categories:
   - venue
   - featured
@@ -20,19 +18,16 @@ campaign:
   show-campaign-details: true
   campaign-title: '& Clubhouse'
   campaign-text_html: >-
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-    non proident, sunt in culpa qui officia deserunt mollit anim id est
-    laborum.</p>
-  team-heading-1: Model
-  team-text-1_html: 'This was the name of the model, and a little bit of a blurb about her.'
-  team-heading-2: HMUA
-  team-text-2_html: 'This was the name of the hmua, and a little bit of a blurb about her.'
-  team-heading-3: Stylist
-  team-text-3_html: 'This was the name of the stylist, and a little bit of a blurb about her.'
+    <p>We were hired to shoot one of their premier suites, highlighting the
+    little deatils such as the welcome drink &amp; the mini bar. We also shot a
+    short promotional walkthrough video, providing a visual snapshot of the
+    space for socials and ads.</p>
+  team-heading-1:
+  team-text-1_html:
+  team-heading-2:
+  team-text-2_html:
+  team-heading-3:
+  team-text-3_html:
   campaign_image: /images/ulu-cliffhouse/eon-cliffhouse-8.jpg
 gallery-images:
   - image_path: /images/ulu-cliffhouse/eon-cliffhouse-9.jpg
@@ -108,3 +103,4 @@ gallery-text_html:
 _comments:
   layout: Don't touch this
 ---
+
