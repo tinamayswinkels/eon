@@ -58,7 +58,7 @@ page_blocks:
       of studio photography - from still posed shots to editorial-style
       ecommerce that can show off the personality of the brand and the movement
       and texture of the pieces.&nbsp;</p><p>We have various backdrops and our
-      lighting set up can handle everything from hash shadows to soft even
+      lighting set up can handle everything from hash shadows to soft, even
       light.&nbsp;</p><p>&nbsp;</p>
     gallery-images:
       - image_path: /images/uma-2020/eon-uma2020-22.jpg
