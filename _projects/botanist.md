@@ -5,7 +5,7 @@ title: The Botanist
 subtitle: Floral Collection
 vertical-heading: true
 featured_image: /images/botanist/eon-botanist-1.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured-image-caption: Shot by Eyes of a Nomad
 intro-text_html: >-
   <p>Sophisticated board shorts that are as individual as you are. Botanist
   Collection will have you ready to lay by the pool in an Italian resort or
@@ -38,7 +38,9 @@ campaign:
     creative direction by <a target="_blank" rel="noopener noreferrer"
     href="https://instagram.com/kelapacreative">Kelapa Creative</a>.&nbsp;</p>
   team-heading-3: Location
-  team-text-3_html: '<p>For this shoot we had mapped out various locations in Uluwatu, Bali</p>'
+  team-text-3_html: >-
+    <p>For this shoot we headed down to beautiful Uluwatu, Bali to chase that
+    blue water and pristine white sands.&nbsp;</p>
   campaign_image: /images/botanist/eon-botanist-2.jpg
 gallery-images:
   - image_path: /images/botanist/eon-botanist-3.jpg
