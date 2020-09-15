@@ -25,7 +25,7 @@ campaign:
     <p><em>"Ancient Egypt. Same sands. A different time. Another
     world."</em></p><p>For this project we sat down with the founder &amp;
     designer Alex to understand her inspirations for the collection, what it
-    meant to her, what story she wanted to tell. From there we came u with a
+    meant to her, what story she wanted to tell. From there we came up with a
     mood board and creative direction both for the shoot itself and her
     instagram aesthetic that would accompany the launch.&nbsp;</p>
   team-heading-1: Brief
