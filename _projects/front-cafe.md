@@ -7,9 +7,9 @@ vertical-heading: true
 featured_image: /images/front-cafe/eon-front-11.jpg
 featured-image-caption: Social media photoshoot by Eyes of a Nomad
 intro-text_html: >-
-  <p>Front Cafe is a locally owned hidden gem in the heart of Pererenan (the coo
-  big sister of Canggu) serving up delicious food and a cosy
-  environment.&nbsp;</p><p>As this shoot was right at the beginning of their
+  <p>Front Cafe is a hidden gem in the heart of Pererenan (the cool sibling of
+  Canggu) serving up delicious food, in a beautful space - a true local
+  favorite.&nbsp;</p><p>As this shoot was right at the beginning of their
   opening, we had an opportunity to provide creative direction and a strong
   visual aesthetic for their social media moving forward.&nbsp;</p>
 categories:
