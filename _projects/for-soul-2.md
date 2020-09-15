@@ -36,9 +36,9 @@ campaign:
   team-text-2_html: >-
     <p>For this shoot our model was <a target="_blank" rel="noopener noreferrer"
     href="https://instagram.com/itsleticiasoares?igshid=hur4ed1533k8">Leticia</a>,
-    with HMUA by<a target="_blank" rel="noopener noreferrer"
-    href="https://instagram.com/natthrives?igshid=1hf1gmk1yty82"> Natalie</a>
-    and creative direction by <a target="_blank" rel="noopener noreferrer"
+    with HMUA by&nbsp;<a target="_blank" rel="noopener noreferrer"
+    href="https://instagram.com/natthrives?igshid=1hf1gmk1yty82">Natalie</a> and
+    creative direction by <a target="_blank" rel="noopener noreferrer"
     href="https://instagram.com/kelapacreative">Kelapa Creative</a>.&nbsp;</p>
   team-heading-3: Location
   team-text-3_html: >-
