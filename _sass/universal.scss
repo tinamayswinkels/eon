@@ -439,6 +439,23 @@
     line-height: 1;
   }
 
+  // Editor Links
+
+.editor-link {
+  display: none;
+  position: absolute;
+  right: 1rem;
+  margin-top: 1rem;
+  color: red;
+  padding: 0.2rem 1rem;
+  border: 1px solid;
+  border-radius: 50px;
+}
+
+.cms-editor-active .editor-link {
+  display: block;
+}
+
 
 @media(max-width:900px) {
     .home-banner .logo {
