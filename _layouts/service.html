@@ -4,11 +4,11 @@ page_blocks:
 ---
 
 <section class="grid intro-banner">
-  <div class="col-6_sm-2 padded">
-      <h1 class="big-bold padded-t-2"> {{page.title}} </h1>
+  <div class="col-6_sm-4-middle padded">
+      <h1 class="big-bold padded-t-2 vertical-service-heading"> {{page.title}} </h1>
       <h2> {{page.subtitle}} </h2>
   </div>
-  <div class="col-6_sm-10 bg-image tall-100" style="background-image:url('{{page.featured_image}}');">
+  <div class="col-6_sm-8 bg-image tall-100" style="background-image:url('{{page.featured_image}}');">
   </div>
 </section>
 
@@ -49,4 +49,23 @@ page_blocks:
     position: relative;
     margin-top: 10vh;
   }
+
+@media(max-width:768px) {
+
+  /* Vertical text on services pages */
+  .big-bold.vertical-service-heading {
+    transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+    font-size: 6vh;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: 0;
+    padding: 0;
+  }
+  .tall-100 {
+    min-height: 70vh;
+  }
+
+}
+
 </style>

@@ -127,20 +127,27 @@ header-class: on-top
 
   @media(min-width:768px) {
     .vertical-form-text {
-      transform: rotate(270deg);
-      font-size: 8vh;
-      min-width: 60vh;
-      transform-origin: top left 0;
-      display: inline-block;
+      transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+      font-size: 3.5rem;
       position: absolute;
-      left: 0;
-      top: 45vh;
+      white-space: nowrap;
+      top: 50%;
+      left: 50%;
     }
   }
 
   @media(max-width:768px) {
     .vertical-text {
       right: 1rem;
+    }
+    .input-text {
+      font-size: 1.1rem;
+    }
+    .padded-v-tall {
+      padding: 5rem 0;
+    }
+    .contact p {
+      font-size: 1rem;
     }
   }
 

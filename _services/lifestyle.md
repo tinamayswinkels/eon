@@ -4,10 +4,7 @@ title: Lifestyle Photography
 category: lifestyle
 featured_image: /images/placeholder-2.jpg
 intro-text_html: >-
-  <p>Lifestyle photography can be the missing edge that brings your website,
-  social media and digital marketing to life.&nbsp;</p><p>Rather than disrupting
-  your paying customers we organise talent that's more affordable than
-  professional models but has experience on camera.&nbsp;</p>
+  <p>Lifestyle photography can be the missing edge that brings your website, social media and digital marketing to life. Showcasing the human element can transform the image, helping future guests see themselves in your hotel, bar or restaurant. </p><p>We also offer talent management, so rather than disrupting your paying customers we can organise talent that's more affordable than professional models but has experience on camera to really make your images stand out.</p>
 page_blocks:
   - _id: gallery
     block-classes:
@@ -44,9 +41,9 @@ page_blocks:
     heading_html: >-
       <h2>Lifestyle Photography for Villa &amp; Hotels</h2><p>What converts
       customers better than a photo of your empty room? High quality lifestyle
-      imagery conjuring an image of just how good your guests will feel when
+      imagery conjures an image of just how good your guests will feel when
       they stay with you. We often work with hotels who have already captured
-      all their venue' photography but need that edge to stand out from the
+      all their venue photography but need that edge to stand out from the
       crowd.</p><p>&nbsp;</p>
     gallery-images:
       - image_path: /images/riverhouse/eon-riverhouse-12.jpg
@@ -79,12 +76,10 @@ page_blocks:
       - padded-tall
     heading_html: >-
       <h2>Event Photography</h2><p>For a more curated event photography
-      experience, where we focus on the quality of images not just the quantity.
+      experience, we focus on the quality of images not just the quantity.
       One of our most popular packages includes the coordination &amp;
       photography of influencer events -- where we ensure that not only do your
-      VIP guests have an amazing experience, but we provide them with high
-      imagery for your marketing and their own feeds that reflects your venue in
-      the best possible light.&nbsp;</p><p>&nbsp;</p>
+      VIP guests have an amazing experience, but we provide them with high quality imagery for your marketing and their own feeds that reflects your venue in the best possible light.&nbsp;</p><p>&nbsp;</p>
     gallery-images:
       - image_path: /images/sippy-event/eon-sippy-42.jpg
         aspect-ratio: portrait-tall
