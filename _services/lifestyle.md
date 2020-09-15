@@ -2,7 +2,7 @@
 layout: service
 title: Lifestyle Photography
 category: lifestyle
-featured_image: /images/placeholder-2.jpg
+featured_image: /images/riverhouse/EON-riverhouse-28.jpg
 intro-text_html: >-
   <p>Lifestyle photography can be the missing edge that brings your website, social media and digital marketing to life. Showcasing the human element can transform the image, helping future guests see themselves in your hotel, bar or restaurant. </p><p>We also offer talent management, so rather than disrupting your paying customers we can organise talent that's more affordable than professional models but has experience on camera to really make your images stand out.</p>
 page_blocks:
