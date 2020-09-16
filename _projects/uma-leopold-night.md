@@ -1,6 +1,6 @@
 ---
 layout: project
-hidden: false
+hidden: true
 title: Uma & Leopold
 subtitle: Champagne dreams
 vertical-heading: true
