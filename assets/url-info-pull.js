@@ -7,7 +7,7 @@
 
    if (initial != "" ) {
      if (initial.length < 10){
-       alret(initial);
+       // alret(initial);
         var elmnt = document.getElementById("portfolio");
         elmnt.scrollIntoView();
     $('.portfolio .portfolio-item').each(function() {
