@@ -9,6 +9,12 @@ $(document).ready(function() {
 	  $(".mobile-menu").fadeToggle();
 
 	});
+	$(".mobile-menu a").click(function(){
+
+	  $(".hamburger").toggleClass('active');
+	  $(".mobile-menu").fadeToggle();
+
+	});
 	// end hamburger menu
 
 
