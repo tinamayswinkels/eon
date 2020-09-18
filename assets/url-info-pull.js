@@ -6,8 +6,10 @@
   // alert(initial)
 
    if (initial != "" ) {
-    var elmnt = document.getElementById("portfolio");
-    elmnt.scrollIntoView();
+     if (initial.length < 10){
+       alret(initial);
+        var elmnt = document.getElementById("portfolio");
+        elmnt.scrollIntoView();
     $('.portfolio .portfolio-item').each(function() {
           if(initial == 'all'){
             $(this).removeClass('hidden');
@@ -20,6 +22,7 @@
           };
       });
     };
+  };
 
 
   $('nav#portfolio-filter a').click(function(e){
