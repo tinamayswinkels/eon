@@ -1,7 +1,9 @@
 // filterable gallery
 
   // Daniel's new code
-  var initial = location.search.replace("?","");
+  var rawInitial = location.search.replace("?","");
+  var initialSet = rawInitial.split("&");
+  var initial = initialSet[0]
 
   // alert(initial)
 
