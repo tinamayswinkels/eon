@@ -1,5 +1,3 @@
-<script>
-
 // filterable gallery
 
   // Daniel's new code
@@ -8,7 +6,7 @@
   // alert(initial)
 
    if (initial != "" ) {
-    var elmnt = document.getElementById("content");
+    var elmnt = document.getElementById("portfolio");
     elmnt.scrollIntoView();
     $('.portfolio .portfolio-item').each(function() {
           if(initial == 'all'){
@@ -47,6 +45,3 @@
         });
 
 });
-
-
-</script>
