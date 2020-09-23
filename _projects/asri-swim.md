@@ -116,18 +116,18 @@ gallery-images:
     alt: This is the alt text
     size: full-width
     aspect-ratio:
-  - image_path: /images/asri-swim/eon-asri-41.jpg
+  - image_path: /images/asri-swim/eon-asri-cut-1.png
     alt: This is the alt text
     size: one-third
-    aspect-ratio:
-  - image_path: /images/asri-swim/eon-asri-42.jpg
+    aspect-ratio: portrait-tall
+  - image_path: /images/asri-swim/eon-asri-cut-3.png
     alt: This is the alt text
     size: one-third
-    aspect-ratio:
-  - image_path: /images/asri-swim/eon-asri-43.jpg
+    aspect-ratio: portrait-tall
+  - image_path: /images/asri-swim/eon-asri-cut-2.png
     alt: This is the alt text
     size: one-third
-    aspect-ratio:
+    aspect-ratio: portrait-tall
 gallery-text_html:
 _comments:
   layout: Don't touch this
