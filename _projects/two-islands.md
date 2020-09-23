@@ -17,7 +17,7 @@ categories:
   - lifestyle
   - product
 campaign:
-  show-campaign-details: true
+  show-campaign-details: false
   campaign-title: Have a little sip
   campaign-text_html: >-
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -28,11 +28,15 @@ campaign:
     non proident, sunt in culpa qui officia deserunt mollit anim id est
     laborum.</p>
   team-heading-1: Model
-  team-text-1_html: 'This was the name of the model, and a little bit of a blurb about her.'
+  team-text-1_html: >-
+    <p>This was the name of the model, and a little bit of a blurb about
+    her.</p>
   team-heading-2: HMUA
-  team-text-2_html: 'This was the name of the hmua, and a little bit of a blurb about her.'
+  team-text-2_html: '<p>This was the name of the hmua, and a little bit of a blurb about her.</p>'
   team-heading-3: Stylist
-  team-text-3_html: 'This was the name of the stylist, and a little bit of a blurb about her.'
+  team-text-3_html: >-
+    <p>This was the name of the stylist, and a little bit of a blurb about
+    her.</p>
   campaign_image: /images/two-islands/eon-twoislands-6.jpg
 gallery-images:
   - image_path: /images/two-islands/eon-twoislands-39.jpg
