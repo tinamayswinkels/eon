@@ -17,6 +17,8 @@ featured_image: /images/uma-2020/eon-uma2020-30.jpg
     <div class="grid mob-horizontal-scroll"  id="portfolio">
 
       {% for project in site.projects reversed %}
+      
+          {% unless project.hidden == true %}
       <a class="col-4_sm-6_xs-10 padded-1 portfolio-item
       {% for category in project.categories %} {{category | downcase}} {% endfor %}
       {% unless project.categories contains "featured" %} hidden {% endunless %}"
@@ -25,6 +27,8 @@ featured_image: /images/uma-2020/eon-uma2020-30.jpg
         <h2>{{project.title}}</h2>
         <p> {{project.subtitle}}</p>
       </a>
+      
+        {% endunless %}
       {% endfor %}
     </div>
   </div>
