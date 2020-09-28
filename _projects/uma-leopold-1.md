@@ -1,7 +1,7 @@
 ---
 layout: project
 hidden: true
-title: Uma & Leopold
+title: Uma & Leopold Night
 subtitle: 2020 Night Campaign
 vertical-heading: true
 featured_image: /images/placeholder-2.jpg
@@ -63,3 +63,4 @@ gallery-text_html:
 _comments:
   layout: Don't touch this
 ---
+
