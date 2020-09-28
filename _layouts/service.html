@@ -34,10 +34,15 @@ page_blocks:
 
       {% assign page-category = page.category %}
       {% assign relevant-projects = site.projects | where_exp:"project", "project.categories contains page-category" %}
+      
 
       {% for project in relevant-projects reversed %}
+      
+      {% unless project.hidden == true %}
 
         {% include project-loop-item-small.html %}
+        
+      {% endunless %}
 
       {% endfor %}
 
