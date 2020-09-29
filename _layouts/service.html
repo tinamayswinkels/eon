@@ -4,7 +4,7 @@ page_blocks:
 ---
 
 <section class="grid intro-banner">
-  <div class="col-6_sm-4-middle padded">
+  <div class="col-6_sm-4-middle padded relative">
       <h1 class="big-bold padded-t-2 vertical-service-heading"> {{page.title}} </h1>
       <h2> {{page.subtitle}} </h2>
   </div>
@@ -34,14 +34,14 @@ page_blocks:
 
       {% assign page-category = page.category %}
       {% assign relevant-projects = site.projects | where_exp:"project", "project.categories contains page-category" %}
-      
+
 
       {% for project in relevant-projects reversed %}
-      
+
       {% unless project.hidden == true %}
 
         {% include project-loop-item-small.html %}
-        
+
       {% endunless %}
 
       {% endfor %}
