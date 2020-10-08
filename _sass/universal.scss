@@ -41,6 +41,13 @@
     background-position: center;
     background-color: #F2EEE9;
     background-repeat: no-repeat;
+    opacity: 1;
+    transition: opacity 1s;
+  }
+
+  .bg-image.lazy {
+    background-image: none!important;
+    opacity: 0;
   }
 
   a.bg-image {
