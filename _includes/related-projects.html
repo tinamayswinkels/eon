@@ -11,14 +11,14 @@
   {% assign related-projects = relevant-projects | where_exp:"project","project.url != page.url" %}
 
   {% for project in related-projects limit:4 %}
-  
+
     {%  unless project.hidden == true %}
 
       <a href="{{project.url}}" class="col-3_xs-10 padded-1 centered">
-        <div class="bg-image square" style="background-image:url({{project.featured_image}})"> </div>
+        <div class="bg-image square lazy" style="background-image:url({{project.featured_image}})"> </div>
         <h3 class="margin-top-1"> {{project.title}} </h3>
       </a>
-      
+
     {% endunless %}
 
 
