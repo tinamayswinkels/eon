@@ -2,13 +2,12 @@
 layout: default
 ---
 
-<section class="banner fixed padded-5vw grid centered" style="background-image:url({{page.banner-1_path}});">
 
-  <div class="overlay"></div>
+{% include social-share.html %}
 
-  <div class="col-12-bottom banner-inner">
+<section class="padded centered">
 
-    {% for category in page.categories limit:1%}
+    {% for category in page.categories limit:3%}
       <a href="/{{category | slugify }}" class="category"> {{category}} </a>
     {% endfor %}
 
@@ -16,83 +15,11 @@ layout: default
 
     <p class="post-date"> by {{page.author}} on {{page.date | date: "%m.%d.%Y" }}</p>
 
+    {{page.content}}
 
-  <a href="#post-content" class="down-arrow margin-top-2 mob-hide">
-  <img style="padding: 1rem; max-height: 6rem;" src="https://wovenmagazine.com/content/themes/woven/assets/images/arrow-scroll.png">
-  </a>
-
-</div>
 </section>
 
-<!-- this automatically outputs each category tag -->
-<!-- <p>
-  {% for category in page.categories %}
-    <a href="/archives/{{category | slugify }}" class="category"> {{category}} </a>
-  {% endfor %}
-</p>  -->
-<!-- end categories -->
 
-{% include social-share.html %}
-
-
-<!-- this is your post layout, each of your individual blog post pages will use this layout. -->
-<section id="post-content" class="post-content grid padded mob-flex-flip capped-width">
-
-  <div class="col-6_sm-12 padded-1">
-      <img src="{{page.image-1_path}}">
-      <img src="{{page.image-2_path}}">
-  </div>
-  <div class="col-6_sm-12 padded-1">
-      <p class="emphasis"> {{page.intro-paragraph-emphasis}}</p>
-
-      <img class="margin-top-1 margin-bottom-1" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
-
-      {{page.intro-content_html}}
-  </div>
-</section>
-
-{% for section in page.sections %}
-
-  {% unless section.banner_path == nil %}
-
-  <section class="banner fixed grid-right right" style="background-image:url({{section.banner_path}});">
-
-    <div class="col-4_sm-6_xs-12-bottom padded-2">
-        <p class="margin-0"> <span class="highlighted-text">{{section.banner-caption}}</span></p>
-    <div>
-
-  </section>
-
-{% endunless %}
-
-<section class="light-bg">
-  <div class="grid-center padded capped-width blog-content">
-    <div class="col-4_sm-10 centered">
-
-        <img class="margin-top-1 margin-bottom-1" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
-
-        <p class="emphasis"> {{section.main-paragraph-emphasis}}</p>
-
-        <img class="margin-top-1 margin-bottom-1" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
-    </div>
-    <div class="col-12 {% if section.columns == true %} columns {% endif %} padded-1">
-        {{section.body-content_html}}
-    </div>
-  </div>
-</section>
-
+{% for block in page.page_blocks %}
+      {% include blocks/{{block._id}}.html block=block %}
 {% endfor %}
-
-{% if page.gallery == true %}
-
-<section class="gallery padded capped-width centered blog-content">
-  <p>
-    <img class="margin-top-1 margin-bottom-2" src="https://wovenmagazine.com/content/themes/woven/assets/images/zigzag-black.png" style="max-width: 2rem;">
-  </p>
-  {% for item in page.gallery %}
-  <img src="{{item.image_path}}" class="{{item.size}}">
-  {% endfor %}
-  <p class="subtitle margin-top-1"> {{page.gallery-text}}</p>
-</section>
-
-{% endif %}
