@@ -57,7 +57,7 @@ page_blocks:
 
   {% for item in page.gallery-images %}
   <a class="col-{{item.size}} padded-05" href="{{item.image_path}}" data-fancybox="gallery">
-    <div style="background-image:url('{{item.image_path}}')" class="bg-image {{item.size}} {{item.aspect-ratio}}"></div>
+    <div style="background-image:url('{{item.image_path}}')" class="bg-image {{item.size}} {{item.aspect-ratio}}lazy"></div>
   </a>
   {% endfor %}
 
