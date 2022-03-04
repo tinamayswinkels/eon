@@ -16,9 +16,7 @@ page_blocks:
       - image_path: /uploads/portfolio--22.jpg
       - image_path: /uploads/portfolio--23.jpg
       - image_path: /uploads/portfolio--26.jpg
-      - image_path: /uploads/portfolio--27.jpg
       - image_path: /uploads/portfolio--28.jpg
-      - image_path: /uploads/portfolio--30.jpg
       - image_path: /uploads/portfolio--33.jpg
       - image_path: /uploads/portfolio--34.jpg
       - image_path: /uploads/portfolio--35.jpg
@@ -64,7 +62,7 @@ page_blocks:
     block-classes:
       - padded-5p
     heading_html: >-
-      <h2>Studio &amp; Studio Photography</h2><p>We can offer various styles
+      <h2>Studio Photography</h2><p>We can offer various styles
       of studio photography - from still posed shots to editorial-style
       ecommerce that can show off the personality of the brand and the movement
       and texture of the pieces.&nbsp;</p><p>We have various backdrops and our
