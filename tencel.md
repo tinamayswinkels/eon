@@ -6,6 +6,24 @@ featured_image: /images/placeholder-2.jpg
 intro-text_html: >-
   <p>We're excited to create content for you that really captures the Tencel brand in epic, everyday environments. For the past 6 years we've been running a full-service creative agency, working on local and international projects that included full creative direction, planning and shoot coordination. Our specialty is helping brands to tell a story through their content, to capture the heart and essence of a brands key elements - what makes them special - and translate that into the visual image. </p>
 page_blocks:
+  - _id: slider
+    block-classes: light-bg
+    heading_html: <h3 class="align-to-center">Related Projects</h3>
+    slider-column-size: col-8_sm-12
+    aspect-ratio: portrait
+    slider-images:
+      - image_path: /uploads/portfolio--32.jpg
+      - image_path: /uploads/portfolio--22.jpg
+      - image_path: /uploads/portfolio--23.jpg
+      - image_path: /uploads/portfolio--26.jpg
+      - image_path: /uploads/portfolio--27.jpg
+      - image_path: /uploads/portfolio--28.jpg
+      - image_path: /uploads/portfolio--30.jpg
+      - image_path: /uploads/portfolio--33.jpg
+      - image_path: /uploads/portfolio--34.jpg
+      - image_path: /uploads/portfolio--35.jpg
+    text-column-size:
+    text_html:
   - _id: gallery
     block-classes:
       - padded-5p
@@ -63,23 +81,6 @@ page_blocks:
         aspect-ratio: portrait-tall
         size: one-third
     gallery-text_html:
-  - _id: slider
-    block-classes:
-    heading_html: <h3 class="align-to-center">Related Projects</h3>
-    slider-column-size: col-8_sm-12
-    aspect-ratio: portrait
-    slider-images:
-      - image_path: /uploads/portfolio--32.jpg
-      - image_path: /uploads/portfolio--22.jpg
-      - image_path: /uploads/portfolio--23.jpg
-      - image_path: /uploads/portfolio--26.jpg
-      - image_path: /uploads/portfolio--27.jpg
-      - image_path: /uploads/portfolio--28.jpg
-      - image_path: /uploads/portfolio--30.jpg
-      - image_path: /uploads/portfolio--33.jpg
-      - image_path: /uploads/portfolio--34.jpg
-      - image_path: /uploads/portfolio--35.jpg
-    text-column-size:
-    text_html:
+
 ---
 
