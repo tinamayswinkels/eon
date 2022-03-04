@@ -110,6 +110,7 @@ page_blocks:
       of instagram grid's we've created for clients.</p>
   - _id: slider
     block-classes:
+      - light-bg
     heading_html: <h3 class="align-to-center">Related Projects</h3>
     slider-column-size: col-8_sm-12
     aspect-ratio: portrait
