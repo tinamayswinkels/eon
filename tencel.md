@@ -1,14 +1,10 @@
 ---
 layout: service
-title: Tencel Brief
+title: Tencel Portfolio
 category: fashion
 featured_image: /images/placeholder-2.jpg
 intro-text_html: >-
-  <p>Looking for a fashion photographer in Bali, or a remote team to run a
-  destination campaign in this stunning tropical island? Fashion &amp; lifestyle
-  photography is our speciality and we would love to help bring your vision to
-  life and create meaningful content that will get results for your
-  brand.&nbsp;</p>
+  <p>We're excited to create content for you that really captures the Tencel brand in epic, everyday environments. For the past 6 years we've been running a full-service creative agency, working on local and international projects that included full creative direction, planning and shoot coordination. Our specialty is helping brands to tell a story through their content, to capture the heart and essence of a brands key elements - what makes them special - and translate that into the visual image. </p>
 page_blocks:
   - _id: gallery
     block-classes:
@@ -16,12 +12,7 @@ page_blocks:
     heading_html: >-
       <h2 id="photography--videography-for-cafes-in-bali"
       class="align-to-center">Editorial &amp; Lifestyle Photography</h2><p
-      class="align-to-center">We have packages to suit all needs and budgets.
-      One-off or monthly lifestyle shoots are perfect for filling your social
-      media with beautiful content that tells a story, and drives customers to
-      purchase. We can also put together bigger creative editorial campaigns,
-      helping with model selection and castings, location scouting, creation of
-      moodboards etc.</p><p class="align-to-center">&nbsp;</p>
+      class="align-to-center"></p><p class="align-to-center">&nbsp;</p>
     gallery-images:
       - image_path: /images/uma-night/eon-uma-night-49.jpg
         aspect-ratio: landscape
@@ -55,7 +46,7 @@ page_blocks:
     block-classes:
       - padded-5p
     heading_html: >-
-      <h2>Studio &amp; Ecommerce Photography</h2><p>We can offer various styles
+      <h2>Studio &amp; Studio Photography</h2><p>We can offer various styles
       of studio photography - from still posed shots to editorial-style
       ecommerce that can show off the personality of the brand and the movement
       and texture of the pieces.&nbsp;</p><p>We have various backdrops and our
@@ -72,42 +63,6 @@ page_blocks:
         aspect-ratio: portrait-tall
         size: one-third
     gallery-text_html:
-  - _id: gallery
-    block-classes:
-      - padded-tall
-    heading_html: >-
-      <h2>Cut-out &amp; Manequin Photography</h2><p>When you want the product to
-      be the sole focus we can provide studio photography using a model or ghost
-      manequin, delivered to you with a solid color background of your choice or
-      transparent, cut-out background.&nbsp;</p><p>&nbsp;</p>
-    gallery-images:
-      - image_path: /images/asri-swim/eon-asri-cut-2.png
-        aspect-ratio: portrait
-        size: one-third
-      - image_path: /images/asri-swim/eon-asri-cut-3.png
-        aspect-ratio: portrait
-        size: one-third
-      - image_path: /images/asri-swim/eon-asri-cut-1.png
-        aspect-ratio: portrait
-        size: one-third
-    gallery-text_html:
-  - _id: slider
-    block-classes:
-      - light-bg
-      - padded-5p
-    heading_html:
-    slider-column-size: col-6_sm-12
-    aspect-ratio: portrait-tall
-    slider-images:
-      - image_path: /images/insta-mock/fashion-mock/asri-mock.png
-      - image_path: /images/insta-mock/fashion-mock/forsoul-mock.png
-      - image_path: /images/insta-mock/fashion-mock/liq-mock.png
-    text-column-size: col-6_sm-12-middle
-    text_html: >-
-      <h2>Marketing &amp; Social Media Management</h2><p>In addition to
-      photography through our creative agency Kelapa Creative we also offer
-      marketing strategy &amp; social media management. Here are a few examples
-      of instagram grid's we've created for clients.</p>
   - _id: slider
     block-classes:
     heading_html: <h3 class="align-to-center">Related Projects</h3>
