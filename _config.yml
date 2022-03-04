@@ -32,6 +32,7 @@ column-sizes:
   - col-2_sm-12
   - col-3_sm-12
   - col-4_sm-12
+  - col-8_sm-12
 
 block-classes:
   - light-bg
