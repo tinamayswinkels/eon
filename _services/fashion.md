@@ -5,9 +5,10 @@ category: fashion
 featured_image: /images/placeholder-2.jpg
 intro-text_html: >-
   <p>Looking for a fashion photographer in Bali, or a remote team to run a
-  destination campaign in this stunning tropical island? Fashion photography is
-  our speciality and we would love to help bring your vision to life and create
-  meaningful content that will get results for your brand.&nbsp;</p>
+  destination campaign in this stunning tropical island? Fashion &amp; lifestyle
+  photography is our speciality and we would love to help bring your vision to
+  life and create meaningful content that will get results for your
+  brand.&nbsp;</p>
 page_blocks:
   - _id: gallery
     block-classes:
@@ -107,5 +108,23 @@ page_blocks:
       photography through our creative agency Kelapa Creative we also offer
       marketing strategy &amp; social media management. Here are a few examples
       of instagram grid's we've created for clients.</p>
+  - _id: slider
+    block-classes:
+    heading_html: <p>Related Projects</p>
+    slider-column-size:
+    aspect-ratio: portrait
+    slider-images:
+      - image_path: /uploads/portfolio--32.jpg
+      - image_path: /uploads/portfolio--22.jpg
+      - image_path: /uploads/portfolio--23.jpg
+      - image_path: /uploads/portfolio--26.jpg
+      - image_path: /uploads/portfolio--27.jpg
+      - image_path: /uploads/portfolio--28.jpg
+      - image_path: /uploads/portfolio--30.jpg
+      - image_path: /uploads/portfolio--33.jpg
+      - image_path: /uploads/portfolio--34.jpg
+      - image_path: /uploads/portfolio--35.jpg
+    text-column-size:
+    text_html:
 ---
 
