@@ -9,6 +9,25 @@ intro-text_html: >-
   our speciality and we would love to help bring your vision to life and create
   meaningful content that will get results for your brand.&nbsp;</p>
 page_blocks:
+  - _id: slider
+    block-classes:
+      - light-bg
+    heading_html: <h3 class="align-to-center">Related Projects</h3>
+    slider-column-size: col-8_sm-12
+    aspect-ratio: portrait
+    slider-images:
+      - image_path: /uploads/portfolio--32.jpg
+      - image_path: /uploads/portfolio--22.jpg
+      - image_path: /uploads/portfolio--23.jpg
+      - image_path: /uploads/portfolio--26.jpg
+      - image_path: /uploads/portfolio--27.jpg
+      - image_path: /uploads/portfolio--28.jpg
+      - image_path: /uploads/portfolio--30.jpg
+      - image_path: /uploads/portfolio--33.jpg
+      - image_path: /uploads/portfolio--34.jpg
+      - image_path: /uploads/portfolio--35.jpg
+    text-column-size:
+    text_html:
   - _id: gallery
     block-classes:
       - padded-5p
