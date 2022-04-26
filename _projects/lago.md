@@ -34,15 +34,25 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/Portfolio – 2.jpg
-    alt: This is the alt text
-    size: two-thirds
-  - image_path: /images/Portfolio – 3.jpg
+  - image_path: /images/lago/eon-lago-3.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/lago/eon-lago-6.jpg
     alt: This is the alt text
     size: one-third
     aspect-ratio: portait
+  - image_path: /images/lago/eon-lago-8.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/lago/eon-lago-4.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path: /images/lago/eon-lago-10.jpg
+    aspect-ratio: portrait
+    size: one-third
 gallery-text_html:
 layout: project
 _comments:
   layout: Don't touch this
 ---
+
