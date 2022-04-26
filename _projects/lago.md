@@ -50,6 +50,27 @@ gallery-images:
   - image_path: /images/lago/eon-lago-10.jpg
     aspect-ratio: portrait
     size: one-third
+  - image_path: /images/lago/eon-lago-12.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/lago/eon-lago-1.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/lago/eon-lago-2.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/lago/eon-lago-11.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/lago/eon-lago-7.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path: /images/lago/eon-lago-5.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path: /images/lago/eon-lago-9.jpg
+    aspect-ratio: portrait
+    size: one-third
 gallery-text_html:
 layout: project
 _comments:
