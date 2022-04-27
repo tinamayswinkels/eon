@@ -44,7 +44,7 @@ gallery-images:
   - image_path: /images/feather-noise/eon-feather-21.jpg
     aspect-ratio: portrait
     size: two-thirds
-  - image_path: /images/feather-noise/eon-feather-5.jpg
+  - image_path: /images/feather-noise/EON-COPYRIGHT-43477.jpg
     aspect-ratio: portrait
     size: one-third
   - image_path: /images/feather-noise/eon-feather-10.jpg
