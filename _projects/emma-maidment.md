@@ -1,6 +1,6 @@
 ---
 hidden: false
-title: Emma Maidment
+title: Yoga With Em
 subtitle: 2020 Beach Retreat Campaign
 vertical-heading: false
 featured_image: /images/placeholder-2.jpg
