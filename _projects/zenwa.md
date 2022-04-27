@@ -44,6 +44,9 @@ gallery-images:
   - image_path: /images/zenwa/eon-zenwa-20.jpg
     aspect-ratio: portrait
     size: one-third
+  - image_path: /images/zenwa/EONCOPYRIGHT-5DF_6278-Edit.jpg
+    aspect-ratio: landscape
+    size: two-thirds
   - image_path: /images/zenwa/eon-zenwa-2.jpg
     aspect-ratio: portrait
     size: one-third
