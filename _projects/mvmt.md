@@ -70,10 +70,10 @@ gallery-images:
     size: one-third
   - image_path: /images/mvmt/FULLRES-EONCOPYRIGHT-5DE_0979.jpg
     aspect-ratio: portrait
-    size: one-third
+    size: one-half
   - image_path: /images/mvmt/FULLRES-EONCOPYRIGHT-5DE_1484.jpg
     aspect-ratio: portrait
-    size: one-third
+    size: one-half
 gallery-text_html:
 layout: project
 _comments:
