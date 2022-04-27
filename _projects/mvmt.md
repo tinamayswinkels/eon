@@ -51,13 +51,13 @@ gallery-images:
     aspect-ratio: portrait
     size: one-third
   - image_path: /images/mvmt/FULLRES-EONCOPYRIGHT-5DE_1037.jpg
-    aspect-ratio: portrait-tall
-    size: one-third
+    aspect-ratio: landscape
+    size: full-width
   - image_path: /images/mvmt/FULLRES-EONCOPYRIGHT-5DE_0802.jpg
-    aspect-ratio: portrait-tall
+    aspect-ratio: portrait
     size: one-third
   - image_path: /images/mvmt/FULLRES-EONCOPYRIGHT-5DE_9913-2.jpg
-    aspect-ratio: portrait-tall
+    aspect-ratio: portrait
     size: one-third
   - image_path: /images/mvmt/FULLRES-EONCOPYRIGHT-5DE_1521.jpg
     aspect-ratio: portrait
