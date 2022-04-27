@@ -34,8 +34,8 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/em-yoga/eon-emyoga-small-1.jpg
-    alt: This is the alt text
+  - image_path: /images/em-yoga/EON-em-yoga-1.jpg
+    aspect-ratio: portrait
     size: one-third
   - image_path: /images/em-yoga/EON-em-yoga-12.jpg
     alt: This is the alt text
