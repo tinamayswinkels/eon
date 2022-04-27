@@ -83,6 +83,36 @@ gallery-images:
   - image_path: /images/kabron/EONCopyright-5DF_7277.jpg
     aspect-ratio: portrait
     size: one-third
+  - image_path: /images/kabron/EONCopyright-5DF_7196.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/kabron/EONCopyright-5DF_7130.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path: /images/kabron/EONCOPYRIGHT-5DF_0348.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/kabron/EONCOPYRIGHT-5DF_0225.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/kabron/EONCLIENT-5DF_6460.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/kabron/EONCopyright-5DF_6235-Edit.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path: /images/kabron/EONCopyright-5DF_6296.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/kabron/EONCOPYRIGHT-5DF_0453-Edit.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/kabron/EONCopyright-5DF_7393-Edit.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/kabron/EONCOPYRIGHT-5DF_0426-Edit.jpg
+    aspect-ratio: portrait
+    size: one-third
 gallery-text_html:
 layout: project
 _comments:
