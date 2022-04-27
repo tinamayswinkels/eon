@@ -1,6 +1,6 @@
 ---
 hidden: false
-title: Mamaka Hotel
+title: El Kabron
 subtitle: 2020 Beach Retreat Campaign
 vertical-heading: false
 featured_image: /images/placeholder-2.jpg
@@ -34,83 +34,83 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/mamaka/venue/eon-mamaka-venue-8.jpg
+  - image_path: /images/kabron/EONCLIENT-5DF_6415.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/mamaka/venue/eon-mamaka-venue-13.jpg
+  - image_path: /images/kabron/EONCLIENT-5DF_6744.jpg
     alt: This is the alt text
     size: one-third
     aspect-ratio: portait
-  - image_path: /images/mamaka/venue/eon-mamaka-venue-9.jpg
+  - image_path: /images/kabron/EONCLIENT-DJI_0572.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/mamaka/venue/eon-mamaka-venue-6.jpg
+  - image_path: /images/kabron/EONCLIENT-DJI_0561.jpg
     aspect-ratio: landscape
     size: two-thirds
-  - image_path: /images/mamaka/venue/eon-mamaka-venue-1.jpg
+  - image_path: /images/kabron/EONCLIENT-5DF_6709.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/mamaka/venue/eon-mamaka-venue-11.jpg
+  - image_path: /images/kabron/EONCLIENT-DJI_0575-2.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/mamaka/venue/eon-mamaka-venue-10.jpg
+  - image_path: /images/kabron/EONCOPYRIGHT-EONCOPYRIGHT-DJI_0076-photoshop.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/mamaka/venue/eon-mamaka-venue-12.jpg
+  - image_path: /images/kabron/EONCLIENT-5DF_6483.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/mamaka/venue/eon-mamaka-venue-3.jpg
+  - image_path: /images/kabron/EONCopyright-DJI_0799.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/kabron/EONCLIENT-5DF_6680.jpg
     aspect-ratio: landscape
     size: two-thirds
-  - image_path: /images/mamaka/venue/eon-mamaka-venue-4.jpg
+  - image_path: /images/kabron/EONCLIENT-5DF_6786.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/mamaka/venue/eon-mamaka-venue-2.jpg
+  - image_path: /images/kabron/EONCLIENT-5DF_7606.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/mamaka/venue/eon-mamaka-venue-7.jpg
+  - image_path: /images/kabron/EONCopyright-DJI_0791.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/mamaka/venue/eon-mamaka-venue-5.jpg
+  - image_path: /images/kabron/EONCopyright-5DF_7281.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-11.jpg
+  - image_path: /images/kabron/EONCOPYRIGHT-5DF_0531.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-2.jpg
+  - image_path: /images/kabron/EONCopyright-5DF_7277.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-13.jpg
+  - image_path: /images/kabron/EONCopyright-5DF_7196.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-5.jpg
+  - image_path: /images/kabron/EONCopyright-5DF_7130.jpg
     aspect-ratio: landscape
     size: two-thirds
-  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-1.jpg
+  - image_path: /images/kabron/EONCOPYRIGHT-5DF_0348.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-9.jpg
+  - image_path: /images/kabron/EONCOPYRIGHT-5DF_0225.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-8.jpg
+  - image_path: /images/kabron/EONCLIENT-5DF_6460.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-7.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-6.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-3.jpg
+  - image_path: /images/kabron/EONCopyright-5DF_6235-Edit.jpg
     aspect-ratio: landscape
     size: two-thirds
-  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-12.jpg
+  - image_path: /images/kabron/EONCopyright-5DF_6296.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-4.jpg
+  - image_path: /images/kabron/EONCOPYRIGHT-5DF_0453-Edit.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-10.jpg
+  - image_path: /images/kabron/EONCopyright-5DF_7393-Edit.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/kabron/EONCOPYRIGHT-5DF_0426-Edit.jpg
     aspect-ratio: portrait
     size: one-third
 gallery-text_html:
