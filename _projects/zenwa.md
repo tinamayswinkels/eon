@@ -34,15 +34,37 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/Portfolio – 2.jpg
+  - image_path: /images/zenwa/eon-zenwa-18.jpg
     alt: This is the alt text
-    size: two-thirds
-  - image_path: /images/Portfolio – 3.jpg
+    size: one-third
+  - image_path: /images/zenwa/eon-zenwa-1.jpg
     alt: This is the alt text
     size: one-third
     aspect-ratio: portait
+  - image_path: /images/zenwa/eon-zenwa-20.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/zenwa/eon-zenwa-2.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/zenwa/eon-zenwa-6.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/zenwa/eon-zenwa-5.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/zenwa/eon-zenwa-15.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/zenwa/eon-zenwa-14.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/zenwa/eon-zenwa-3.jpg
+    aspect-ratio: landscape
+    size: two-thirds
 gallery-text_html:
 layout: project
 _comments:
   layout: Don't touch this
 ---
+
