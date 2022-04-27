@@ -34,15 +34,49 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/Portfolio – 2.jpg
+  - image_path: /images/mamaka/venue/eon-mamaka-venue-8.jpg
     alt: This is the alt text
-    size: two-thirds
-  - image_path: /images/Portfolio – 3.jpg
+    size: one-third
+  - image_path: /images/mamaka/venue/eon-mamaka-venue-13.jpg
     alt: This is the alt text
     size: one-third
     aspect-ratio: portait
+  - image_path: /images/mamaka/venue/eon-mamaka-venue-9.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/mamaka/venue/eon-mamaka-venue-6.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path: /images/mamaka/venue/eon-mamaka-venue-1.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/mamaka/venue/eon-mamaka-venue-11.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/mamaka/venue/eon-mamaka-venue-10.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/mamaka/venue/eon-mamaka-venue-12.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/mamaka/venue/eon-mamaka-venue-3.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path: /images/mamaka/venue/eon-mamaka-venue-4.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/mamaka/venue/eon-mamaka-venue-2.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/mamaka/venue/eon-mamaka-venue-7.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/mamaka/venue/eon-mamaka-venue-5.jpg
+    aspect-ratio: portrait
+    size: one-third
 gallery-text_html:
 layout: project
 _comments:
   layout: Don't touch this
 ---
+
