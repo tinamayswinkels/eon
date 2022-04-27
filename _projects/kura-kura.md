@@ -57,7 +57,7 @@ gallery-images:
     aspect-ratio: portrait
     size: one-third
   - image_path: /images/mandala-therocks/eon-therocks-19.jpg
-    aspect-ratio: portrait
+    aspect-ratio: portrait-tall
     size: one-third
   - image_path: /images/kura-kura/FULLRES-EONCOPYRIGHT-R5B_8892.jpg
     aspect-ratio: landscape
