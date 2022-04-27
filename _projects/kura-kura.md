@@ -56,7 +56,7 @@ gallery-images:
   - image_path: /images/kura-kura/FULLRES-EONCOPYRIGHT-R5B_0442.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/kura-kura/FULLRES-EONCOPYRIGHT-R5B_8888.jpg
+  - image_path: /images/mandala-therocks/eon-therocks-19.jpg
     aspect-ratio: portrait
     size: one-third
   - image_path: /images/kura-kura/FULLRES-EONCOPYRIGHT-R5B_8892.jpg
