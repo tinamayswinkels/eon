@@ -53,6 +53,15 @@ gallery-images:
   - image_path: /images/feather-noise/eon-feather-23.jpg
     aspect-ratio: portrait
     size: one-third
+  - image_path: /images/feather-noise/eon-feather-14.jpg
+    aspect-ratio: landscape
+    size: one-half
+  - image_path: /images/feather-noise/eon-feather-5.jpg
+    aspect-ratio: portrait
+    size: one-half
+  - image_path: /images/feather-noise/eon-feather-26.jpg
+    aspect-ratio: landscape
+    size: full-width
 gallery-text_html:
 layout: project
 _comments:
