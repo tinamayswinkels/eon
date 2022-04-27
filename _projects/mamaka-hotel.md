@@ -74,6 +74,45 @@ gallery-images:
   - image_path: /images/mamaka/venue/eon-mamaka-venue-5.jpg
     aspect-ratio: portrait
     size: one-third
+  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-11.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-2.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-13.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-5.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-1.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-9.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-8.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-7.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-6.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-3.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-12.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-4.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/mamaka/lifestyle/eon-mamaka-lifestyle-10.jpg
+    aspect-ratio: portrait
+    size: one-third
 gallery-text_html:
 layout: project
 _comments:
