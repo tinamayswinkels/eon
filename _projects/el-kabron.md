@@ -34,15 +34,49 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/Portfolio – 2.jpg
+  - image_path: /images/kabron/EONCLIENT-5DF_6415.jpg
     alt: This is the alt text
-    size: two-thirds
-  - image_path: /images/Portfolio – 3.jpg
+    size: one-third
+  - image_path: /images/kabron/EONCLIENT-5DF_6744.jpg
     alt: This is the alt text
     size: one-third
     aspect-ratio: portait
+  - image_path: /images/kabron/EONCLIENT-DJI_0572.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/kabron/EONCLIENT-DJI_0561.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path: /images/kabron/EONCLIENT-5DF_6709.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/kabron/EONCLIENT-DJI_0575-2.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/kabron/EONCOPYRIGHT-EONCOPYRIGHT-DJI_0076-photoshop.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/kabron/EONCLIENT-5DF_6483.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/kabron/EONCopyright-DJI_0799.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/kabron/EONCLIENT-5DF_6680.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path: /images/kabron/EONCLIENT-5DF_6786.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/kabron/EONCLIENT-5DF_7606.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/kabron/EONCopyright-DJI_0791.jpg
+    aspect-ratio: portrait
+    size: one-third
 gallery-text_html:
 layout: project
 _comments:
   layout: Don't touch this
 ---
+
