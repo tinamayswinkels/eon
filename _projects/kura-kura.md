@@ -37,10 +37,9 @@ gallery-images:
   - image_path: /images/kura-kura/FULLRES-EONCOPYRIGHT-R5B_0174.jpg
     alt: This is the alt text
     size: one-third
-  - image_path: /images/kura-kura/FULLRES-EONCOPYRIGHT-R5B_8348.jpg
-    alt: This is the alt text
+  - image_path: /images/mandala-therocks/eon-therocks-12.jpg
+    aspect-ratio: portrait
     size: one-third
-    aspect-ratio: portait
   - image_path: /images/kura-kura/FULLRES-EONCOPYRIGHT-R5B_8835.jpg
     aspect-ratio: portrait
     size: one-third
@@ -62,9 +61,10 @@ gallery-images:
   - image_path: /images/kura-kura/FULLRES-EONCOPYRIGHT-R5B_8892.jpg
     aspect-ratio: landscape
     size: two-thirds
-  - image_path: /images/kura-kura/FULLRES-EONCOPYRIGHT-R5B_8335.jpg
-    aspect-ratio: portrait
+  - image_path: /images/kura-kura/FULLRES-EONCOPYRIGHT-R5B_8348.jpg
+    alt: This is the alt text
     size: one-third
+    aspect-ratio: portait
 gallery-text_html:
 layout: project
 _comments:
