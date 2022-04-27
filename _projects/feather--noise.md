@@ -34,15 +34,28 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/Portfolio – 2.jpg
+  - image_path: /images/feather-noise/eon-feather-11.jpg
     alt: This is the alt text
-    size: two-thirds
-  - image_path: /images/Portfolio – 3.jpg
+    size: full-width
+  - image_path: /images/feather-noise/EON-COPYRIGHT-46612.jpg
     alt: This is the alt text
     size: one-third
     aspect-ratio: portait
+  - image_path: /images/feather-noise/eon-feather-21.jpg
+    aspect-ratio: portrait
+    size: two-thirds
+  - image_path: /images/feather-noise/eon-feather-5.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/feather-noise/eon-feather-10.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/feather-noise/eon-feather-23.jpg
+    aspect-ratio: portrait
+    size: one-third
 gallery-text_html:
 layout: project
 _comments:
   layout: Don't touch this
 ---
+
