@@ -74,7 +74,13 @@ gallery-images:
   - image_path: /images/kabron/EONCopyright-DJI_0791.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path:
+  - image_path: /images/kabron/EONCopyright-5DF_7281.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/kabron/EONCOPYRIGHT-5DF_0531.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/kabron/EONCopyright-5DF_7277.jpg
     aspect-ratio: portrait
     size: one-third
 gallery-text_html:
