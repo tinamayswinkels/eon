@@ -74,6 +74,9 @@ gallery-images:
   - image_path: /images/kabron/EONCopyright-DJI_0791.jpg
     aspect-ratio: portrait
     size: one-third
+  - image_path:
+    aspect-ratio: portrait
+    size: one-third
 gallery-text_html:
 layout: project
 _comments:
