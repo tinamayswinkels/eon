@@ -48,11 +48,11 @@ gallery-images:
     size: two-thirds
     aspect-ratio: landscape
   - image_path: >-
-      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0084.jpg
+      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0119.jpg
     aspect-ratio: portrait
     size: one-third
   - image_path: >-
-      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0119.jpg
+      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0084.jpg
     aspect-ratio: portrait
     size: one-third
   - image_path: >-
