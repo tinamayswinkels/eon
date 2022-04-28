@@ -50,6 +50,12 @@ gallery-images:
   - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0576.jpg
     aspect-ratio: portrait
     size: one-third
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_0547.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/fullres-eoncopyright-fullres-eoncopyright-r5c-9980.jpg
+    aspect-ratio: landscape
+    size: two-thirds
 gallery-text_html:
 layout: project
 _comments:
