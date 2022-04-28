@@ -34,14 +34,20 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0733.jpg
+    alt: This is the alt text
+    size: one-third
   - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0512.jpg
     alt: This is the alt text
     size: one-third
     aspect-ratio: portait
-  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0733.jpg
-    alt: This is the alt text
-    size: one-third
   - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0420.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0753.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0576.jpg
     aspect-ratio: portrait
     size: one-third
 gallery-text_html:
@@ -49,3 +55,4 @@ layout: project
 _comments:
   layout: Don't touch this
 ---
+
