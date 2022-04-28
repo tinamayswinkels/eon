@@ -56,10 +56,19 @@ gallery-images:
   - image_path: /uploads/fullres-eoncopyright-fullres-eoncopyright-r5c-9980.jpg
     aspect-ratio: landscape
     size: two-thirds
-  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_8855.jpg
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_8892.jpg
     aspect-ratio: landscape
     size: two-thirds
   - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_9405.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_0073.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_9249.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_0254.jpg
     aspect-ratio: portrait
     size: one-third
 gallery-text_html:
