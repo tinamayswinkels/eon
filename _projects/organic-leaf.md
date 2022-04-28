@@ -47,6 +47,18 @@ gallery-images:
     alt: This is the alt text
     size: two-thirds
     aspect-ratio: landscape
+  - image_path: >-
+      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0084.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: >-
+      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0119.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: >-
+      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0260.jpg
+    aspect-ratio: portrait
+    size: one-third
 gallery-text_html:
 layout: project
 _comments:
