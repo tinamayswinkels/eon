@@ -56,6 +56,12 @@ gallery-images:
   - image_path: /uploads/fullres-eoncopyright-fullres-eoncopyright-r5c-9980.jpg
     aspect-ratio: landscape
     size: two-thirds
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_8855.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_9405.jpg
+    aspect-ratio: portrait
+    size: one-third
 gallery-text_html:
 layout: project
 _comments:
