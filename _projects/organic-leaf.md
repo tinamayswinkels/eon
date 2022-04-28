@@ -59,6 +59,17 @@ gallery-images:
       /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0260.jpg
     aspect-ratio: portrait
     size: one-third
+  - image_path: >-
+      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0235.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: >-
+      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0274-2.jpg
+    aspect-ratio: landscape
+    size: full-width
+  - image_path:
+    aspect-ratio: portrait
+    size: one-third
 gallery-text_html:
 layout: project
 _comments:
