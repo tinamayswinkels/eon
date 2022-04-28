@@ -34,15 +34,22 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/Portfolio – 2.jpg
+  - image_path: >-
+      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0254.jpg
+    alt: This is the alt text
+    size: full-width
+  - image_path: >-
+      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0190.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: >-
+      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0306.jpg
     alt: This is the alt text
     size: two-thirds
-  - image_path: /images/Portfolio – 3.jpg
-    alt: This is the alt text
-    size: one-third
-    aspect-ratio: portait
+    aspect-ratio: landscape
 gallery-text_html:
 layout: project
 _comments:
   layout: Don't touch this
 ---
+
