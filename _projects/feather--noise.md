@@ -1,6 +1,6 @@
 ---
 hidden: false
-title: Yoga With Em
+title: Feather & Noise
 subtitle: 2020 Beach Retreat Campaign
 vertical-heading: false
 featured_image: /images/placeholder-2.jpg
@@ -34,49 +34,34 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/em-yoga/EON-em-yoga-1.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-12.jpg
+  - image_path: /images/feather-noise/eon-feather-11.jpg
+    alt: This is the alt text
+    size: full-width
+  - image_path: /images/feather-noise/EON-COPYRIGHT-46612.jpg
     alt: This is the alt text
     size: one-third
     aspect-ratio: portait
-  - image_path: /images/em-yoga/EON-em-yoga-13.jpg
+  - image_path: /images/feather-noise/eon-feather-21.jpg
+    aspect-ratio: portrait
+    size: two-thirds
+  - image_path: /images/feather-noise/EON-COPYRIGHT-43477.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-10.jpg
+  - image_path: /images/feather-noise/eon-feather-10.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/feather-noise/eon-feather-23.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/feather-noise/eon-feather-14.jpg
     aspect-ratio: landscape
     size: two-thirds
-  - image_path: /images/em-yoga/EON-em-yoga-11.jpg
+  - image_path: /images/feather-noise/eon-feather-5.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-7.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-8.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-4.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/eon-emyoga-11.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-5.jpg
+  - image_path: /images/feather-noise/eon-feather-26.jpg
     aspect-ratio: landscape
-    size: two-thirds
-  - image_path: /images/em-yoga/EON-em-yoga-6.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-2.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-9.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path:
-    aspect-ratio: portrait
-    size: one-third
+    size: full-width
 gallery-text_html:
 layout: project
 _comments:

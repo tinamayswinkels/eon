@@ -1,6 +1,6 @@
 ---
 hidden: false
-title: Yoga With Em
+title: Riad Shiraz
 subtitle: 2020 Beach Retreat Campaign
 vertical-heading: false
 featured_image: /images/placeholder-2.jpg
@@ -34,52 +34,39 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/em-yoga/EON-em-yoga-1.jpg
-    aspect-ratio: portrait
+  - image_path: /images/riad-shiraz/EONCLIENT_5DM45428.jpg
+    alt: This is the alt text
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-12.jpg
+  - image_path: /images/riad-shiraz/eon-riad-5.jpg
     alt: This is the alt text
     size: one-third
     aspect-ratio: portait
-  - image_path: /images/em-yoga/EON-em-yoga-13.jpg
+  - image_path: /images/riad-shiraz/eon-riad-1.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-10.jpg
+  - image_path: /images/riad-shiraz/EONCLIENT_5DM46062.jpg
     aspect-ratio: landscape
     size: two-thirds
-  - image_path: /images/em-yoga/EON-em-yoga-11.jpg
+  - image_path: /images/riad-shiraz/eon-riad-22.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-7.jpg
+  - image_path: /images/riad-shiraz/EONCLIENT_5DM45988.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-8.jpg
+  - image_path: /images/riad-shiraz/EONCLIENT_5DM46058.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-4.jpg
+  - image_path: /images/riad-shiraz/eon-riad-14.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/eon-emyoga-11.jpg
+  - image_path: /images/riad-shiraz/eon-riad-18.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-5.jpg
+  - image_path: /images/riad-shiraz/EONCLIENT_5DM45962.jpg
     aspect-ratio: landscape
     size: two-thirds
-  - image_path: /images/em-yoga/EON-em-yoga-6.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-2.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-9.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path:
-    aspect-ratio: portrait
-    size: one-third
 gallery-text_html:
 layout: project
 _comments:
   layout: Don't touch this
 ---
-

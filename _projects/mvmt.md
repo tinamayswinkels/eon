@@ -1,6 +1,6 @@
 ---
 hidden: false
-title: Yoga With Em
+title: MVMT
 subtitle: 2020 Beach Retreat Campaign
 vertical-heading: false
 featured_image: /images/placeholder-2.jpg
@@ -34,49 +34,43 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/em-yoga/EON-em-yoga-1.jpg
-    aspect-ratio: portrait
+  - image_path: /images/mvmt/FULLRES-EONCOPYRIGHT-5DE_0562.jpg
+    alt: This is the alt text
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-12.jpg
+  - image_path: /images/mvmt/FULLRES-EONCOPYRIGHT-5DE_0086.jpg
     alt: This is the alt text
     size: one-third
     aspect-ratio: portait
-  - image_path: /images/em-yoga/EON-em-yoga-13.jpg
+  - image_path: /images/mvmt/FULLRES-EONCOPYRIGHT-5DE_0229.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-10.jpg
+  - image_path: /images/mvmt/FULLRES-EONCOPYRIGHT-5DE_0184-2.jpg
     aspect-ratio: landscape
     size: two-thirds
-  - image_path: /images/em-yoga/EON-em-yoga-11.jpg
+  - image_path: /images/mvmt/FULLRES-EONCOPYRIGHT-5DE_0516.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-7.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-8.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-4.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/eon-emyoga-11.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-5.jpg
+  - image_path: /images/mvmt/FULLRES-EONCOPYRIGHT-5DE_1037.jpg
     aspect-ratio: landscape
-    size: two-thirds
-  - image_path: /images/em-yoga/EON-em-yoga-6.jpg
+    size: full-width
+  - image_path: /images/mvmt/FULLRES-EONCOPYRIGHT-5DE_0802.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-2.jpg
+  - image_path: /images/mvmt/FULLRES-EONCOPYRIGHT-5DE_9913-2.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-9.jpg
+  - image_path: /images/mvmt/FULLRES-EONCOPYRIGHT-5DE_1336-Edit.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path:
+  - image_path: /images/mvmt/FULLRES-EONCOPYRIGHT-5DE_0306.jpg
+    aspect-ratio: landscape
+    size: full-width
+  - image_path: /images/mvmt/FULLRES-EONCOPYRIGHT-5DE_0979.jpg
     aspect-ratio: portrait
-    size: one-third
+    size: one-half
+  - image_path: /images/mvmt/FULLRES-EONCOPYRIGHT-5DE_1484.jpg
+    aspect-ratio: portrait
+    size: one-half
 gallery-text_html:
 layout: project
 _comments:

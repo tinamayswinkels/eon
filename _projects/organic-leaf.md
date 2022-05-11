@@ -1,8 +1,8 @@
 ---
 hidden: false
-title: Yoga With Em
+title: Organic Leaf
 subtitle: 2020 Beach Retreat Campaign
-vertical-heading: false
+vertical-heading: true
 featured_image: /images/placeholder-2.jpg
 featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
 intro-text_html: >-
@@ -34,47 +34,41 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/em-yoga/EON-em-yoga-1.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-12.jpg
+  - image_path: >-
+      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0254.jpg
     alt: This is the alt text
-    size: one-third
-    aspect-ratio: portait
-  - image_path: /images/em-yoga/EON-em-yoga-13.jpg
+    size: full-width
+  - image_path: >-
+      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0190.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-10.jpg
+  - image_path: >-
+      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0306.jpg
+    alt: This is the alt text
+    size: two-thirds
+    aspect-ratio: landscape
+  - image_path: >-
+      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0119.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: >-
+      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0084.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: >-
+      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0260.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: >-
+      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0274-2.jpg
+    aspect-ratio: landscape
+    size: full-width
+  - image_path: >-
+      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0125-2.jpg
     aspect-ratio: landscape
     size: two-thirds
-  - image_path: /images/em-yoga/EON-em-yoga-11.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-7.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-8.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-4.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/eon-emyoga-11.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-5.jpg
-    aspect-ratio: landscape
-    size: two-thirds
-  - image_path: /images/em-yoga/EON-em-yoga-6.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-2.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-9.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path:
+  - image_path: >-
+      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0235.jpg
     aspect-ratio: portrait
     size: one-third
 gallery-text_html:

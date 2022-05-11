@@ -1,8 +1,8 @@
 ---
 hidden: false
-title: Yoga With Em
+title: Acaya Care
 subtitle: 2020 Beach Retreat Campaign
-vertical-heading: false
+vertical-heading: true
 featured_image: /images/placeholder-2.jpg
 featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
 intro-text_html: >-
@@ -34,47 +34,41 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/em-yoga/EON-em-yoga-1.jpg
-    aspect-ratio: portrait
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0733.jpg
+    alt: This is the alt text
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-12.jpg
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0512.jpg
     alt: This is the alt text
     size: one-third
     aspect-ratio: portait
-  - image_path: /images/em-yoga/EON-em-yoga-13.jpg
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0420.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-10.jpg
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0753.jpg
     aspect-ratio: landscape
     size: two-thirds
-  - image_path: /images/em-yoga/EON-em-yoga-11.jpg
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0576.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-7.jpg
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_0547.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-8.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-4.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/eon-emyoga-11.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-5.jpg
+  - image_path: /uploads/fullres-eoncopyright-fullres-eoncopyright-r5c-9980.jpg
     aspect-ratio: landscape
     size: two-thirds
-  - image_path: /images/em-yoga/EON-em-yoga-6.jpg
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_8892.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_9405.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-2.jpg
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_0073.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-9.jpg
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_9249.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path:
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_0254.jpg
     aspect-ratio: portrait
     size: one-third
 gallery-text_html:

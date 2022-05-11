@@ -1,6 +1,6 @@
 ---
 hidden: false
-title: Yoga With Em
+title: Zenwa
 subtitle: 2020 Beach Retreat Campaign
 vertical-heading: false
 featured_image: /images/placeholder-2.jpg
@@ -34,49 +34,37 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/em-yoga/EON-em-yoga-1.jpg
-    aspect-ratio: portrait
+  - image_path: /images/zenwa/eon-zenwa-18.jpg
+    alt: This is the alt text
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-12.jpg
+  - image_path: /images/zenwa/eon-zenwa-1.jpg
     alt: This is the alt text
     size: one-third
     aspect-ratio: portait
-  - image_path: /images/em-yoga/EON-em-yoga-13.jpg
+  - image_path: /images/zenwa/eon-zenwa-20.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-10.jpg
+  - image_path: /images/zenwa/EONCOPYRIGHT-5DF_6278-Edit.jpg
     aspect-ratio: landscape
     size: two-thirds
-  - image_path: /images/em-yoga/EON-em-yoga-11.jpg
+  - image_path: /images/zenwa/eon-zenwa-2.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-7.jpg
+  - image_path: /images/zenwa/eon-zenwa-6.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-8.jpg
+  - image_path: /images/zenwa/eon-zenwa-5.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-4.jpg
+  - image_path: /images/zenwa/eon-zenwa-15.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/eon-emyoga-11.jpg
+  - image_path: /images/zenwa/eon-zenwa-14.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-5.jpg
+  - image_path: /images/zenwa/eon-zenwa-3.jpg
     aspect-ratio: landscape
     size: two-thirds
-  - image_path: /images/em-yoga/EON-em-yoga-6.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-2.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/em-yoga/EON-em-yoga-9.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path:
-    aspect-ratio: portrait
-    size: one-third
 gallery-text_html:
 layout: project
 _comments:
