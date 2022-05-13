@@ -44,6 +44,15 @@ gallery-images:
   - image_path: /images/alex-hossick/2021-studio/eyesofanomad-alexhossick-studio-56.jpg
     aspect-ratio: landscape
     size: full-width
+  - image_path: /images/alex-hossick/2021-studio/eyesofanomad-alexhossick-studio-71.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/alex-hossick/2021-studio/eyesofanomad-alexhossick-studio-64.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/alex-hossick/2021-studio/eyesofanomad-alexhossick-studio-49.jpg
+    aspect-ratio: portrait
+    size: one-third
 gallery-text_html:
 layout: project
 _comments:
