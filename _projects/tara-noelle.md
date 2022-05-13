@@ -47,8 +47,27 @@ gallery-images:
   - image_path: /images/taranoelle-jewellery/eyesofanomad-taranoelle-17.jpg
     aspect-ratio: portrait
     size: one-third
+  - image_path: /images/taranoelle-jewellery/eyesofanomad-taranoelle-12.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/taranoelle-jewellery/eyesofanomad-taranoelle-3.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path:
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/taranoelle-jewellery/eyesofanomad-taranoelle-2.jpg
+    aspect-ratio: landscape
+    size: full-width
+  - image_path: /images/taranoelle-jewellery/eyesofanomad-taranoelle-20.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path: /images/taranoelle-jewellery/eyesofanomad-taranoelle-22.jpg
+    aspect-ratio: portrait
+    size: one-third
 gallery-text_html:
 layout: project
 _comments:
   layout: Don't touch this
 ---
+
