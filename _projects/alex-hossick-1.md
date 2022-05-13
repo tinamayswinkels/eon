@@ -41,6 +41,9 @@ gallery-images:
     alt: This is the alt text
     size: two-thirds
     aspect-ratio: landscape
+  - image_path: /images/alex-hossick/2021-studio/eyesofanomad-alexhossick-studio-56.jpg
+    aspect-ratio: landscape
+    size: full-width
 gallery-text_html:
 layout: project
 _comments:
