@@ -50,6 +50,15 @@ gallery-images:
   - image_path: /images/ecotivity/eon-ecotivity-43.jpg
     aspect-ratio: portrait
     size: one-third
+  - image_path: /images/ecotivity/eon-ecotivity-19.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/ecotivity/eon-ecotivity-34.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path: /images/ecotivity/eon-ecotivity-23.jpg
+    aspect-ratio: portrait
+    size: one-third
 gallery-text_html:
 layout: project
 _comments:
