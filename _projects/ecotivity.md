@@ -37,12 +37,22 @@ gallery-images:
   - image_path: /uploads/eon-ecotivity-35.jpg
     alt: This is the alt text
     size: two-thirds
-  - image_path: /images/Portfolio – 3.jpg
+  - image_path: /images/ecotivity/eon-ecotivity-38.jpg
     alt: This is the alt text
     size: one-third
     aspect-ratio: portait
+  - image_path: /images/ecotivity/eon-ecotivity-1.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/ecotivity/eon-ecotivity-39.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/ecotivity/eon-ecotivity-43.jpg
+    aspect-ratio: portrait
+    size: one-third
 gallery-text_html:
 layout: project
 _comments:
   layout: Don't touch this
 ---
+
