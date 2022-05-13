@@ -70,11 +70,11 @@ gallery-images:
     aspect-ratio: portrait
     size: one-third
   - image_path: >-
-      /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-28.jpg
+      /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-22.jpg
     aspect-ratio: portrait
     size: one-third
   - image_path: >-
-      /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-22.jpg
+      /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-28.jpg
     aspect-ratio: portrait
     size: one-third
   - image_path: >-
