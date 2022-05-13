@@ -34,15 +34,40 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/Portfolio – 2.jpg
-    alt: This is the alt text
-    size: two-thirds
-  - image_path: /images/Portfolio – 3.jpg
+  - image_path: /images/ceylon-villa/eon-ceylon-villa-10.jpg
     alt: This is the alt text
     size: one-third
-    aspect-ratio: portait
+  - image_path: /images/ceylon-villa/eon-ceylon-villa-7.jpg
+    alt: This is the alt text
+    size: two-thirds
+    aspect-ratio: landscape
+  - image_path: /images/ceylon-villa/eon-ceylon-villa-40.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/ceylon-villa/eon-ceylon-villa-29.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/ceylon-villa/eon-ceylon-villa-35.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/ceylon-villa/eon-ceylon-villa-28.jpg
+    aspect-ratio: portrait
+    size: one-half
+  - image_path: /images/ceylon-villa/eon-ceylon-villa-37.jpg
+    aspect-ratio: portrait
+    size: one-half
+  - image_path: /images/ceylon-villa/eon-ceylon-villa-15.jpg
+    aspect-ratio: landscape
+    size: full-width
+  - image_path: /images/ceylon-villa/eon-ceylon-villa-4.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/ceylon-villa/eon-ceylon-villa-5.jpg
+    aspect-ratio: landscape
+    size: two-thirds
 gallery-text_html:
 layout: project
 _comments:
   layout: Don't touch this
 ---
+
