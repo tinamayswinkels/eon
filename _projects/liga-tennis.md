@@ -47,6 +47,9 @@ gallery-images:
   - image_path: /images/liga-tennis/eyesofanomad-liga-24.jpg
     aspect-ratio: landscape
     size: two-thirds
+  - image_path: /images/liga-tennis/eyesofanomad-liga-13.jpg
+    aspect-ratio: portrait
+    size: one-half
   - image_path: /images/liga-tennis/eyesofanomad-liga-4.jpg
     aspect-ratio: portrait
     size: one-third
@@ -56,12 +59,9 @@ gallery-images:
   - image_path: /images/liga-tennis/eyesofanomad-liga-21.jpg
     aspect-ratio: landscape
     size: two-thirds
-  - image_path: /images/liga-tennis/eyesofanomad-liga-13.jpg
-    aspect-ratio: portrait
-    size: one-half
   - image_path: /images/liga-tennis/eyesofanomad-liga-36.jpg
-    aspect-ratio: portrait
-    size: one-half
+    aspect-ratio: landscape
+    size: full-width
 gallery-text_html:
 layout: project
 _comments:
