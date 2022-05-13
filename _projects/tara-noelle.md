@@ -58,10 +58,10 @@ gallery-images:
     size: full-width
   - image_path: /images/taranoelle-jewellery/eyesofanomad-taranoelle-20.jpg
     aspect-ratio: landscape
-    size: two-thirds
+    size: one-half
   - image_path: /images/taranoelle-jewellery/eyesofanomad-taranoelle-9.jpg
-    aspect-ratio: portrait
-    size: one-third
+    aspect-ratio: landscape
+    size: one-half
 gallery-text_html:
 layout: project
 _comments:
