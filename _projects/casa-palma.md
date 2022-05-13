@@ -2,7 +2,7 @@
 hidden: false
 title: Casa Palma
 subtitle: 2020 Beach Retreat Campaign
-vertical-heading: false
+vertical-heading: true
 featured_image: /images/placeholder-2.jpg
 featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
 intro-text_html: >-
