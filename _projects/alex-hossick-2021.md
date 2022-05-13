@@ -1,7 +1,7 @@
 ---
 hidden: false
-title: Alex Hossick 2021
-subtitle: 2020 Beach Retreat Campaign
+title: Alex Hossick
+subtitle: 2021 Editorial
 vertical-heading: true
 featured_image: /images/placeholder-2.jpg
 featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
@@ -46,3 +46,4 @@ layout: project
 _comments:
   layout: Don't touch this
 ---
+
