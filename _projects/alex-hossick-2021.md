@@ -34,13 +34,47 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/Portfolio – 2.jpg
+  - image_path: >-
+      /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-45.jpg
     alt: This is the alt text
-    size: two-thirds
-  - image_path: /images/Portfolio – 3.jpg
+    size: one-third
+  - image_path: >-
+      /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-40.jpg
     alt: This is the alt text
     size: one-third
     aspect-ratio: portait
+  - image_path: >-
+      /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-23.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: >-
+      /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-28.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: >-
+      /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-22.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: >-
+      /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-32.jpg
+    aspect-ratio: landscape
+    size: full-width
+  - image_path: >-
+      /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-26.jpg
+    aspect-ratio: portrait
+    size: one-half
+  - image_path: >-
+      /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-27.jpg
+    aspect-ratio: portrait
+    size: one-half
+  - image_path: >-
+      /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-8.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: >-
+      /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-6.jpg
+    aspect-ratio: landscape
+    size: two-thirds
 gallery-text_html:
 layout: project
 _comments:
