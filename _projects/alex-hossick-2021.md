@@ -1,6 +1,6 @@
 ---
 hidden: false
-title: Casa Palma
+title: Alex Hossick 2021
 subtitle: 2020 Beach Retreat Campaign
 vertical-heading: true
 featured_image: /images/placeholder-2.jpg
@@ -34,49 +34,15 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9414.jpg
+  - image_path: /images/Portfolio – 2.jpg
     alt: This is the alt text
-    size: one-third
-  - image_path: /images/casa-palma/eon-casa-15.jpg
+    size: two-thirds
+  - image_path: /images/Portfolio – 3.jpg
     alt: This is the alt text
     size: one-third
     aspect-ratio: portait
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9333.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9300-HDR.jpg
-    aspect-ratio: landscape
-    size: two-thirds
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9331.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9426-HDR.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9501.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9529.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9613.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9644.jpg
-    aspect-ratio: landscape
-    size: two-thirds
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9593.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/casa-palma/EONCOPYRIGHT-5DF_8831.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9627.jpg
-    aspect-ratio: portrait
-    size: one-third
 gallery-text_html:
 layout: project
 _comments:
   layout: Don't touch this
 ---
-

@@ -1,6 +1,6 @@
 ---
 hidden: false
-title: Casa Palma
+title: Ecotivity
 subtitle: 2020 Beach Retreat Campaign
 vertical-heading: true
 featured_image: /images/placeholder-2.jpg
@@ -34,44 +34,41 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9414.jpg
+  - image_path: /uploads/eon-ecotivity-35.jpg
     alt: This is the alt text
+    size: two-thirds
+  - image_path: /images/ecotivity/eon-ecotivity-1.jpg
+    aspect-ratio: portrait
     size: one-third
-  - image_path: /images/casa-palma/eon-casa-15.jpg
+  - image_path: /images/ecotivity/eon-ecotivity-14.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/ecotivity/eon-ecotivity-20.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/ecotivity/eon-ecotivity-38.jpg
     alt: This is the alt text
     size: one-third
     aspect-ratio: portait
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9333.jpg
+  - image_path: /images/ecotivity/eon-ecotivity-19.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9300-HDR.jpg
+  - image_path: /images/ecotivity/eon-ecotivity-28.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/ecotivity/eon-ecotivity-39.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/ecotivity/eon-ecotivity-34.jpg
     aspect-ratio: landscape
-    size: two-thirds
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9331.jpg
+    size: full-width
+  - image_path: /images/ecotivity/eon-ecotivity-23.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9426-HDR.jpg
+  - image_path: /images/ecotivity/eon-ecotivity-49.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9501.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9529.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9613.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9644.jpg
-    aspect-ratio: landscape
-    size: two-thirds
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9593.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/casa-palma/EONCOPYRIGHT-5DF_8831.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9627.jpg
+  - image_path: /images/ecotivity/eon-ecotivity-41.jpg
     aspect-ratio: portrait
     size: one-third
 gallery-text_html:
