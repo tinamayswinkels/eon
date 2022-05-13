@@ -66,11 +66,11 @@ gallery-images:
       /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-8.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: >-
-      /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-23.jpg
+  - image_path: /images/alex-hossick/2021-studio/eyesofanomad-alexhossick-studio-11.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /images/alex-hossick/2021-studio/eyesofanomad-alexhossick-studio-11.jpg
+  - image_path: >-
+      /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-28.jpg
     aspect-ratio: portrait
     size: one-third
   - image_path: >-
@@ -78,7 +78,7 @@ gallery-images:
     aspect-ratio: portrait
     size: one-third
   - image_path: >-
-      /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-28.jpg
+      /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-23.jpg
     aspect-ratio: portrait
     size: one-third
 gallery-text_html:
