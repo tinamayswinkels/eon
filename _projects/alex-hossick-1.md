@@ -34,13 +34,13 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/alex-hossick/2021-studio/eyesofanomad-alexhossick-studio-15.jpg
-    alt: This is the alt text
-    size: one-third
   - image_path: /images/alex-hossick/2021-studio/eyesofanomad-alexhossick-studio-41.jpg
     alt: This is the alt text
     size: two-thirds
     aspect-ratio: landscape
+  - image_path: /images/alex-hossick/2021-studio/eyesofanomad-alexhossick-studio-15.jpg
+    alt: This is the alt text
+    size: one-third
   - image_path: /images/alex-hossick/2021-studio/eyesofanomad-alexhossick-studio-56.jpg
     aspect-ratio: landscape
     size: full-width
