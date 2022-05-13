@@ -34,15 +34,19 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/Portfolio – 2.jpg
+  - image_path: /images/liga-tennis/eyesofanomad-liga-85.jpg
     alt: This is the alt text
-    size: two-thirds
-  - image_path: /images/Portfolio – 3.jpg
+    size: full-width
+  - image_path: /images/liga-tennis/eyesofanomad-liga-33.jpg
     alt: This is the alt text
     size: one-third
     aspect-ratio: portait
+  - image_path: /images/liga-tennis/eyesofanomad-liga-63.jpg
+    aspect-ratio: landscape
+    size: two-thirds
 gallery-text_html:
 layout: project
 _comments:
   layout: Don't touch this
 ---
+
