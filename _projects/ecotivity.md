@@ -53,6 +53,9 @@ gallery-images:
   - image_path: /images/ecotivity/eon-ecotivity-19.jpg
     aspect-ratio: portrait
     size: one-third
+  - image_path: /images/ecotivity/eon-ecotivity-20.jpg
+    aspect-ratio: portrait
+    size: one-third
   - image_path: /images/ecotivity/eon-ecotivity-39.jpg
     aspect-ratio: portrait
     size: one-third
@@ -60,9 +63,6 @@ gallery-images:
     aspect-ratio: landscape
     size: full-width
   - image_path: /images/ecotivity/eon-ecotivity-23.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/ecotivity/eon-ecotivity-20.jpg
     aspect-ratio: portrait
     size: one-third
   - image_path: /images/ecotivity/eon-ecotivity-49.jpg
