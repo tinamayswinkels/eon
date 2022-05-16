@@ -56,12 +56,27 @@ gallery-images:
   - image_path: /images/two-fingers/eon-two-fingers-38.jpg
     aspect-ratio: landscape
     size: two-thirds
-  - image_path: /images/two-fingers/eon-two-fingers-36.jpg
-    aspect-ratio: portrait
-    size: one-third
   - image_path: /images/two-fingers/eon-two-fingers-27.jpg
     aspect-ratio: landscape
     size: two-thirds
+  - image_path: /images/two-fingers/eon-two-fingers-36.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/two-fingers/eon-two-fingers-40.jpg
+    aspect-ratio: portrait
+    size: one-half
+  - image_path: /images/two-fingers/eon-two-fingers-35.jpg
+    aspect-ratio: portrait
+    size: one-half
+  - image_path: /images/two-fingers/eon-two-fingers-30.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/two-fingers/eon-twofingers-8.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /images/two-fingers/eon-two-fingers-21.jpg
+    aspect-ratio: portrait
+    size: one-third
 gallery-text_html:
 layout: project
 _comments:
