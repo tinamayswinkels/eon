@@ -41,7 +41,7 @@ gallery-images:
     alt: This is the alt text
     size: one-half
     aspect-ratio: portrait
-  - image_path: /images/two-fingers/eon-two-fingers-26.jpg
+  - image_path: /uploads/eoninstagram-5dm42212.jpg
     aspect-ratio: portrait
     size: one-third
   - image_path: /images/two-fingers/eon-two-fingers-18.jpg
