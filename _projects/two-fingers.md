@@ -34,15 +34,16 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/Portfolio – 2.jpg
+  - image_path: /images/two-fingers/eon-two-fingers-32.jpg
     alt: This is the alt text
-    size: two-thirds
-  - image_path: /images/Portfolio – 3.jpg
+    size: one-half
+  - image_path: /images/two-fingers/eon-two-fingers-22.jpg
     alt: This is the alt text
-    size: one-third
-    aspect-ratio: portait
+    size: one-half
+    aspect-ratio: portrait
 gallery-text_html:
 layout: project
 _comments:
   layout: Don't touch this
 ---
+
