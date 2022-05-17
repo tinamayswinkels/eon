@@ -60,8 +60,8 @@ gallery-images:
     aspect-ratio: portrait
     size: one-third
   - image_path: /images/opia-pepeneros/eyesofanomad-opia-6.jpg
-    aspect-ratio: portrait
-    size: one-third
+    aspect-ratio: landscape
+    size: two-thirds
   - image_path: /images/opia-pepeneros/eyesofanomad-opia-2.jpg
     aspect-ratio: portrait
     size: one-third
