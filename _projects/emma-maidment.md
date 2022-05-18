@@ -3,8 +3,8 @@ hidden: false
 title: Yoga With Em
 subtitle: 2020 Beach Retreat Campaign
 vertical-heading: true
-featured_image: /images/placeholder-2.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured_image: /images/em-yoga/eon-emyoga-small-10.jpg
+featured-image-caption: Shot by Eyes of a Nomad in beautiful Ubud
 intro-text_html: >-
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -13,8 +13,8 @@ intro-text_html: >-
   cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 categories:
-  - fashion
   - featured
+  - lifestyle
 campaign:
   show-campaign-details: false
   campaign-title: Beach Retreat
@@ -72,9 +72,6 @@ gallery-images:
     aspect-ratio: portrait
     size: one-third
   - image_path: /images/em-yoga/EON-em-yoga-9.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path:
     aspect-ratio: portrait
     size: one-third
 gallery-text_html:
