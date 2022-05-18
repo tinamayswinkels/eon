@@ -1,10 +1,10 @@
 ---
 hidden: false
 title: Liga Tennis
-subtitle: 2020 Beach Retreat Campaign
+subtitle: Tennis court club
 vertical-heading: true
-featured_image: /images/placeholder-2.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured_image: /images/liga-tennis/eyesofanomad-liga-4.jpg
+featured-image-caption: Shot by Eyes of a Nomad
 intro-text_html: >-
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -13,8 +13,8 @@ intro-text_html: >-
   cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 categories:
-  - fashion
   - featured
+  - venue
 campaign:
   show-campaign-details: false
   campaign-title: Beach Retreat
