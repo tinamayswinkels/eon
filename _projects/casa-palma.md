@@ -3,7 +3,7 @@ hidden: false
 title: Casa Palma
 subtitle: Canggu, Bali
 vertical-heading: true
-featured_image: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9501.jpg
+featured_image: /images/casa-palma/eon-casa-11.jpg
 featured-image-caption: Beautiful Villa in Canggu, Bali
 intro-text_html: >-
   <p>Casa Palma is one-of-a-kind three bedroom luxury villa located right in the
