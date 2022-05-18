@@ -1,20 +1,19 @@
 ---
 hidden: false
 title: Casa Palma
-subtitle: 2020 Beach Retreat Campaign
+subtitle: Canggu, Bali
 vertical-heading: true
-featured_image: /images/placeholder-2.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured_image: /images/casa-palma/FULLRES-EONCOPYRIGHT-5DE_9501.jpg
+featured-image-caption: Beautiful Villa in Canggu, Bali
 intro-text_html: >-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Casa Palma is one-of-a-kind three bedroom luxury villa located right in the
+  heart of Canggu. Strategically located near where the trendy lifestyle is,
+  this villa also gives an oasis feel where you can relax and recharge.</p><p>We
+  wanted to capture not only the details in this villa but also the feeling of
+  it.&nbsp;</p>
 categories:
-  - fashion
   - featured
+  - venue
 campaign:
   show-campaign-details: false
   campaign-title: Beach Retreat
