@@ -3,8 +3,8 @@ hidden: false
 title: Acaya Care
 subtitle: 2020 Beach Retreat Campaign
 vertical-heading: true
-featured_image: /images/placeholder-2.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured_image: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0337.jpg
+featured-image-caption: Shot by Eyes of a Nomad in his studio and Yuka Villa for the campaign shoot
 intro-text_html: >-
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -13,8 +13,7 @@ intro-text_html: >-
   cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 categories:
-  - fashion
-  - featured
+  - product
 campaign:
   show-campaign-details: false
   campaign-title: Beach Retreat
@@ -27,11 +26,15 @@ campaign:
     non proident, sunt in culpa qui officia deserunt mollit anim id est
     laborum.</p>
   team-heading-1: Model
-  team-text-1_html: This was the name of the model, and a little bit of a blurb about her.
+  team-text-1_html: >-
+    <p>This was the name of the model, and a little bit of a blurb about
+    her.</p>
   team-heading-2: HMUA
   team-text-2_html: This was the name of the hmua, and a little bit of a blurb about her.
   team-heading-3: Stylist
-  team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
+  team-text-3_html: >-
+    <p>This was the name of the stylist, and a little bit of a blurb about
+    her.</p>
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
   - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0733.jpg
