@@ -3,7 +3,7 @@ hidden: false
 title: Alex Hossick
 subtitle: 2021 Studio
 vertical-heading: true
-featured_image: /images/alex-hossick/2021-studio/eyesofanomad-alexhossick-studio-69.jpg
+featured_image: /images/alex-hossick/2021-studio/eyesofanomad-alexhossick-studio-36.jpg
 featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
 intro-text_html: >-
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
