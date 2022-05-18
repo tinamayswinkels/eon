@@ -6,12 +6,11 @@ vertical-heading: true
 featured_image: /images/kabron/EONCopyright-DJI_0799.jpg
 featured-image-caption: Drone shot by Eyes of the Nomad
 intro-text_html: >-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>El Kabron is a luxurious cliff front pool bar and restaurant, famous for
+  it's amazing food and even better views.&nbsp;</p><p>Our aim was to capture
+  not only the stunning venue but also the atmosphere of the venue. We organised
+  models and created a strategic plan of content to cover all key brand themes
+  while having a consistent aesthetic for social media.&nbsp;</p>
 categories:
   - featured
   - venue
