@@ -3,8 +3,8 @@ hidden: false
 title: Alex Hossick
 subtitle: 2021 Editorial
 vertical-heading: true
-featured_image: /images/placeholder-2.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured_image: /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-12.jpg
+featured-image-caption: Shot by Eyes of a Nomad at Greenbowl Beach
 intro-text_html: >-
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -15,6 +15,7 @@ intro-text_html: >-
 categories:
   - fashion
   - featured
+  - jewellery
 campaign:
   show-campaign-details: false
   campaign-title: Beach Retreat
