@@ -4,7 +4,7 @@ title: Alex Hossick
 subtitle: 2021 Studio
 vertical-heading: true
 featured_image: /images/alex-hossick/2021-studio/eyesofanomad-alexhossick-studio-36.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured-image-caption: Artisanal hand-made fine jewellery
 intro-text_html: >-
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
