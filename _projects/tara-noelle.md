@@ -1,10 +1,10 @@
 ---
 hidden: false
 title: Tara Noelle
-subtitle: 2020 Beach Retreat Campaign
+subtitle: Artisanal jewellery maker
 vertical-heading: true
-featured_image: /images/placeholder-2.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured_image: /images/taranoelle-jewellery/eyesofanomad-taranoelle-22.jpg
+featured-image-caption: Shot by Eyes of a Nomad in his studio
 intro-text_html: >-
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -15,6 +15,7 @@ intro-text_html: >-
 categories:
   - fashion
   - featured
+  - jewellery
 campaign:
   show-campaign-details: false
   campaign-title: Beach Retreat
