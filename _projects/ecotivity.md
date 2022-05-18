@@ -1,10 +1,10 @@
 ---
 hidden: false
 title: Ecotivity
-subtitle: 2020 Beach Retreat Campaign
+subtitle:
 vertical-heading: true
-featured_image: /images/placeholder-2.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured_image: /images/ecotivity/eon-ecotivity-44.jpg
+featured-image-caption: Razor product shoot by Eyes of the Nomad
 intro-text_html: >-
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
