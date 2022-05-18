@@ -1,9 +1,9 @@
 ---
 hidden: false
 title: Two Fingers
-subtitle: 2020 Beach Retreat Campaign
+subtitle: Mexican Restaurant in Canggu, Bali
 vertical-heading: true
-featured_image: /images/placeholder-2.jpg
+featured_image: /images/two-fingers/eon-two-fingers-36.jpg
 featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
 intro-text_html: >-
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
