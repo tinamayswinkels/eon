@@ -3,7 +3,7 @@ hidden: false
 title: Mamaka Restaurant
 subtitle: Trendy hotel in Kuta, Bali
 vertical-heading: true
-featured_image: /images/mamaka/restaurant/eon-mamaka-restaurant-11.jpg
+featured_image: /images/mamaka/restaurant/eon-mamaka-restaurant-8.jpg
 featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
 intro-text_html: >-
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
