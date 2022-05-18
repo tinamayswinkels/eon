@@ -1,10 +1,10 @@
 ---
 hidden: false
 title: Riad Shiraz
-subtitle: 2020 Beach Retreat Campaign
+subtitle: Stunning holiday home in Marrakech
 vertical-heading: true
-featured_image: /images/placeholder-2.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured_image: /images/riad-shiraz/eon-riad-17.jpg
+featured-image-caption: Shot by Eyes of a Nomad
 intro-text_html: >-
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
