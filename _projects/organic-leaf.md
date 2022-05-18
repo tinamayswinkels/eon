@@ -1,10 +1,10 @@
 ---
 hidden: false
 title: Organic Leaf
-subtitle: 2020 Beach Retreat Campaign
+subtitle: Skincare Product
 vertical-heading: true
-featured_image: /images/placeholder-2.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured_image: /images/organic-leaf/eon-organic-leaf-1.jpg
+featured-image-caption: Shot by Eyes of a Nomad in his studio
 intro-text_html: >-
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -13,8 +13,9 @@ intro-text_html: >-
   cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 categories:
-  - fashion
   - featured
+  - product
+  - studio
 campaign:
   show-campaign-details: false
   campaign-title: Beach Retreat
