@@ -13,8 +13,9 @@ intro-text_html: >-
   cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 categories:
-  - fashion
   - featured
+  - venue
+  - lifestyle
 campaign:
   show-campaign-details: false
   campaign-title: Beach Retreat
