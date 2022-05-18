@@ -1,10 +1,10 @@
 ---
 hidden: false
 title: Zenwa
-subtitle: 2020 Beach Retreat Campaign
+subtitle: Fashion brand
 vertical-heading: true
-featured_image: /images/placeholder-2.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured_image: /images/zenwa/eon-zenwa-17.jpg
+featured-image-caption: Shot by Eyes of a Nomad in Uluwatu, Bali
 intro-text_html: >-
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
