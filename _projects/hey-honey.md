@@ -1,6 +1,6 @@
 ---
 hidden: false
-title: Hey, Honey!
+title: Hey, Honey! Campaign
 subtitle:
 vertical-heading: false
 featured_image: /uploads/insta-eoncopyright-fullres-eoncopyright-r5e-0119-2.jpg
