@@ -1,6 +1,6 @@
 ---
 hidden: false
-title: Antipodean Co.
+title: 'Antipodean Co. '
 subtitle:
 vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-r5e-5459-1.jpg
@@ -57,6 +57,27 @@ gallery-images:
     aspect-ratio: landscape
     size: two-thirds
   - image_path: /uploads/insta-eoncopyright-r5e-6951.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path:
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5g-5528.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5g-5496.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5g-4708.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5g-0627.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5g-5939.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5g-6290.jpg
     aspect-ratio: portrait
     size: one-third
 gallery-text_html:
