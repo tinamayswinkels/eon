@@ -66,9 +66,12 @@ gallery-images:
   - image_path: /uploads/insta-eoncopyright-r5-16552.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path:
+  - image_path: /uploads/insta-eoncopyright-r5-16348.jpg
     aspect-ratio: portrait
     size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5-16407.jpg
+    aspect-ratio: landscape
+    size: two-thirds
 gallery-text_html:
 layout: project
 _comments:
