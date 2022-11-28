@@ -6,12 +6,11 @@ vertical-heading: true
 featured_image: /images/ecotivity/eon-ecotivity-44.jpg
 featured-image-caption: Razor product shoot by Eyes of the Nomad
 intro-text_html: >-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Sustainable and plastic-free razor company from the Netherlands that highly
+  values doing better for the environment.</p><p>We are totally on board with
+  this and shooting their products was a lot of fun. Colours and textures are
+  one of the main focuses here and of course, without the right lighting this
+  would not have come out the way it does.</p>
 categories:
   - featured
   - product
@@ -77,4 +76,3 @@ layout: project
 _comments:
   layout: Don't touch this
 ---
-
