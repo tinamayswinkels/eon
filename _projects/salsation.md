@@ -8,7 +8,6 @@ featured-image-caption: Shot by Eyes of a Nomad
 intro-text_html:
 categories:
   - fashion
-  - featured
 campaign:
   show-campaign-details: false
   campaign-title: Beach Retreat
