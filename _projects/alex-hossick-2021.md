@@ -6,12 +6,9 @@ vertical-heading: true
 featured_image: /images/alex-hossick/2021-editorial/eyesofanomad-alexhossick-editorial-12.jpg
 featured-image-caption: Shot by Eyes of a Nomad at Greenbowl Beach
 intro-text_html: >-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Inspired by coral reef and other beautiful sea wonders, Alex created this
+  collection of jewellery. From this, we were inspired to shoot their campaign
+  on a rocky beach south of Bali.</p>
 categories:
   - fashion
   - featured
@@ -81,4 +78,3 @@ layout: project
 _comments:
   layout: Don't touch this
 ---
-
