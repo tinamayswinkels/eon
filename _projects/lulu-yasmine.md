@@ -28,13 +28,40 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/Portfolio – 2.jpg
+  - image_path: /uploads/insta-eoncopyright-r5g-3225.jpg
     alt: This is the alt text
-    size: two-thirds
-  - image_path: /images/Portfolio – 3.jpg
+    size: one-half
+  - image_path: /uploads/insta-eoncopyright-r5g-8524.jpg
     alt: This is the alt text
-    size: one-third
+    size: one-half
     aspect-ratio: portait
+  - image_path: /uploads/insta-eoncopyright-r5g-7753.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5g-2817.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5g-2681.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5g-2283.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5g-3514.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5g-8632.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5g-8139.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5g-0348.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5g-1013.jpg
+    aspect-ratio: portrait
+    size: one-third
 gallery-text_html:
 layout: project
 _comments:
