@@ -2,7 +2,7 @@
 hidden: false
 title: Hey, Honey! Campaign
 subtitle:
-vertical-heading: false
+vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-fullres-eoncopyright-r5e-0119-2.jpg
 featured-image-caption: Shot by Eyes of a Nomad in Uluwatu
 intro-text_html: >-
