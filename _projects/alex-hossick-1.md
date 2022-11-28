@@ -6,12 +6,9 @@ vertical-heading: true
 featured_image: /images/alex-hossick/2021-studio/eyesofanomad-alexhossick-studio-36.jpg
 featured-image-caption: Artisanal hand-made fine jewellery
 intro-text_html: >-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>The super-talented Alex Hossick and her keen eye for jewellery design have
+  brought us a series of stunningly beautiful collection.&nbsp;</p><p>We wanted
+  to create a styled product shoot that compliments the jewellery.</p>
 categories:
   - fashion
   - featured
@@ -71,4 +68,3 @@ layout: project
 _comments:
   layout: Don't touch this
 ---
-
