@@ -3,7 +3,7 @@ hidden: false
 title: Hey, Honey!
 subtitle:
 vertical-heading: false
-featured_image: /images/placeholder-2.jpg
+featured_image: /uploads/insta-eoncopyright-fullres-eoncopyright-r5e-0119-2.jpg
 featured-image-caption: Shot by Eyes of a Nomad in Uluwatu
 intro-text_html:
 categories:
@@ -51,9 +51,6 @@ gallery-images:
     aspect-ratio: landscape
     size: two-thirds
   - image_path: /uploads/insta-eoncopyright-r5e-9451.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path:
     aspect-ratio: portrait
     size: one-third
   - image_path: /uploads/insta-eoncopyright-r5e-0052.jpg
