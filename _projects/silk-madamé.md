@@ -47,13 +47,13 @@ gallery-images:
   - image_path: /uploads/insta-eoncopyright-r5f-0309-1.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /uploads/insta-eoncopyright-r5e-9343.jpg
+  - image_path: /uploads/insta-eoncopyright-r5f-0384.jpg
     aspect-ratio: portrait
     size: one-third
   - image_path: /uploads/insta-eoncopyright-r5f-0944.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /uploads/insta-eoncopyright-r5f-0384.jpg
+  - image_path: /uploads/insta-eoncopyright-r5e-9343.jpg
     aspect-ratio: portrait
     size: one-third
 gallery-text_html:
