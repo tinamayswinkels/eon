@@ -5,7 +5,10 @@ subtitle:
 vertical-heading: false
 featured_image: /uploads/insta-eoncopyright-fullres-eoncopyright-r5e-0119-2.jpg
 featured-image-caption: Shot by Eyes of a Nomad in Uluwatu
-intro-text_html:
+intro-text_html: >-
+  <p>Hey, Honey! is a cool yoga-wear brand from Germany and we absolutely loved
+  working with them. We did their campaign shoot at the beach down in Uluwatu
+  with the incredible Magda and we were awed by her grace and strength.</p>
 categories:
   - fashion
   - featured
