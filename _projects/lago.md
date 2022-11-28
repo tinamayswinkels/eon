@@ -1,7 +1,7 @@
 ---
 hidden: false
 title: Lago
-subtitle: 2020 Beach Retreat Campaign
+subtitle:
 vertical-heading: true
 featured_image: /images/lago/eon-lago-17.jpg
 featured-image-caption: Nusa Lembongan
