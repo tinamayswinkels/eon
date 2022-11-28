@@ -7,7 +7,8 @@ featured_image: /images/ceylon-villa/eon-ceylon-villa-8.jpg
 featured-image-caption: Stunning villa in serene Ubud
 intro-text_html: >-
   <p>Capturing not only the stunning property but also the feeling of being in
-  Ubud, which is serene, calm and at ease.</p>
+  Ubud, which is serene, calm and at ease.</p><p>Just exactly what this house
+  feels like and we wanted to ensure that comes across to the viewers.</p>
 categories:
   - featured
   - venue
