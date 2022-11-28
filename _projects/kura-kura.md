@@ -5,13 +5,7 @@ subtitle:
 vertical-heading: true
 featured_image: /images/kura-kura/FULLRES-EONCOPYRIGHT-R5B_8835.jpg
 featured-image-caption: Craft beer product shot by Eyes of the Nomad
-intro-text_html: >-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+intro-text_html:
 categories:
   - featured
   - product
@@ -70,4 +64,3 @@ layout: project
 _comments:
   layout: Don't touch this
 ---
-
