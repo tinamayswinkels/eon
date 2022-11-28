@@ -4,7 +4,7 @@ title: Hey, Honey!
 subtitle:
 vertical-heading: false
 featured_image: /images/placeholder-2.jpg
-featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
+featured-image-caption: Shot by Eyes of a Nomad in Uluwatu
 intro-text_html:
 categories:
   - fashion
