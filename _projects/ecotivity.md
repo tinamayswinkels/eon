@@ -1,7 +1,7 @@
 ---
 hidden: false
 title: Ecotivity
-subtitle:
+subtitle: Eco-Friendly Razor Brand
 vertical-heading: true
 featured_image: /images/ecotivity/eon-ecotivity-44.jpg
 featured-image-caption: Razor product shoot by Eyes of the Nomad

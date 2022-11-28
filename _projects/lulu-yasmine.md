@@ -1,7 +1,7 @@
 ---
 hidden: false
 title: Lulu Yasmine
-subtitle:
+subtitle: Wild Love Collection
 vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-r5g-8463.jpg
 featured-image-caption: Shot by Eyes of a Nomad

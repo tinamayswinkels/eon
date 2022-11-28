@@ -1,7 +1,7 @@
 ---
 hidden: false
 title: Tara Noelle
-subtitle: Artisanal jewellery maker
+subtitle: Artisanal Jewellery Maker
 vertical-heading: true
 featured_image: /images/taranoelle-jewellery/eyesofanomad-taranoelle-22.jpg
 featured-image-caption: Shot by Eyes of a Nomad in his studio

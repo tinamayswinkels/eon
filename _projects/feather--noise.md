@@ -1,7 +1,7 @@
 ---
 hidden: false
 title: Feather & Noise
-subtitle: 2020 Beach Retreat Campaign
+subtitle: Australian Fashion Brand
 vertical-heading: true
 featured_image: /images/feather-noise/eon-feather-17.jpg
 featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant

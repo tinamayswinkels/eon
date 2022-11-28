@@ -1,7 +1,7 @@
 ---
 hidden: false
 title: Ceylon Villas
-subtitle: 2020 Beach Retreat Campaign
+subtitle: Villa in Ubud
 vertical-heading: true
 featured_image: /images/ceylon-villa/eon-ceylon-villa-8.jpg
 featured-image-caption: Stunning villa in serene Ubud

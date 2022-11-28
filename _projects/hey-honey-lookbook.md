@@ -1,7 +1,7 @@
 ---
 hidden: false
-title: Hey, Honey Lookbook
-subtitle:
+title: Hey, Honey Yoga
+subtitle: 2022 Lookbook
 vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-r5-16896.jpg
 featured-image-caption: Shot by Eyes of a Nomad with natural light in Canggu

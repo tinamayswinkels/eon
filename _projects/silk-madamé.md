@@ -1,7 +1,7 @@
 ---
 hidden: false
 title: Silk Madamé
-subtitle:
+subtitle: Pyjama Lifestyle
 vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-r5f-0504.jpg
 featured-image-caption: Shot by Eyes of a Nomad

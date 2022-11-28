@@ -2,7 +2,7 @@
 layout: project
 hidden: false
 title: Ulu Cliffhouse
-subtitle: '& Clubhouse'
+subtitle: Villas & Clubhouse
 vertical-heading: true
 featured_image: /images/ulu-cliffhouse/eon-cliffhouse-38.jpg
 featured-image-caption: Shot by Eyes of a Nomad
@@ -103,4 +103,3 @@ gallery-text_html:
 _comments:
   layout: Don't touch this
 ---
-

@@ -1,7 +1,7 @@
 ---
 hidden: false
 title: Alex Hossick
-subtitle: 2021 Studio
+subtitle: Luxury Jewellery Lookbook
 vertical-heading: true
 featured_image: /images/alex-hossick/2021-studio/eyesofanomad-alexhossick-studio-36.jpg
 featured-image-caption: Artisanal hand-made fine jewellery

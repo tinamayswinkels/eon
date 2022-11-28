@@ -1,7 +1,7 @@
 ---
 hidden: false
 title: Antipodean Co. Mens
-subtitle:
+subtitle: 'Sustainable Swim Shorts '
 vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-r5e-5459-1.jpg
 featured-image-caption: 'Shot by Eyes of a Nomad '

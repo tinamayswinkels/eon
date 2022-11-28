@@ -1,7 +1,7 @@
 ---
 hidden: false
 title: Kura-Kura
-subtitle:
+subtitle: Craft Beer Lifestyle Shoot
 vertical-heading: true
 featured_image: /images/kura-kura/FULLRES-EONCOPYRIGHT-R5B_8835.jpg
 featured-image-caption: Craft beer product shot by Eyes of the Nomad

@@ -1,7 +1,7 @@
 ---
 hidden: false
 title: Antipodean Co. Family
-subtitle:
+subtitle: Family Swim Shorts Launch
 vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-r5f-2100.jpg
 featured-image-caption: Shot by Eyes of a Nomad

@@ -1,7 +1,7 @@
 ---
 hidden: false
 title: Yoga With Em
-subtitle: 2020 Beach Retreat Campaign
+subtitle: Portrait Adventure Shoot
 vertical-heading: true
 featured_image: /images/em-yoga/eon-emyoga-small-10.jpg
 featured-image-caption: Shot by Eyes of a Nomad in beautiful Ubud

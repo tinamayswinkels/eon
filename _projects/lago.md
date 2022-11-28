@@ -1,7 +1,7 @@
 ---
 hidden: false
 title: Lago
-subtitle:
+subtitle: Luxury Villa in Lembongan
 vertical-heading: true
 featured_image: /images/lago/eon-lago-17.jpg
 featured-image-caption: Nusa Lembongan
