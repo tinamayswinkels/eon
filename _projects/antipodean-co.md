@@ -1,6 +1,6 @@
 ---
 hidden: false
-title: 'Antipodean Co. '
+title: Antipodean Co. Mens
 subtitle:
 vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-r5e-5459-1.jpg
