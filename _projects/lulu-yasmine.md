@@ -1,5 +1,5 @@
 ---
-hidden: false
+hidden: true
 title: Lulu Yasmine
 subtitle:
 vertical-heading: true
