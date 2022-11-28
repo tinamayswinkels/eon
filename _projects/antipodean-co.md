@@ -59,9 +59,6 @@ gallery-images:
   - image_path: /uploads/insta-eoncopyright-r5e-6951.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path:
-    aspect-ratio: portrait
-    size: one-third
   - image_path: /uploads/insta-eoncopyright-r5g-5528.jpg
     aspect-ratio: portrait
     size: one-third
