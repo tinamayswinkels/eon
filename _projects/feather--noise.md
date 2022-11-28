@@ -6,12 +6,10 @@ vertical-heading: true
 featured_image: /images/feather-noise/eon-feather-17.jpg
 featured-image-caption: Shot by Eyes of a Nomad at Som Chai restaurant
 intro-text_html: >-
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>This shoot location is definitely one of our absolute favourite spots to
+  shoot at in Australia. We are happy to have done a campaign shoot for Feather
+  &amp; Noise here and show off their aesthetic through the Australian
+  terrain.&nbsp;</p>
 categories:
   - fashion
   - featured
@@ -67,4 +65,3 @@ layout: project
 _comments:
   layout: Don't touch this
 ---
-
