@@ -7,8 +7,8 @@ featured_image: /images/two-fingers/eon-two-fingers-36.jpg
 featured-image-caption: 'Shot by Eyes of a Nomad '
 intro-text_html:
 categories:
-  - fashion
   - featured
+  - Food
 campaign:
   show-campaign-details: false
   campaign-title: Beach Retreat

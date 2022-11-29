@@ -7,7 +7,6 @@ featured_image: /images/taranoelle-jewellery/eyesofanomad-taranoelle-22.jpg
 featured-image-caption: Shot by Eyes of a Nomad in his studio
 intro-text_html:
 categories:
-  - fashion
   - featured
   - jewellery
 campaign:
