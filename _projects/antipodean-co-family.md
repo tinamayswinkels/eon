@@ -5,7 +5,11 @@ subtitle: Family Swim Shorts Launch
 vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-r5f-2100.jpg
 featured-image-caption: Shot by Eyes of a Nomad
-intro-text_html:
+intro-text_html: >-
+  <p>For this shoot, we were working with a real family. We wanted to portray
+  the genuine bond that a father has with his sons and the authentic fun day out
+  they have at the beach.&nbsp;</p><p>We wanted to bring that across to the
+  audience through the images and carry out the brand's values.</p>
 categories:
   - fashion
   - featured
