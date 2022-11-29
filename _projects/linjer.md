@@ -11,9 +11,10 @@ intro-text_html: >-
   handcrafted with sustainable materials -- offering luxury products at a
   fraction of the cost of traditional luxury brands.&nbsp;</p>
 categories:
-  - fashion
   - featured
   - Product
+  - Jewellery
+  - fashion
 campaign:
   show-campaign-details: true
   campaign-title: Essentials
@@ -32,7 +33,7 @@ campaign:
     target="_blank" rel="noopener"
     href="https://instagram.com/kseniia_mua">Kseniia</a></p>
   team-heading-3: Location
-  team-text-3_html: '<p>Shot at the beautiful Villa Merci, in Bali Indonesia</p>'
+  team-text-3_html: <p>Shot at the beautiful Villa Merci, in Bali Indonesia</p>
   campaign_image: /images/linjer-1/eon-linjer-5.jpg
 gallery-images:
   - image_path: /images/linjer-1/eon-linjer-10.jpg
@@ -105,4 +106,3 @@ gallery-text_html:
 _comments:
   layout: Don't touch this
 ---
-
