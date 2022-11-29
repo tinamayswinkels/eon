@@ -1,7 +1,7 @@
 ---
 hidden: false
 title: Liga Tennis
-subtitle: Tennis court club
+subtitle: Tennis Court Club
 vertical-heading: true
 featured_image: /images/liga-tennis/eyesofanomad-liga-4.jpg
 featured-image-caption: Shot by Eyes of a Nomad
