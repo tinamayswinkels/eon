@@ -9,6 +9,7 @@ intro-text_html:
 categories:
   - featured
   - jewellery
+  - product
 campaign:
   show-campaign-details: false
   campaign-title: Beach Retreat
