@@ -1,11 +1,15 @@
 ---
 hidden: false
-title: Silk Madamé
+title: Silk Madame
 subtitle: Pyjama Lifestyle
 vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-r5f-0504.jpg
 featured-image-caption: Shot by Eyes of a Nomad
-intro-text_html:
+intro-text_html: >-
+  <p>Campaign shoot for a luxury silk pyjama brand done in a beautiful, stylish
+  yet homey villa in Canggu, Bali.</p><p>We wanted this campaign to be
+  aspirational yet relatable. We carefully selected the venue, models, and even
+  props and styling of the shoot to help achieve that.</p>
 categories:
   - fashion
   - featured
