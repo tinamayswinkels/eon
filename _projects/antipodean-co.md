@@ -34,7 +34,7 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /uploads/insta-eoncopyright-r5e-5296.jpg
+  - image_path: /uploads/insta-eoncopyright-r5e-6776.jpg
     alt: This is the alt text
     size: two-thirds
   - image_path: /uploads/insta-eoncopyright-r5e-4914.jpg
@@ -81,6 +81,12 @@ gallery-images:
     aspect-ratio: portrait
     size: one-third
   - image_path: /uploads/insta-eoncopyright-r5g-6290.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5g-6743.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path: /uploads/insta-eoncopyright-r5g-5380.jpg
     aspect-ratio: portrait
     size: one-third
 gallery-text_html:
