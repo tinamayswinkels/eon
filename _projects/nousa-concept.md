@@ -5,7 +5,11 @@ subtitle: Sustainable Clothing
 vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-pro-capture-one-8829.jpg
 featured-image-caption: Shot by Eyes of a Nomad
-intro-text_html:
+intro-text_html: >-
+  <p>Nousa is an independent, spontaneous clothing brand, designed with clean
+  contemporary lines, sartorial finishings and comfortable island vibes to
+  it.</p><p>We shot this in a stunning villa here in Canggu to express the
+  brand's image and the feel of its clothing.</p>
 categories:
   - fashion
   - featured
