@@ -5,7 +5,11 @@ subtitle: Wild Love Collection
 vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-r5g-8463.jpg
 featured-image-caption: Shot by Eyes of a Nomad
-intro-text_html:
+intro-text_html: >-
+  <p>Lulu Yasmine is an environmentally conscious fashion brand based here in
+  Bali.&nbsp;</p><p>We shot this campaign on a rocky beach in Uluwatu, South of
+  Bali. The collection is a mixture of edgy and feminine feels, we wanted to
+  capture that by combining some floral shots with rock and cliff shots.</p>
 categories:
   - fashion
   - featured
