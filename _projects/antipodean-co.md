@@ -83,6 +83,15 @@ gallery-images:
   - image_path: /uploads/insta-eoncopyright-r5g-6290.jpg
     aspect-ratio: portrait
     size: one-third
+  - image_path:
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5g-6743.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path: /uploads/insta-eoncopyright-r5g-5380.jpg
+    aspect-ratio: portrait
+    size: one-third
 gallery-text_html:
 layout: project
 _comments:
