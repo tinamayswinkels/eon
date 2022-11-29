@@ -5,7 +5,13 @@ subtitle:
 vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-r5e-5459-1.jpg
 featured-image-caption: 'Shot by Eyes of a Nomad '
-intro-text_html:
+intro-text_html: >-
+  <p>Antipodean Co. is a sustainable fun swim shorts brand. We loved shooting
+  for them because aside from their sustainable stance they are also a brand
+  that carries out fun, chill, and witty in their identity which we relate
+  to.</p><p>We shot these on a couple of different occasions, first with two
+  models on a white sand beach of Uluwatu here in Bali, and a second collection
+  with a different model on a black sand volcanic beach north-west of Bali.</p>
 categories:
   - fashion
   - featured
