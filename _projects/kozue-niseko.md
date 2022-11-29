@@ -2,7 +2,7 @@
 layout: project
 hidden: false
 title: Kozue Niseko
-subtitle: A penthouse on the slopes
+subtitle: A Penthouse on the Slopes
 vertical-heading: true
 featured_image: /images/kozue-niseko/eon-kozue-5.jpg
 featured-image-caption: Hotel Photography by Eyes of a Nomad
@@ -88,4 +88,3 @@ page_blocks:
 _comments:
   layout: Don't touch this
 ---
-

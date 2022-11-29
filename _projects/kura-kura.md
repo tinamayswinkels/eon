@@ -5,7 +5,10 @@ subtitle: Craft Beer Lifestyle Shoot
 vertical-heading: true
 featured_image: /images/kura-kura/FULLRES-EONCOPYRIGHT-R5B_8835.jpg
 featured-image-caption: Craft beer product shot by Eyes of the Nomad
-intro-text_html:
+intro-text_html: >-
+  <p>A lifestyle shoot for the leading craft beer company in Indonesia.</p><p>We
+  wanted to bring their audience into the feeling that the brand wants them to
+  have when they crack open an ice-cold can of Kura-Kura.&nbsp;</p>
 categories:
   - featured
   - product
