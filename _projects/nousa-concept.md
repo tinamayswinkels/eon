@@ -50,10 +50,10 @@ gallery-images:
   - image_path: /uploads/insta-eoncopyright-r5e-8288-2.jpg
     aspect-ratio: portrait
     size: two-thirds
-  - image_path: /uploads/insta-eoncopyright-pro-capture-one-9346.jpg
+  - image_path: /uploads/insta-eoncopyright-r5e-8493.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: /uploads/insta-eoncopyright-r5e-8493.jpg
+  - image_path: /uploads/insta-eoncopyright-pro-capture-one-9346.jpg
     aspect-ratio: portrait
     size: one-third
   - image_path: /uploads/insta-eoncopyright-pro-capture-one-9504.jpg
