@@ -1,11 +1,15 @@
 ---
 hidden: false
 title: MVMT
-subtitle: Swimwear brand
+subtitle: Be The Change 2021 Collection
 vertical-heading: true
 featured_image: /images/mvmt/eyesofanomad-mvmt-12.jpg
 featured-image-caption: Shot by Eyes of a Nomad
-intro-text_html:
+intro-text_html: >-
+  <p>Movement (MVMT) is a sustainable swim brand made from recycled
+  material.&nbsp;</p><p>One of the main briefs of this brand's campaign is
+  making every woman feel beautiful. We wanted to let the viewers see this
+  brand's mission.&nbsp;</p>
 categories:
   - fashion
   - featured
