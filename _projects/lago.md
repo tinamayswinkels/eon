@@ -5,7 +5,11 @@ subtitle: Luxury Villa in Lembongan
 vertical-heading: true
 featured_image: /images/lago/eon-lago-17.jpg
 featured-image-caption: Nusa Lembongan
-intro-text_html:
+intro-text_html: >-
+  <p>Lago is not just a luxury villa, it's a lifestyle, a community. So when we
+  were shooting for them we wanted to shoot more than just the venue, we
+  incorporate life into it with the people and activities in some of their
+  images yet still carrying that luxury island life feeling.</p>
 categories:
   - featured
   - lifestyle
