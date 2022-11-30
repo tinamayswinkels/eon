@@ -5,7 +5,11 @@ subtitle: Trendy hotel in Kuta, Bali
 vertical-heading: true
 featured_image: /images/mamaka/restaurant/eon-mamaka-restaurant-8.jpg
 featured-image-caption: Shot by Eyes of a Nomad
-intro-text_html:
+intro-text_html: >-
+  <p>Food photography is beyond just taking images of a dish or a restaurant.
+  For us, it's very important to ensure we bring aspects like it's ingredients
+  and vibe to really invigorate the viewer's appetite for said dish and
+  restaurant.</p>
 categories:
   - featured
   - venue
