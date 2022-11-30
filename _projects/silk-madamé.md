@@ -1,11 +1,16 @@
 ---
 hidden: false
-title: Silk Madamé
-subtitle:
+title: Silk Madame
+subtitle: Luxury Silk Lounge-wear Brand
 vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-r5f-0504.jpg
 featured-image-caption: Shot by Eyes of a Nomad
-intro-text_html:
+intro-text_html: >-
+  <p>This luxury loungewear and pyjamas brand had a feminine, girl-next-door
+  feel to it. When we shot for them we knew we wanted to bring that feeling into
+  the images.</p><p>We used very soft tones, shadows, and editing to create that
+  mood. We also combined a lot of lifestyle images to create relatability to its
+  customers.</p>
 categories:
   - fashion
   - featured
