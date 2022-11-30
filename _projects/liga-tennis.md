@@ -5,7 +5,10 @@ subtitle: Tennis Court Club
 vertical-heading: true
 featured_image: /images/liga-tennis/eyesofanomad-liga-4.jpg
 featured-image-caption: Shot by Eyes of a Nomad
-intro-text_html:
+intro-text_html: >-
+  <p>The leading tennis club in Bali. We had to use a lot of drone shots to
+  capture the scale of the courts. We also incorporated some lifestyle aspects
+  into it to help create a sense of yearning to play tennis.</p>
 categories:
   - featured
   - venue
