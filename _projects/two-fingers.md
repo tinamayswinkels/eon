@@ -5,7 +5,11 @@ subtitle: Mexican Restaurant in Canggu, Bali
 vertical-heading: true
 featured_image: /images/two-fingers/eon-two-fingers-36.jpg
 featured-image-caption: 'Shot by Eyes of a Nomad '
-intro-text_html:
+intro-text_html: >-
+  <p>Two Fingers was a hip and trendy restaurant with edgy branding. We brought
+  all these brand identities with our food photography and instead of doing
+  traditional food photography, we brought more on to the artsy side. This was
+  definitely a fun shoot to do.</p>
 categories:
   - featured
   - Food
