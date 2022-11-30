@@ -5,7 +5,14 @@ subtitle: Artisanal Jewellery Maker
 vertical-heading: true
 featured_image: /images/taranoelle-jewellery/eyesofanomad-taranoelle-22.jpg
 featured-image-caption: Shot by Eyes of a Nomad in his studio
-intro-text_html:
+intro-text_html: >-
+  <p>Ethically sourced gemstones, diamonds and gold artisanal jewellery created
+  by the talented Tara Noelle herself. She based herself in Bali and her designs
+  are influenced by the beauty of the island.</p><p>For her lookbook shoot,
+  though it's done in a studio, we wanted to bring out the island aspect that
+  would really bring out the fine jewels itself. So we chose the locally sourced
+  volcanic rocks and sand which gives the pieces a stunning contrast in the
+  images.</p>
 categories:
   - featured
   - jewellery
