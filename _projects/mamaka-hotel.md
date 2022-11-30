@@ -5,7 +5,11 @@ subtitle: Trendy hotel in Kuta, Bali
 vertical-heading: true
 featured_image: /images/mamaka/venue/eon-mamaka-venue-1.jpg
 featured-image-caption: Shot by Eyes of a Nomad
-intro-text_html:
+intro-text_html: >-
+  <p>A chic hotel located in the famous Kuta area. They're not just your average
+  hotel but they're giving you that fun, modern and trendy feeling to it. We
+  wanted to capture exactly that!</p><p>The brief for this shoot was to not only
+  capture the venue but also the lifestyle that the hotel is providing.</p>
 categories:
   - featured
   - venue
