@@ -1,7 +1,7 @@
 ---
 hidden: false
 title: Silk Madame
-subtitle: Luxury Silk Lounge-wear Brand
+subtitle: Luxury Silk Loungewear Brand
 vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-r5f-0504.jpg
 featured-image-caption: Shot by Eyes of a Nomad
