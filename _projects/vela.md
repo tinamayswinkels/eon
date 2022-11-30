@@ -5,7 +5,12 @@ subtitle: Luxury Sailing Yacht
 vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-fullres-eoncopyright-dji-0518-2.jpg
 featured-image-caption: Drone Shot by Eyes of a Nomad over Komodo Islands
-intro-text_html:
+intro-text_html: >-
+  <p>VELA is one of the biggest and most luxurious sailing yacht in Indonesia.
+  We were super excited to be shooting their content and do a Komodo trip on
+  it.</p><p>We wanted to showcase the yacht in a way that brings its luxury to
+  its audience. We wanted to show the fine details, and a touch of life to make
+  the viewers feel like the image could be of them on that boat.&nbsp;</p>
 categories:
   - featured
 campaign:
@@ -46,12 +51,27 @@ gallery-images:
   - image_path: /uploads/insta-eoncopyright-dji-0488.jpg
     aspect-ratio: landscape
     size: full-width
-  - image_path: /uploads/insta-eoncopyright-r5f-1468.jpg
-    aspect-ratio: landscape
-    size: two-thirds
   - image_path: /uploads/insta-eoncopyright-r5f-5791.jpg
     aspect-ratio: portrait
     size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5f-1468.jpg
+    aspect-ratio: landscape
+    size: two-thirds
+  - image_path: /uploads/insta-eoncopyright-r5f-6136.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/insta-eoncopyright-dsc08714.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5f-3370.jpg
+    aspect-ratio: portrait
+    size: one-third
+  - image_path: /uploads/insta-eoncopyright-r5f-4892-2.jpg
+    aspect-ratio: portrait
+    size: one-half
+  - image_path: /uploads/insta-eoncopyright-r5f-4713.jpg
+    aspect-ratio: portrait
+    size: one-half
 gallery-text_html:
 layout: project
 _comments:
