@@ -5,7 +5,11 @@ subtitle: Stunning holiday home in Marrakech
 vertical-heading: true
 featured_image: /images/riad-shiraz/eon-riad-17.jpg
 featured-image-caption: Shot by Eyes of a Nomad
-intro-text_html:
+intro-text_html: >-
+  <p>A splendid house in the heart of Marrakech with its own private hammam spa.
+  We were thrilled to have been able to travel and stay here and more
+  importantly captured not only the beauty of this house but also the stunning
+  Marrakech.</p>
 categories:
   - featured
   - venue
