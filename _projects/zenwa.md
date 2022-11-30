@@ -5,7 +5,12 @@ subtitle: Fashion brand
 vertical-heading: true
 featured_image: /images/zenwa/eon-zenwa-17.jpg
 featured-image-caption: Shot by Eyes of a Nomad in Uluwatu, Bali
-intro-text_html:
+intro-text_html: >-
+  <p>A handwoven sustainable wear brand that drew inspiration from some
+  Indonesian cultural arts. We shot this on a limestone cliff area down south of
+  Bali in Uluwatu. We chose this spot for its good natural negative space that
+  allows the clothing to be the focus of the image, yet still bringing that raw
+  natural element to the campaign.</p>
 categories:
   - fashion
   - featured
