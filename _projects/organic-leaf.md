@@ -5,7 +5,10 @@ subtitle: Skincare Product
 vertical-heading: true
 featured_image: /images/organic-leaf/eon-organic-leaf-1.jpg
 featured-image-caption: Shot by Eyes of a Nomad in his studio
-intro-text_html:
+intro-text_html: >-
+  <p>An all-natural skincare product shoot that we did in our own studio. We
+  used natural tones and props to bring the brand identity across the
+  images.</p>
 categories:
   - featured
   - product
