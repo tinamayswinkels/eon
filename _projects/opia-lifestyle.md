@@ -5,7 +5,10 @@ subtitle: Restaurant in Jimbaran
 vertical-heading: true
 featured_image: /images/opia-pepeneros/archived/Pepeneros/EONCLIENT_5DM48565.jpg
 featured-image-caption: Shot by Eyes of a Nomad
-intro-text_html:
+intro-text_html: >-
+  <p>Opia is more than just a restaurant. It is also a stunning venue for
+  various functions from private parties, to weddings, and even fashion shows.
+  We wanted to showcase this versatility through the images.</p>
 categories:
   - featured
   - venue
