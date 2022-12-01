@@ -123,7 +123,6 @@ gallery-images:
   - image_path: /images/acaya/eyesofanomad-acaya-30.jpg
     alt: This is the alt text
     size: one-half
-
 gallery-text_html:
 layout: project
 _comments:
