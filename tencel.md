@@ -33,30 +33,39 @@ page_blocks:
       - image_path: /images/uma-night/eon-uma-night-49.jpg
         aspect-ratio: landscape
         size: one-half
+        alt: temp
       - image_path: /images/forsoul-2019/eon-forsoul-41.jpg
         aspect-ratio: landscape
         size: one-half
+        alt: temp
       - image_path: /images/liq-bikini/eon-liq-27.jpg
         aspect-ratio: portrait-tall
         size: one-third
+        alt: temp
       - image_path: /images/jane-riverhouse/eon-jane-10.jpg
         aspect-ratio: portrait-tall
         size: one-third
+        alt: temp
       - image_path: /images/uma-alure/eon-uma-alure-8.jpg
         aspect-ratio: portrait-tall
         size: one-third
+        alt: temp
       - image_path: /images/zenwa/eon-zenwa-2.jpg
         aspect-ratio: portrait
         size: one-third
+        alt: temp
       - image_path: /images/forsoul-2020/eon-forsoul2020-5.jpg
         aspect-ratio: portrait
         size: one-third
+        alt: temp
       - image_path: /images/rachel-north/eon-rachnorth-6.jpg
         aspect-ratio: portrait
         size: one-third
+        alt: temp
       - image_path: /images/uma-resort/eon-uma-resort-5.jpg
         aspect-ratio: landscape
         size: full-width
+        alt: temp
     gallery-text_html:
   - _id: gallery
     block-classes:
@@ -72,12 +81,15 @@ page_blocks:
       - image_path: /images/uma-2020/eon-uma2020-22.jpg
         aspect-ratio: portrait-tall
         size: one-third
+        alt: temp
       - image_path: /images/uma-2020/eon-uma2020-20.jpg
         aspect-ratio: portrait-tall
         size: one-third
+        alt: temp
       - image_path: /images/uma-2020/eon-uma2020-23.jpg
         aspect-ratio: portrait-tall
         size: one-third
+        alt: temp
     gallery-text_html:
 
 ---

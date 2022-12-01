@@ -22,7 +22,9 @@
     {% for project in site.projects reversed %}
 
             <a href="{{project.url}}" class="mob-portfolio-item col-3_md-6_sm-10 padded-1">
-              <div class="big-image" style="background-image:url('{{project.image1_path}}');"></div>
+              <div class="big-image">
+                <img src="{{project.image1_path}}" class="img-overlay" alt="{{project.title}}">
+              </div>
               <h4 class="uppercase"> {{project.title}} </h4>
             </a>
 

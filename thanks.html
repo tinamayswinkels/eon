@@ -2,6 +2,7 @@
 layout: default
 title: Thanks | Eyes of a Nomad
 footer_image: /images/placeholder-2.jpg
+footer_alt: temp
 header-class: on-top
 ---
 
@@ -22,7 +23,9 @@ header-class: on-top
 
 <!--  Banner Image  -->
 
-<section class="banner tall-50" style="background-image:url({{page.footer_image}});">
+<section class="banner tall-50">
+  <img src="{{page.footer_image}}" class="img-overlay" alt="{{page.footer_alt}}">
+
 
 </section>
 

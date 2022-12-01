@@ -3,6 +3,7 @@ layout: default
 banner_image: /images/uma-alure/eon-uma-alure-10.jpg
 photography-1_image: /images/forsoul-2019/eon-forsoul-23.jpg
 photography-2_image: /images/uma-resort/eon-uma-resort-5.jpg
+photography-2-alt: temp
 photography-gallery:
   - /images/liq-bikini/eon-liq-29.jpg
   - /images/asri-swim/eon-asri-19.jpg
@@ -10,6 +11,13 @@ photography-gallery:
   - /images/botanist/eon-botanist-1.jpg
   - /images/alex-hossick/eon-hossick-29.jpg
   - /images/linjer-1/eon-linjer-36.jpg
+photography-gallery-alt:
+  - /images/liq-bikini/eon-liq-29.jpg
+  - /images/asri-swim/eon-asri-19.jpg
+  - /images/uma-2020/eon-uma2020-21.jpg
+  - temp
+  - temp
+  - temp
 videography-2_image: /images/forsoul-2019/eon-forsoul-1.jpg
 services:
   - name: Fashion
@@ -97,7 +105,9 @@ services:
     </p>
   </div>
   <div class="col-6_sm-12 padded-l-10p">
-    <div class="margin-top-2 bg-image lazy square bump-right mob-bump-0" style="background-image:url({{page.photography-2_image}})"></div>
+    <div class="margin-top-2 bg-image lazy square bump-right mob-bump-0">
+      <img src="{{page.photography-2_image}}" class="img-overlay" alt="{{page.photography-2-alt}}">
+    </div>
   </div>
   <div class="col-5_sm-12-middle padded centered">
 
@@ -128,16 +138,27 @@ services:
 <!-- Photography Gallery  -->
 <section class="padded grid-center mixed-gallery padded-t-0">
   <div class="col-4">
-    <a href="{{page.photography-gallery[0]}}" data-fancybox="gallery" class="bg-image landscape lazy" style="background-image:url({{page.photography-gallery[0]}}"> </a>
-    <a href="{{page.photography-gallery[1]}}" data-fancybox="gallery" class="bg-image portrait lazy" style="background-image:url({{page.photography-gallery[1]}}"> </a>
+    <a href="{{page.photography-gallery[0]}}" data-fancybox="gallery" class="bg-image landscape lazy relative">
+      <img src="{{page.photography-gallery[0]}}" class="img-overlay" alt="{{item.alt}}">
+    </a>
+    <a href="{{page.photography-gallery[1]}}" data-fancybox="gallery" class="bg-image portrait lazy relative"><img src="{{page.photography-gallery[1]}}" class="img-overlay" alt="{{item.alt}}">
+ </a>
   </div>
   <div class="col-3">
-      <a href="{{page.photography-gallery[2]}}" data-fancybox="gallery" class="bg-image tall-portrait lazy" style="background-image:url({{page.photography-gallery[2]}}"> </a>
-    <a href="{{page.photography-gallery[3]}}" data-fancybox="gallery" class="bg-image tall-portrait lazy" style="background-image:url({{page.photography-gallery[3]}}"> </a>
+      <a href="{{page.photography-gallery[2]}}" data-fancybox="gallery" class="bg-image tall-portrait lazy relative">
+        <img src="{{page.photography-gallery[2]}}" class="img-overlay" alt="{{item.alt}}">
+ </a>
+    <a href="{{page.photography-gallery[3]}}" data-fancybox="gallery" class="bg-image tall-portrait lazy relative">
+      <img src="{{page.photography-gallery[3]}}" class="img-overlay" alt="{{item.alt}}">
+ </a>
   </div>
   <div class="col-4">
-    <a href="{{page.photography-gallery[4]}}" data-fancybox="gallery" class="bg-image portrait lazy" style="background-image:url({{page.photography-gallery[4]}}"> </a>
-    <a href="{{page.photography-gallery[5]}}" data-fancybox="gallery" class="bg-image landscape lazy" style="background-image:url({{page.photography-gallery[5]}}"> </a>
+    <a href="{{page.photography-gallery[4]}}" data-fancybox="gallery" class="bg-image portrait lazy relative">
+      <img src="{{page.photography-gallery[4]}}" class="img-overlay" alt="{{item.alt}}">
+ </a>
+    <a href="{{page.photography-gallery[5]}}" data-fancybox="gallery" class="bg-image landscape lazy relative">
+      <img src="{{page.photography-gallery[5]}}" class="img-overlay" alt="{{item.alt}}">
+ </a>
   </div>
   <div class="col-12 right padded-1">
       <a href="/contact" class="subtle-button"> Make an Enquiry > </a>
@@ -272,7 +293,10 @@ services:
     </p>
   </div>
   <div class="col-6_sm-12 padded-l-10p">
-    <div class="margin-top-2 bg-image lazy square bump-right mob-bump-0" style="background-image:url({{page.photography-2_image}})"></div>
+    <div class="margin-top-2 bg-image lazy square bump-right mob-bump-0 relative" >
+            <img src="{{item.image_path}}" class="img-overlay" alt="{{page.title}}">
+
+    </div>
   </div>
   <div class="col-5_sm-12-middle padded centered">
 
@@ -302,7 +326,8 @@ services:
 
     {% for service in page.services %}
     <div class="col-4">
-      <a class="grid bg-image lazy" href="/services/{{service.name}}" style="background-image:url('{{service.image_path}}')">
+      <a class="grid bg-image lazy" href="/services/{{service.name}}">
+        <img src="{{service.image_path}}" class="img-overlay" alt="{{service.title}}">
         <h3 class="col-12-bottom big-bold padded-1"> {{service.name}}.</h3>
         <div class="overlay gradient">
         </div>

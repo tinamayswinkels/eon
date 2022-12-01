@@ -13,7 +13,10 @@
 
         <a href="{{project.url}}" class="grid col-9_md-12 no-padding">
           <div class="col-4 no-padding">
-            <div class="vert-image" style="background-image:url('{{project.featured_image}}');"></div>
+            <div class="vert-image" style="background-image:url('{{project.featured_image}}');">
+              <img src="{{project.featured_image}}" class="img-overlay" alt="{{project.title}}">
+
+            </div>
           </div>
           <div class="col-4 no-padding">
             <div class="vert-image" style="background-image:url('{{project.image2_path}}');"></div>
@@ -27,7 +30,7 @@
 
         <a href="{{project.url}}" class="grid col-9_md-12 no-padding">
           <div class="col-8 no-padding">
-            <div class="big-image" style="background-image:url('{{project.featured_image}}');"></div>
+            <div class="big-image" style="background-image:url('{{project.featured_image}}');"> </div>
           </div>
           <div class="col-4 no-padding">
             <div class="sm-image" style="background-image:url('{{project.image2_path}}');"></div>

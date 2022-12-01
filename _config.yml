@@ -195,6 +195,7 @@ _array_structures:
       image_path:
       aspect-ratio: portrait
       size: one-third
+      alt: 
   slider-images:
     label: Slider Images
     icon: collections

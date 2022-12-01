@@ -15,7 +15,8 @@
   {% for image in include.block.slider-images %}
 
   <div class="slick-item">
-    <div class="bg-image {{include.block.aspect-ratio}}" style="background-image:url('{{image.image_path}}')">
+    <div class="bg-image {{include.block.aspect-ratio}} relative">
+      <img src="{{image.image_path}}" class="img-overlay" alt="{{image.alt}}" loading="lazy">
     </div>
   </div>
 

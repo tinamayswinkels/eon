@@ -45,16 +45,17 @@ $(document).ready(function() {
 
 // Animate on Scroll
 
-$(function() {
-	AOS.init({
-		delay: 100,
-		offset: 100,
-		mirror: true,
-		duration: 1000
+// $(function() {
+// 	AOS.init({
+// 		delay: 100,
+// 		offset: 100,
+// 		mirror: true,
+// 		duration: 1000
 
-	});
+// 	});
+// });
 
-	window.addEventListener('load', AOS.refresh);
+// 	window.addEventListener('load', AOS.refresh);
 
 
 // Homepage hover gallery
@@ -80,7 +81,7 @@ $(function() {
 
 });
 
-}); // End document ready
+ // End document ready
 
 
 // End JQuery, add vanilla javascript
