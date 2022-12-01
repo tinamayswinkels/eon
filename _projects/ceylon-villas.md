@@ -3,7 +3,7 @@ hidden: false
 title: Ceylon Villas
 subtitle: Villa in Ubud
 vertical-heading: true
-featured_image: /images/ceylon-villa/eon-ceylon-villa-8.jpg
+featured_image: /images/ceylon-villa/eon-ceylon-villa-7.jpg
 featured-image-caption: Stunning villa in serene Ubud
 intro-text_html: >-
   <p>Capturing not only the stunning property but also the feeling of being in
