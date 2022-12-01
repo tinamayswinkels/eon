@@ -33,43 +33,97 @@ campaign:
     her.</p>
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0733.jpg
+  - image_path: /images/acaya/eyesofanomad-acaya-1.jpg
     alt: This is the alt text
-    size: one-third
-  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0512.jpg
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-2.jpg
     alt: This is the alt text
-    size: one-third
-    aspect-ratio: portait
-  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0420.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0753.jpg
-    aspect-ratio: landscape
-    size: two-thirds
-  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0576.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_0547.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /uploads/fullres-eoncopyright-fullres-eoncopyright-r5c-9980.jpg
-    aspect-ratio: landscape
-    size: two-thirds
-  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_8892.jpg
-    aspect-ratio: landscape
-    size: two-thirds
-  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_9405.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_0073.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_9249.jpg
-    aspect-ratio: portrait
-    size: one-third
-  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-R5C_0254.jpg
-    aspect-ratio: portrait
-    size: one-third
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-3.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-4.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-5.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-6.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-7.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-8.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-9.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-10.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-11.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-12.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-13.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-14.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-15.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-16.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-17.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-18.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-19.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-20.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-21.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-22.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-23.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-24.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-25.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-26.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-27.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-28.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-29.jpg
+    alt: This is the alt text
+    size: one-half
+  - image_path: /images/acaya/eyesofanomad-acaya-30.jpg
+    alt: This is the alt text
+    size: one-half
+
 gallery-text_html:
 layout: project
 _comments:
