@@ -1,5 +1,5 @@
 ---
-hidden: false
+hidden: true
 title: Silk Madame
 subtitle: Luxury Silk Loungewear Brand
 vertical-heading: true
