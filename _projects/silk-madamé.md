@@ -1,7 +1,7 @@
 ---
 hidden: true
-title: Silk Madame
-subtitle: Luxury Silk Loungewear Brand
+title: Luxury Silk Loungewear
+subtitle: The most luxurious silk pajamas
 vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-r5f-0504.jpg
 featured-image-caption: Shot by Eyes of a Nomad
