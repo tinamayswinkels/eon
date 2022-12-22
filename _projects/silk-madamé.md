@@ -9,7 +9,8 @@ intro-text_html: >-
   <p>Campaign shoot for a luxury silk pyjama brand done in a beautiful, stylish
   yet homey villa in Canggu, Bali.</p><p>We wanted this campaign to be
   aspirational yet relatable. We carefully selected the venue, models, and even
-  props and styling of the shoot to help achieve that.</p>
+  props and styling of the shoot to help achieve that.<br /><br /><a
+  href="https://silkmadame.com/">View the collection live</a></p>
 categories:
   - fashion
   - featured
