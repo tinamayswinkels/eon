@@ -1,7 +1,7 @@
 ---
 hidden: true
 title: Luxury Silk Pyjamas
-subtitle: The most luxurious silk pajamas
+subtitle: Mulberry silk loungewear
 vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-r5f-0504.jpg
 featured-image-caption: Shot by Eyes of a Nomad
