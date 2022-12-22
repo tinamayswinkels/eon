@@ -1,6 +1,6 @@
 ---
 hidden: true
-title: Luxury Silk Pyjamas
+title: Silk Pyjamas
 subtitle: Mulberry silk loungewear
 vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-r5f-0504.jpg
