@@ -1,6 +1,6 @@
 ---
 hidden: true
-title: Luxury Silk Loungewear
+title: Luxury Silk Pyjamas
 subtitle: The most luxurious silk pajamas
 vertical-heading: true
 featured_image: /uploads/insta-eoncopyright-r5f-0504.jpg
