@@ -1,6 +1,11 @@
 ---
 layout: service
-title: Fashion Photography
+title: Fashion Photography | Eyes of a Nomad
+meta-description: >-
+  Eyes of a Nomad is Emilio Kuzma, a full-time photographer specialising in
+  fashion, swim and lifestyle in Bali, working with local and international
+  brands.
+meta-keywords: book a fashion photography shoot in bali, fashion photographer in Bali
 category: fashion
 featured_image: /images/placeholder-2.jpg
 intro-text_html: >-
