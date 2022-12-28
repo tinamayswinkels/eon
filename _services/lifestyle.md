@@ -1,6 +1,11 @@
 ---
 layout: service
-title: Lifestyle Photography
+title: Lifestyle Photography | Eyes of a Nomad
+meta-description: >-
+  Eyes of a Nomad is Emilio Kuzma, a full-time photographer specialising in
+  fashion, swim and lifestyle in Bali, working with local and international
+  brands.
+meta-keywords: eyes of a nomad, photographer in bali, emilio kuzma
 category: lifestyle
 featured_image: /images/riverhouse/EON-riverhouse-28.jpg
 intro-text_html: >-
