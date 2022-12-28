@@ -1,6 +1,10 @@
 ---
 layout: service
-title: Food Photography
+title: Food Photography | Eyes of a Nomad
+meta-description: >-
+  We've worked with some of the top restaurants, cafes and bars in Bali and we
+  would love to capture your incredible food, venue and dining experience.
+meta-keywords: hire a food photographer in bali, book a food photography shoot in bali
 category: food
 featured_image: /images/front-cafe/eon-front-11.jpg
 intro-text_html: >-
@@ -19,7 +23,8 @@ page_blocks:
       <h2 id="photography--videography-for-cafes-in-bali"
       class="align-to-center">Menu Photography</h2><p
       class="align-to-center">Want to create a visual menu on instagram or your
-      website? We are strong believers of telling a story through creative imagery, and bringing even the simplest of dishes to life. </p><p
+      website? We are strong believers of telling a story through creative
+      imagery, and bringing even the simplest of dishes to life. </p><p
       class="align-to-center">&nbsp;</p>
     gallery-images:
       - image_path: /images/front-cafe/eon-front-16.jpg
