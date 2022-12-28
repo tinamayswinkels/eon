@@ -2,15 +2,17 @@
 layout: service
 title: Product Photography
 meta-description: >-
-  Eyes of a Nomad is Emilio Kuzma, a full-time photographer specialising in
-  fashion, swim and lifestyle in Bali, working with local and international
-  brands.
+  We work with brands in Bali and worldwide to create stunning product
+  photography for e-commerce and advertising campaigns that can really sell
+  online.
 meta-keywords: product photographer in bali, book a product shoot in bali
 category: product
 featured_image: /images/pepito/eon-pepito-30.jpg
 intro-text_html: >-
-  <p>We can create stunning studio &amp; lifestyle images of your products, and will make sure you have images that can really sell online. From e-commerce photos, an advertising campaign or still life shots, we've got all your product
-  photography needs covered (for brands in Bali or all over the
+  <p>We can create stunning studio &amp; lifestyle images of your products, and
+  will make sure you have images that can really sell online. From e-commerce
+  photos, an advertising campaign or still life shots, we've got all your
+  product photography needs covered (for brands in Bali or all over the
   world).&nbsp;</p>
 page_blocks:
   - _id: gallery
@@ -20,8 +22,10 @@ page_blocks:
       <h2 id="photography--videography-for-cafes-in-bali"
       class="align-to-center">Studio Product &amp; Ecommerce Photography</h2><p
       class="align-to-center">With a professional photography studio right here
-      in Canggu, Bali we can capture all your studio photography
-      needs. Our studio is set up to offer all kinds of product photography from cut-outs with transparent background to more styled shoots, and playing with textures and shadows. </p><p class="align-to-center">&nbsp;</p>
+      in Canggu, Bali we can capture all your studio photography needs. Our
+      studio is set up to offer all kinds of product photography from cut-outs
+      with transparent background to more styled shoots, and playing with
+      textures and shadows. </p><p class="align-to-center">&nbsp;</p>
     gallery-images:
       - image_path: /images/asri-swim/eon-asri-cut-1.png
         aspect-ratio: portrait
@@ -64,7 +68,9 @@ page_blocks:
       <h2>Product Unboxing &amp; Creative Photography</h2><p>Beyond your
       standard product photography, we can help capture creative imagery that
       conjures an emotive response and gets your audience excited about your
-      product.&nbsp;</p><p> Some of the shots below for example we worked with a major supermarket brand to showcase their products 'in use' through styled recipes and playful motion. <p>&nbsp;</p>
+      product.&nbsp;</p><p> Some of the shots below for example we worked with a
+      major supermarket brand to showcase their products 'in use' through styled
+      recipes and playful motion. <p>&nbsp;</p>
     gallery-images:
       - image_path: /images/alex-hossick/hossick-product-1.jpg
         aspect-ratio: portrait
@@ -96,15 +102,15 @@ page_blocks:
       - image_path: /images/pepito/eon-gourmet8.jpg
         aspect-ratio: portrait
         size: one-half
-
     gallery-text_html:
   - _id: gallery
     block-classes:
       - padded-tall
     heading_html: >-
       <h2>Lifestyle Product Photography</h2><p>Show your product in action, in
-      beautifully styled shots in the studio or at locations across
-      Bali. This is the content that can really help product-based brands to stand out from the crowd and build a recognizable brand image.</p><p>&nbsp;</p>
+      beautifully styled shots in the studio or at locations across Bali. This
+      is the content that can really help product-based brands to stand out from
+      the crowd and build a recognizable brand image.</p><p>&nbsp;</p>
     gallery-images:
       - image_path: /images/alex-hossick/eon-hossick-11.jpg
         aspect-ratio: portrait
