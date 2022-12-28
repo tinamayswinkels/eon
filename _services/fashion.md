@@ -1,6 +1,6 @@
 ---
 layout: service
-title: Fashion Photography | Eyes of a Nomad
+title: Fashion Photography | Eyes of a Nomad | Photographer in Bali
 meta-description: >-
   Looking for a fashion photographer in Bali, or a remote team to run a
   destination campaign in this stunning tropical island? Let's work together!
