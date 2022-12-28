@@ -2,9 +2,8 @@
 layout: service
 title: Fashion Photography | Eyes of a Nomad
 meta-description: >-
-  Eyes of a Nomad is Emilio Kuzma, a full-time photographer specialising in
-  fashion, swim and lifestyle in Bali, working with local and international
-  brands.
+  Looking for a fashion photographer in Bali, or a remote team to run a
+  destination campaign in this stunning tropical island? Let's work together!
 meta-keywords: book a fashion photography shoot in bali, fashion photographer in Bali
 category: fashion
 featured_image: /images/placeholder-2.jpg
@@ -39,12 +38,12 @@ page_blocks:
     heading_html: >-
       <h2 id="photography--videography-for-cafes-in-bali"
       class="align-to-center">Editorial &amp; Lifestyle Photography</h2><p
-      class="align-to-center">
-      One-off or monthly lifestyle shoots are perfect for filling your social
-      media with beautiful content that tells a story, and drives customers to
-      purchase. We can also put together bigger creative editorial campaigns,
-      helping with model selection and castings, location scouting, creation of
-      moodboards etc.</p><p class="align-to-center">&nbsp;</p>
+      class="align-to-center"> One-off or monthly lifestyle shoots are perfect
+      for filling your social media with beautiful content that tells a story,
+      and drives customers to purchase. We can also put together bigger creative
+      editorial campaigns, helping with model selection and castings, location
+      scouting, creation of moodboards etc.</p><p
+      class="align-to-center">&nbsp;</p>
     gallery-images:
       - image_path: /images/uma-night/eon-uma-night-49.jpg
         aspect-ratio: landscape
@@ -132,4 +131,3 @@ page_blocks:
       marketing strategy &amp; social media management. Here are a few examples
       of instagram grid's we've created for clients.</p>
 ---
-
