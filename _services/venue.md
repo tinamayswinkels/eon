@@ -5,7 +5,7 @@ meta-description: >-
   Eyes of a Nomad is Emilio Kuzma, a full-time photographer specialising in
   fashion, swim and lifestyle in Bali, working with local and international
   brands.
-meta-keywords: venue photographer in bali, hotel photographer in bali
+meta-keywords: venue photographer in bali, hotel photographer in bali, hotel resort photography bali 
 category: venue
 featured_image: /images/ulu-cliffhouse/eon-cliffhouse-8.jpg
 intro-text_html: >-
