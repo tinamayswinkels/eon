@@ -1,6 +1,11 @@
 ---
 layout: service
 title: Product Photography
+meta-description: >-
+  Eyes of a Nomad is Emilio Kuzma, a full-time photographer specialising in
+  fashion, swim and lifestyle in Bali, working with local and international
+  brands.
+meta-keywords: product photographer in bali, book a product shoot in bali
 category: product
 featured_image: /images/pepito/eon-pepito-30.jpg
 intro-text_html: >-
