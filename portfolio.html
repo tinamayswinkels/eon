@@ -2,13 +2,11 @@
 layout: default
 title: Portfolio | Eyes of a Nomad
 meta-description: >-
-  Eyes of a Nomad is Emilio Kuzma, a full-time photographer specialising in
-  fashion, swim and lifestyle in Bali, working with local and international
-  brands.
-meta-keywords:
+  I’ve worked with some incredible brands both in Bali and worldwide, capturing
+  and telling their individual story through the way I plan, shoot and edit.
+meta-keywords: kelapa creative portfolio, emilio kuzma portfolio, eyes of a nomad portfolio
 featured_image: /images/uma-2020/eon-uma2020-30.jpg
 ---
-
 <!-- Intro Banner  -->
 <section class="grid">
   <div class="col-5_sm-3 relative">
@@ -20,15 +18,14 @@ featured_image: /images/uma-2020/eon-uma2020-30.jpg
 <!-- Portfolio Loop Section  -->
 <section class="grid-spaceBetween portfolio padded mob-flex-flip">
   <div class="col-8_sm-12">
-    <div class="grid mob-horizontal-scroll"  id="portfolio">
+    <div class="grid mob-horizontal-scroll" id="portfolio">
 
       {% for project in site.projects reversed %}
 
           {% unless project.hidden == true %}
       <a class="col-4_sm-6_xs-10 padded-1 portfolio-item
       {% for category in project.categories %} {{category | downcase}} {% endfor %}
-      {% unless project.categories contains "featured" %} hidden {% endunless %}"
-      href="{{project.url}}">
+      {% unless project.categories contains "featured" %} hidden {% endunless %}" href="{{project.url}}">
         <div class="bg-image lazy" style="background-image:url('{{project.featured_image}}')"></div>
         <h2>{{project.title}}</h2>
         <p> {{project.subtitle}}</p>
@@ -49,7 +46,7 @@ featured_image: /images/uma-2020/eon-uma2020-30.jpg
           <a>Venue</a> /
           <a>Food</a> /
           <a>All</a>
-      </div>
+      </nav></div>
   </div>
 
 </section>
