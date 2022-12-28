@@ -4,7 +4,7 @@ title: Fashion Photography | Eyes of a Nomad
 meta-description: >-
   Looking for a fashion photographer in Bali, or a remote team to run a
   destination campaign in this stunning tropical island? Let's work together!
-meta-keywords: book a fashion photography shoot in bali, fashion photographer in Bali
+meta-keywords: book a fashion photography shoot in bali, hire a fashion photographer in Bali
 category: fashion
 featured_image: /images/placeholder-2.jpg
 intro-text_html: >-
