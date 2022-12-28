@@ -1,6 +1,6 @@
 ---
 layout: service
-title: Lifestyle Photography | Eyes of a Nomad
+title: Lifestyle Photography | Eyes of a Nomad | Photographer in Bali
 meta-description: >-
   Lifestyle photography can bring your marketing to life through showcasing
   human element on your content to help future guests see themselves in your
