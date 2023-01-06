@@ -116,4 +116,9 @@ page_blocks:
       href="http://www.kelapacreative.com">Kelapa Creative</a> we also offer
       marketing strategy &amp; social media management. Here are a few examples
       of instagram grid's we've created for clients.</p>
+seo: 
+  title: 
+  meta-description: >-
+    We've worked with some of the top restaurants, cafes and bars in Bali and we would love to capture your incredible food, venue and dining experience.
+  meta-keywords: hire a food photographer in bali, book a food photography shoot in bali
 ---
