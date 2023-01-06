@@ -1,6 +1,6 @@
 ---
 layout: service
-title: Product Photography | Eyes of a Nomad | Photographer in Bali
+title: Product Photography
 meta-description: >-
   We work with brands in Bali and worldwide to create stunning product
   photography for e-commerce and advertising campaigns that can really sell

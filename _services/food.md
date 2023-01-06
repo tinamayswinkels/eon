@@ -1,6 +1,6 @@
 ---
 layout: service
-title: Food Photography | Eyes of a Nomad | Photographer in Bali
+title: Food Photography
 meta-description: >-
   We've worked with some of the top restaurants, cafes and bars in Bali and we
   would love to capture your incredible food, venue and dining experience.

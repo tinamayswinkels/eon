@@ -1,6 +1,6 @@
 ---
 layout: service
-title: Venue Photography | Eyes of a Nomad | Photographer in Bali
+title: Venue Photography
 meta-description: >-
   We'll showcase the unique atmosphere of your space and capture that magical
   feeling when your guests walk through your venue or experience a stay with
