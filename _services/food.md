@@ -1,10 +1,6 @@
 ---
 layout: service
 title: Food Photography
-meta-description: >-
-  We've worked with some of the top restaurants, cafes and bars in Bali and we
-  would love to capture your incredible food, venue and dining experience.
-meta-keywords: hire a food photographer in bali, book a food photography shoot in bali
 category: food
 featured_image: /images/front-cafe/eon-front-11.jpg
 intro-text_html: >-
