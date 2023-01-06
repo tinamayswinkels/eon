@@ -1,11 +1,6 @@
 ---
 layout: service
 title: Product Photography
-meta-description: >-
-  We work with brands in Bali and worldwide to create stunning product
-  photography for e-commerce and advertising campaigns that can really sell
-  online.
-meta-keywords: product photographer in bali, book a product shoot in bali
 category: product
 featured_image: /images/pepito/eon-pepito-30.jpg
 intro-text_html: >-
@@ -162,4 +157,11 @@ page_blocks:
       photography through our creative agency Kelapa Creative we also offer
       marketing strategy &amp; social media management. Here are a few examples
       of instagram grid's we've created for clients.</p>
+seo:
+  title: Product Photography | Eyes of a Nomad | Photographer in Bali
+  meta-description: >-
+    We work with brands in Bali and worldwide to create stunning product
+    photography for e-commerce and advertising campaigns that can really sell
+    online.
+  meta-keywords: product photographer in bali, book a product shoot in bali
 ---
