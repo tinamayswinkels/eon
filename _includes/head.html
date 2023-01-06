@@ -14,12 +14,12 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
 
     <!--  Social media sharing META Tags -->
-    <meta property="og:title" content="{{page.title}}">
-    <meta property="og:description" content="{{page.meta-description}}">
-    <meta property="og:image" content="{{page.featured-image_path}}">
+    <meta property="og:title" content="{{page.seo.title | default: page.title}}">
+    <meta property="og:description" content="{{page.seo.meta-description}}">
+    <meta property="og:image" content="{{page.seo.featured-image_path}}">
     <meta property="og:url" content="{{page.url}}">
-    <meta name="twitter:card" content="{{page.meta-description}}">
-    <meta name="og:site_name" content="<!-- ADD SITE NAME HERE -->">
+    <meta name="twitter:card" content="{{page.seo.meta-description}}">
+    <meta name="og:site_name" content="Eyes of a Nomad | Bali Photographer">
 
 <!-- end of meta tags -->
 
