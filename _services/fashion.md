@@ -1,10 +1,6 @@
 ---
 layout: service
 title: Fashion Photography
-meta-description: >-
-  Looking for a fashion photographer in Bali, or a remote team to run a
-  destination campaign in this stunning tropical island? Let's work together!
-meta-keywords: book a fashion photography shoot in bali, hire a fashion photographer in Bali
 category: fashion
 featured_image: /images/placeholder-2.jpg
 intro-text_html: >-
@@ -130,4 +126,10 @@ page_blocks:
       photography through our creative agency Kelapa Creative we also offer
       marketing strategy &amp; social media management. Here are a few examples
       of instagram grid's we've created for clients.</p>
+seo: 
+  title: 
+  meta-description: >-
+    Looking for a fashion photographer in Bali, or a remote team to run a
+    destination campaign in this stunning tropical island? Let's work together!
+  meta-keywords: book a fashion photography shoot in bali, hire a fashion photographer in Bali
 ---
