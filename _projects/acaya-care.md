@@ -45,7 +45,7 @@ gallery-images:
   - image_path: /images/acaya/eyesofanomad-acaya-2.jpg
     alt: This is the alt text
     size: two-thirds
-  - image_path: /images/acaya/eyesofanomad-acaya-5.jpg
+  - image_path: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0628.jpg
     alt: This is the alt text
     size: one-third
   - image_path: /images/acaya/eyesofanomad-acaya-6.jpg
