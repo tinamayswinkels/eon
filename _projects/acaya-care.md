@@ -3,7 +3,7 @@ hidden: false
 title: Acaya Care
 subtitle: Eco-friendly skincare product
 vertical-heading: true
-featured_image: /images/acaya/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Acaya-Care0337.jpg
+featured_image: /images/acaya/eyesofanomad-acaya-13.jpg
 featured-image-caption: Shot by Eyes of a Nomad in his studio and Yuka Villa for the campaign shoot
 intro-text_html: >-
   <p>Acaya care is a sustainable skincare brand that focuses on creating
