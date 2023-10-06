@@ -9,8 +9,9 @@
   {% assign relevant-projects = site.projects | where_exp:"project", "project.categories contains page-category" %}
 
   {% assign related-projects = relevant-projects | where_exp:"project","project.url != page.url" %}
+  {% assign random-projects = related-projects | sample: 4 %}
 
-  {% for project in related-projects limit:4 %}
+  {% for project in random-projects %}
 
     {%  unless project.hidden == true %}
 
