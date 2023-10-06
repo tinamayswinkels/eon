@@ -32,21 +32,17 @@ campaign:
   team-text-3_html: This was the name of the stylist, and a little bit of a blurb about her.
   campaign_image: /images/placeholder-2.jpg
 gallery-images:
-  - image_path: >-
-      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0254.jpg
+  - image_path: /images/organic-leaf/eon-organic-leaf-10.jpg
     alt: This is the alt text
     size: full-width
-  - image_path: >-
-      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0190.jpg
+  - image_path: /images/organic-leaf/eon-organic-leaf-14.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: >-
-      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0306.jpg
+  - image_path: /images/organic-leaf/eon-organic-leaf-13.jpg
     alt: This is the alt text
-    size: two-thirds
-    aspect-ratio: landscape
-  - image_path: >-
-      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0119.jpg
+    size: one-third
+    aspect-ratio: portrait
+  - image_path: /images/organic-leaf/eon-organic-leaf-12.jpg
     aspect-ratio: portrait
     size: one-third
   - image_path: >-
