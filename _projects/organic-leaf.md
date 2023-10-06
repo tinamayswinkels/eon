@@ -45,14 +45,12 @@ gallery-images:
   - image_path: /images/organic-leaf/eon-organic-leaf-12.jpg
     aspect-ratio: portrait
     size: one-third
-  - image_path: >-
-      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0084.jpg
+  - image_path: /images/organic-leaf/eon-organic-leaf-25.jpg
     aspect-ratio: portrait
-    size: one-third
-  - image_path: >-
-      /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0260.jpg
+    size: full-width
+  - image_path: /images/organic-leaf/eon-organic-leaf-25.jpg
     aspect-ratio: portrait
-    size: one-third
+    size: one-half
   - image_path: >-
       /images/organic-leaf/FULLRES-EONCOPYRIGHT-FULLRES-EONCOPYRIGHT-Capture-One-Catalog0274-2.jpg
     aspect-ratio: landscape
